@@ -1,0 +1,718 @@
+ll
+pl of l 2.
+LL B, LL D, LL M
+abbrs 缩写 = Bachelor, Doctor, Master of Laws 法学学士、 博士、 硕士: have/be an LL B 有法学学士学位[为法学学士] * David Grafton LL B 戴维·格拉夫顿法学学士.
+llama
+/ 5lB:mE; `lBmE/ n S American animal with soft woolly hair, used for carrying loads 美洲驼（产於南美, 用作驮兽）.
+lo
+/ lEU; lo/ interj  1 (arch 古) look; see 看; 瞧.  2 (idm 习语) ,lo and be`hold (esp joc or ironic 尤作戏谑语或作反语) (used to indicate surprise 用以表示惊讶): As soon as we went out, lo and behold, it began to rain. 我们刚一出门, 你瞧, 就下起雨来了.
+load
+/ lEUd; lod/ n  1 [C] thing that is being carried or to be carried, esp if heavy 负荷物, 载荷物（尤指沉重的）: a load of sand 运载的一批沙子.  2 [C] (esp in compounds 尤用以构成复合词) quantity that can be carried, eg by a vehicle 运载的量: coach-loads of tourists 一车车的游客 * a boat-load of survivors 一船生还的人.  3 [C] (a) amount of work that a dynamo, a motor, an engine, etc is required to do （发电机、 电动机、 发动机等的）负载, 负荷. (b) amount of electric current supplied by a dynamo or generating station （发电机或发电站的）发电量.  4 [C usu sing 通常作单数] (fig 比喻) weight of responsibility, worry, grief, etc （责任、 忧虑、 悲哀等的）沉重感: a heavy load of guilt 沉重的负疚感.  5 loads (of sth) [pl] (infml 口) plenty (of sth) 大量; 许多: loads of friends, money, time 很多朋友、 金钱、 时间 * `Have you got any change?' `Loads!' ｀你有零钱吗?＇｀有的是!＇  6 (idm 习语) be/take a ,load/,weight off sb's `mind => mind1. a ,load of (old) `rubbish, etc (infml 口) nonsense 胡说八道: I've never heard such a load of garbage! 这麽胡说八道我还从来没听说过! get a load of sb/sth (infml 口) take notice of sb/sth 注意某人[某事物]: Get a load of that old bloke with the funny hat! 你瞧那戴怪帽子的家伙!
+load-shedding 
+n [U] cutting off the supply of electric current on certain lines when the general demand is greater than the available supply 甩负荷（电源过载时切断某些线路的电源）.
+load
+/ lEUd; lod/ v  1 (a) [I, Ip, Tn, Tn.pr, Tn.p] ~ (up)/~ (up with sth); ~ sth/sb (down/up) (with sth); ~ sth (into/onto sth/sb) put a load in or on (sth/sb) 装载; 使（某事物[某人]）负荷: We're still loading. 我们仍在装货. * load a lorry (up) with bricks/load bricks onto a lorry 把砖装进卡车里 * loaded down with shopping 拿著很多买来的东西 * (fig 比喻) load sb with honours 给某人许多荣誉. (b) [I] receive a load 接受负荷: The boat is still loading. 船仍在上货.  2 [Tn esp passive 尤用於被动语态] weight (sth) with lead, etc 用铅等加重（某物）: a loaded cane, stick, etc, ie for use as a weapon 加铅的手杖、 棒等（用作武器） * loaded dice, ie one weighted so as to fall in a certain way, eg with the six uppermost 灌铅色子（掷出後总以某面朝上, 如6点）.  3 (a) [I, Tn, Tn.pr] ~ sth (with sth) put film into (a camera) or ammunition into (a gun) 将胶卷装入（照相机）; 将弹药装入（枪炮）: Be careful, that gun's loaded. 小心, 那枪是上了膛的. (b) [Tn, Tn.pr] ~ sth (into sth) place (film or ammunition) thus 装（胶卷或弹药）: load a new film into the camera 把新胶卷装进照相机里.  4 [Tn] (computing 计) transfer (data or a program) from a storage medium into the memory of a computer 装入, 写入, 寄存（数据或程序）.  5 (idm 习语) load the dice (against sb) (usu passive 通常用於被动语态) put sb at a disadvantage 使某人处不利地位: Having lost both his parents when he was a child he always felt that the dice were loaded against him. 他因自小失去双亲, 总觉得处处受人欺负.
+loaded 
+adj  1 carrying a load 带负载的.  2 [pred 作表语] (sl 俚) very rich 富有; 阔绰.  3 (idm 习语) a ,loaded `question question intended to trap sb into saying sth which he does not want to say or which could harm him 有圈套的问题（诱人说出其不愿说或对其不利之事者）.
+loadstar
+= lodestar (lode).
+loadstone (also lodestone)
+/ 5lEUdstEUn; `lod9ston/ n (a) [U] magnetic oxide of iron 磁性氧化铁. (b) [C] piece of this used as a magnet 磁铁: (fig 比喻) She seems to be a loadstone for people in trouble, ie They come to her regularly for help. 对於患难中的人, 她彷佛是一块磁铁（人们常来求助）.
+loaf
+/ lEUf; lof/ n (pl loaves / lEUvz; lovz/)  1 mass of bread shaped and baked in one piece 大面包: Two brown loaves and one large white one, please. 请拿两个黑面包和一个大的白面包.  2 (idm 习语) half a loaf is better than none/than no bread (saying 谚) having to accept less than one expects, or feels that one deserves, is better than having nothing 接受半块面包总比没有好; 聊胜於无. use one's loaf => use1.
+loaf sugar 
+sugar in small lumps or cubes 块糖; 方糖.
+loaf
+/ lEUf; lof/ v [I, Ipr, Ip] (infml 口) spend time idly 虚度光阴: Don't stand there loafing  there's work to be done. 别站在那儿呆著--有事要干呢. * loaf around (the house all day) （成天在家）闲混.
+loafer 
+n  1 idler 虚度光阴者; 游手好闲者.  2 (esp US) flat shoe, similar to a moccasin, for casual wear 平底便鞋.
+loam
+/ lEUm; lom/ n [U] rich soil containing clay, sand and decayed vegetable matter 壤土. 
+loamy 
+adj: loamy land 壤土地.
+loan
+/ lEUn; lon/ n  1 [C] thing that is lent, esp a sum of money 借出物; （尤指）借款: I'm only asking for a loan  I'll pay you back. 我只要求借款--日後一定奉还. * a bank loan, ie money lent by a bank 银行贷款.  2 [U] lending or being lent (used esp as in the expressions shown) 借出（尤用於下列示例）: May I have the loan of (ie borrow) your bicycle? 可以借你的自行车用用吗? * Can we ask your father for the loan of his car? 我们可以向你父亲借用他的汽车吗? * It's not my book  I've got it on loan from the library. 那不是我的书--是从图书馆借来的.
+loan 
+v [Tn, Dn.n, Dn.pr] ~ sth (to sb) (esp US) (Brit fml 文) lend sth 借出某物: a painting graciously loaned by Her Majesty the Queen 女王陛下惠借的画.
+loan-collection 
+n several works of art, etc lent by their owners for exhibition 收藏者借出供展览的一批艺术品等.
+loan-word 
+n word taken into one language from another 借词; 外来词.
+loath (also loth)
+/ lEUW; loW/ adj [pred 作表语] (fml 文)  1 ~ to do sth unwilling; reluctant 不愿意; 不情愿: He seemed somewhat loath to depart. 他似有不愿离去之意.  2 (idm 习语) ,nothing `loath quite willing; eager 很乐意; 心甘情愿; 巴不得.
+loathe
+/ lEUT; loT/ v (a) [Tn] feel great hatred or disgust for (sb/sth) 憎恨; 厌恶（某人[某事物]）: loathe the smell of fried fish 厌恶煎鱼的味. (b) [Tn, Tg] (infml 口) dislike (sth) greatly 极不喜欢（某事物）: I loathe having to go to these conferences. 我最讨厌的是得参加这些会议.
+loathing 
+n [U] disgust 厌恶; 憎恨: have a loathing of sth 厌恶某事物 * feel intense loathing for sb/sth 对某人[某事物]极为反感.
+loathsome
+/ -sEm; -sEm/ adj causing one to feel disgusted or shocked; repulsive 讨厌的; 令人震惊的; 令人厌恶的: a loathsome disease 讨厌的疾病 * What a loathsome creature he is! 他是个多麽讨厌的家伙!
+loaves
+pl of loaf1.
+lob
+/ lCb; lBb/ v (-bb-) [I, Tn, Tn.pr, Tn.p] (in tennis, cricket, etc) send or strike (a ball) in a high arc （网球、 板球等）发或击高（球）: She lobbed the ball over her opponent's head to the back of the court. 她把球挑高越过对方的头向後场落去.
+lob 
+n (a) lobbed ball 高球. (b) slow underarm delivery in cricket （板球的）缓慢低手球.
+lobby
+/ 5lCbI; `lBbI/ n  1 [C] porch, entrance-hall or ante-room 门厅; （入口的）厅堂; 前厅: the lobby of a hotel, theatre, etc 旅馆、 戏院等的大厅.  2 [C] (in the House of Commons, etc) large hall open to the public and used for interviews with Members of Parliament （下议院等内之）民众接待厅.  3 [CGp] group of people who try to influence politicians, esp to support or oppose proposed legislation 游说议员的团体: The anti-nuclear lobby is/are becoming stronger. 向议员游说的反核群众声势渐强.  4 [C] = division lobby (division).
+lobby 
+v (pt, pp lobbied)  1 [I, Ipr, Tn, Tn.pr] ~ (sb)(for sth) try to persuade (a politician, etc) to support or oppose proposed legislation 游说（政治家等）支持或反对某立法议案: lobby (MPs) for higher farm subsidies 游说（议员）以提高农业补贴.  2 (phr v) lobby sth through (sth) get (a bill, etc) passed or rejected by lobbying 通过游说使（一法案等）通过或不通过: lobby a bill through Parliament/the Senate 运动议员使国会[参议院]通过一法案. 
+lobbyist
+/ -Ist; -Ist/ n person who lobbies 游说议员者.
+lobe
+/ lEUb; lob/ n  1 lower soft part of the outer ear 耳垂. =>illus at head 见head插图.  2 rounded flattish part or projection of a body organ, esp the lungs or brain （器官的）叶; （尤指）肺叶, 脑叶.
+lobed 
+adj having lobes 有耳垂的; 有（器官的）叶的.
+lobotomy
+/ lEU5bCtEmI; lo`bBtEmI/ (also Brit leucotomy) n (medical 医) [C, U] (operation involving) cutting into the brain tissue to treat severe mental disorders 脑白质切断（术）; 脑叶纤维切断（术）.
+lobster
+/ 5lCbstE(r); `lBbstL/ n (a) [C] large bluish-black shellfish with eight legs and two long claws that turns scarlet when it is boiled 龙虾. =>illus at shellfish 见shellfish插图. (b) [U] its flesh as food （作食物的）龙虾肉.
+lobster-pot 
+n device for trapping lobsters, esp one like a basket 诱捕龙虾的装置; （尤指）捕龙虾的笼.
+loc cit
+/ 9lCk 5sIt; 9lBk `sIt/ abbr 缩写 = in the passage, etc already quoted (Latin loco citato) 在上述引文中（源自拉丁文loco citato）. Cf 参看 op cit.
+local
+/ 5lEUkl; `lokl/ adj [esp attrib 尤作定语]  1 belonging to a particular place or district 地方的; 本地的; 地区的: Following the national news we have the local news and weather. 国内新闻之後是本地新闻和天气报告. * the local farmer, doctor, shopkeeper, etc 当地的农民、 医生、 店主等 * local knowledge, ie detailed knowledge of an area that one gets esp by living there 地方知识（尤指居住当地而知其详者） * She's a local girl, ie from this area. 她是本地姑娘. * a local train/bus, ie not long-distance 本地的火车[公共汽车].  2 (esp medical 尤用於医学) affecting a particular place; not general 局部的; 非全身的: local inflammation 局部炎症 * Is the pain local? 是局部疼痛吗?
+local 
+n  1 (usu pl 通常作复数) inhabitant of a particular place or district 本地人; 当地人: The locals tend to be suspicious of strangers. 当地人对陌生人往往有戒心.  2 (Brit infml 口) public house, esp near one's home 当地酒店（尤指住处附近的）: pop into the local for a pint 进附近酒店喝一品脱啤酒 * Which is your local? 你们邻近的酒店是哪一家?  3 (US) branch of a trade union, etc （工会等的）地方分会.  4 (esp US) local train or bus 地区的火车或公共汽车. 
+locally
+/ -kElI; -kElI/ adv.
+local anaesthetic 
+(medical 医) anaesthetic that affects only a specific part of the body 局部麻醉.
+local authority 
+(Brit) group of people responsible for the administration of local government 地方当局; 地方政权.
+local call 
+telephone call to a nearby place, charged at a low rate 本地电话.
+local colour 
+details that are typical of the place and time in which a novel, etc is set, used to make the story seem more real （文艺作品的）地方色彩, 地方特色.
+local government 
+system of administration of a district, county, etc by elected representatives of the people who live there 地方政府.
+local option 
+(esp in Scotland, New Zealand and the US) right of local residents to decide sth (eg whether alcohol should be sold there) by voting （尤指苏格兰、 新西兰、 美国）地方人民抉择权（如是否准予销售酒类）.
+local time 
+(according to the) system of time being used in a given part of the world 当地时间; 本地时: We reach Delhi at 1400 hours local time. 我们於当地时间14时到达德里.
+locale
+/ lEU5kB:l; ?@ -5kAl; lo`kAl/ n scene of events, operations, etc （事情发生的）现场, 场地: The director is looking for a suitable locale for his new film. 导演在为新片物色合适的拍摄场地.
+localize, localise
+/ 5lEUkElaIz; `lokl9aIz/ v [Tn] restrict (sth) to a particular area or part; make local 使（某事物）局部化; 使具有地方色彩: try to localize an outbreak of disease, violence, unrest 尽力把疾病、 暴力、 暴乱的爆发限制在局部范围以内 * a localized infection 局部感染. 
+localization, localisation
+/ 9lEUkElaI5zeIFn; ?@ -lI5z-;9loklE`zeFEn/ n [U].
+locality
+/ lEU5kAlEtI; lo`kAlEtI/ n position of sth; place or district in which sth happens 位置; 地点; 现场: trying to pinpoint the ship's exact locality 设法确定轮船的确切位置 * The entire locality has been affected by the new motorway. 新建的高速公路影响了整个地区.
+locate
+/ lEU5keIt; ?@ 5lEUkeIt; `loket/ v  1 [Tn] discover the exact position or place of (sb/sth) 找出, 指出（某人[某事物]）的准确位置或地点: locate an electrical fault 查明电路出故障的地方 * locate a town on a map 在地图上找出一城市的位置 * I'm trying to locate Mr Smith. Do you know where he is? 我要找史密斯先生. 你知道他在哪里吗?  2 [esp passive 尤用於被动语态: Tn, Tn.pr] establish (sth) in a place; situate 将（某物）设置在某处; 使座落於: A new factory is to be located on this site. 新厂拟建於此. * The information office is located in the city centre. 咨询处设在市中心.  3 [Ipr] (US) settle in a place; establish oneself 定居某处; 安顿: The company has located on the West Coast. 公司设在西海岸.
+location
+/ lEU5keIFn; lo`keFEn/ n  1 [C] place or position 地方; 位置: a suitable location for new houses 适合建筑新房屋的地点.  2 [U] finding the position of sb/sth 发现、 找出某人[某物]的位置或地点: responsible for the location of the missing yacht 负责查明失踪游艇的下落.  3 [C] (computing 计) basic unit of a computer's memory, able to store a single item of data 存储单元.  4 (idm 习语) on location (cinema 影) being filmed in suitable surroundings instead of in a film studio 外景拍摄.
+loch
+/ lCk, lCx; lBk, lBx/ n (Scot 苏格兰) (often in names 常用於地名)  1 lake 湖: Loch Ness 尼斯湖.  2 long narrow inlet of the sea 狭长的海湾. Cf 参看 lough.
+loci
+pl of locus.
+lock
+/ lCk; lBk/ n  1 [C] portion of hair that hangs or lies together 一绺或一缕毛发: He kept a lock of her hair as a memento. 他保留著她的一束头发作纪念.  2 locks [pl] (esp rhet or joc 尤作修辞或作戏谑语) hair of the head 头发: He gazed ruefully in the mirror at his greying locks. 他凝视著镜中自己日见花白的头发, 感慨岁月不待人.
+lock
+/ lCk; lBk/ n  1 [C] device for fastening a door, lid, etc, with a bolt that needs a key to work it 锁.  2 [C] section of a canal or river where the water level changes, enclosed by gates fitted with sluices so that water can be let in or out to raise or lower boats from one level to another （河流的）船闸, 水闸.  3 [C] (in wrestling) hold that keeps an opponent's arm, leg, etc from moving （摔交中的）抱, 夹（对於对方的臂、 腿等）: have sb's arm in a lock 夹住某人的胳膊.  4 [U] condition in which parts are jammed or fixed together so that movement is impossible 塞住、 卡住的状态.  5 [U] (maximum extent of the) turning of a motor vehicle's front wheels by use of the steering-wheel （机动车方向盘旋转时）前轮转向（的最大程度）: on full lock, ie with the steering-wheel turned as far as it will go one way or the other 前轮最大限度转向（方向盘转到头） * My car has a good lock, ie can turn within a short distance. 我的汽车前轮转向很好（转弯用地小）.  6 [C] mechanism for exploding the charge in a gun 枪机.  7 (idm 习语) ,lock, stock and `barrel including everything; completely 全部; 完全. (keep sth/put sth/be) under ,lock and `key locked up 锁起: The criminals are now safely under lock and key. 这些罪犯现在都已经牢牢关押起来.
+lock-gate 
+n gate on a canal or river lock （河流的）闸门.
+lockjaw 
+n [U] form of tetanus in which the jaws become rigidly closed 牙关紧闭; 破伤风.
+lock-keeper 
+n person in charge of a canal or river lock 河流的水闸管理人.
+lock-nut 
+n extra nut screwed over another to prevent it becoming loose 防松螺母.
+locksmith 
+n person who makes and mends locks 锁匠.
+lock-stitch 
+n [U] sewing-machine stitch that locks threads firmly together 连锁缝纫（针迹）.
+lock
+/ lCk; lBk/ v  1 (a) [Tn] fasten (a door, lid, etc) with a lock 锁（门、 盖等）: Is the gate locked? 大门锁了吗? (b) [Tn] make (a house, box, etc) secure in this way 锁住, 锁牢（房子、 箱子等）: Be sure to lock your bicycle. 自行车务必上锁. (c) [I] be able to be fastened or secured with a lock 能锁: This suitcase doesn't lock, ie has no lock or has a lock that is broken. 这衣箱不能锁（无锁或锁已坏）. =>Usage at close4 用法见close4.  2 [I, Ipr, Ip, Tn, Tn.pr] ~ (sth/sb) (in/into sth); ~ (sb/sth) (together) (cause sb/sth to) become rigidly fixed; jam （使某人[某事物]）卡住, 挤住: The brakes locked, causing the car to skid. 汽车因车轮刹住而打滑. * The pieces of the puzzle lock into each other/lock together, ie interlock. 拼图各块拼合时都卡在一起. * (fig 比喻) two nations locked in mortal combat, ie at war 处於殊死战斗中的两国 * two lovers locked in each other's arms, ie embracing 拥抱著的一对情侣.  3 (idm 习语) lock, etc the stable door after the horse has bolted => stable2.  4 (phr v) lock sth away store sth securely and safely 将某物妥善锁起: lock away one's jewellery 把珠宝锁好. lock onto sth (of a missile, etc) automatically find and follow (a target) （指导弹等）追踪（目标）. lock sb/oneself out (of sth)/in prevent sb/oneself from entering or leaving by locking a door, etc (intentionally or unintentionally) （有意或无意地）将某人[自己]锁於某处不得进出: At 9 pm the prisoners are locked in for the night. 晚9时把犯人锁进牢房过夜. * I've lost my key and I'm locked out! 我丢了钥匙, 进不去了! * lock oneself out of the house 把自己锁在门外. lock (sth) up make (a house, etc) secure by locking the doors and windows 上锁（锁好门窗）: Don't forget to lock up before leaving home. 离家之前别忘上锁. lock sb up put sb in prison, a mental institution, etc 将某人监禁起来或送进精神病院等. lock sth up (a) = lock sth away. (b) invest (money) so that it cannot easily be converted into cash 将（资本）搁死: All their capital is locked up in land. 他们把全部资金都搁死在地产投资上了.
+lockable 
+adj that can be locked 能锁的: a lockable steering-wheel 可锁的方向盘.
+lock-out 
+n refusal by an employer to let workers enter a factory, etc until they agree to certain conditions （资方的）闭厂, 停工（除非工人答应某些条件, 否则不得进厂）.
+lock-up 
+n (a) place where prisoners can be kept temporarily 拘留所. (b) (infml 口) prison 监狱. (c) (Brit) (usu small) shop whose owner does not live in it （通常指小的）商店（店主不住在内）.  adj [attrib 作定语] that can be locked up 可上锁的: a lock-up garage 可上锁的车库.
+Davy Jones's locker
+(infml often joc 口, 常作戏谑语) the bottom of the sea 海底: Their ship was sent to Davy Jones's locker, ie was sunk. 他们的轮船去见龙王爷了（沉没了）.
+locker
+/ 5lCkE(r); `lBkL/ n  1 (a) small cupboard, esp one of several where clothes can be kept, eg at a swimming-pool 小厨柜（尤指供存放衣物的, 如在游泳池处）: left-`luggage lockers, ie for depositing luggage in, eg at a railway station 行李寄存柜（如在火车站中的）. (b) (nautical 海) box or compartment for storing clothes, ammunition, etc in a ship （船上贮藏衣物、 弹药等的）箱, 室, 库.  2 (idm 习语) be in/go to ,Davy Jones's `locker be drowned at sea 葬身大海.
+locker-room 
+n (esp US) room at a sports club, etc for changing in, with lockers for clothes, etc （体育俱乐部等的）衣物间.
+locket
+/ 5lCkIt; `lBkIt/ n small ornamental case, usu of gold or silver, holding a portrait, lock of hair, etc and worn on a chain round the neck 盒式项链坠（通常为金银制的, 用以藏照片、 头发等）.
+in loco parentis
+/ In 9lEUkEU pE5rentIs; In9lokopE`rZntIs/ (Latin 拉) acting for or instead of a parent; having the responsibility of a parent 代替父或母; 代尽人父或人母之责: I stand towards her in loco parentis. 我对她代尽其父母亲的责任.
+loco
+/ 5lEUkEU; `loko/ n (pl ~s) (infml 口) locomotive engine 火车头; 机车: [attrib 作定语] loco-spotting, ie as a hobby 观察火车头（一种爱好）.
+loco
+/ 5lEUkEU; `loko/ adj [pred 作表语] (sl 俚 esp US) mad 发疯.
+locomotion
+/ 9lEUkE5mEUFn; 9lokE`moFEn/ n [U] (fml or joc 文或谑) moving, or the ability to move, from place to place 运动; 移动; 运动力; 移动力.
+locomotive
+/ 5lEUkEmEUtIv; 9lokE`motIv/ adj of, having or causing locomotion 移动的; 有移动力的; 产生运动的: locomotive power 移动力.  n = engine 2: electric, diesel, steam, etc locomotives 电气、 柴油、 蒸汽等机车.
+locum
+/ 5lEUkEm; `lokEm/ n (also fml 正规作 ,locum `tenens / 5ti:nenz, 5tenenz; `tinZnz/) deputy acting for a doctor or priest in his absence （医生或牧师的）临时代理人: When they are on holiday the work of doctors is often done by locums. 医生度假时, 他们的工作常由代理医生负责.
+locus
+/ 5lEUkEs; `lokEs/ n (pl loci / 5lEUsaI; `losaI/) exact place of sth 所在地; 场所.
+locus classicus
+/ 5klAsIkEs; `klAsIkEs/ (Latin 拉) best known or most authoritative passage on a subject 某问题的最著名或最具权威性的章节.
+locust
+/ 5lEUkEst; `lokEst/ n type of African and Asian winged insect that migrates in huge swarms which destroy all the vegetation of a district 飞蝗.
+locution
+/ lE5kju:Fn; lo`kjuFEn/ n  1 [U] (fml 文) style of speech; way of using words 语言风格; 用词的方法.  2 [C] (esp linguistics 尤用於语言学) phrase or idiom 短语; 惯用语; 成语.
+lode
+/ lEUd; lod/ n vein of metal ore 矿脉.
+lodestar (also loadstar) 
+n (a) star used as a guide in navigation, esp the pole-star 用以指示航向的星; （尤指）北极星. (b) (fig 比喻) principle that guides one's behaviour and actions （行为和行动的）指导原则.
+lodestone 
+n = loadstone.
+lodge
+/ lCdV; lBdV/ n  1 small house at the gates of a park or in the grounds of a large house, occupied by a gate-keeper or other employee （公园或大宅第中看门人的）房子; 下房.  2 country house or cabin for use in certain seasons （某季节中使用的）乡间小舍: a `hunting /`fishing/ `skiing lodge 打猎[钓鱼/滑雪]时用的小屋.  3 porter's room at the main entrance to a block of flats, college, factory, etc （公寓、 学院、 工厂等的）门房.  4 members or meeting-place of a branch of a society such as the Freemasons 会社（如共济会）支部的全体会员; 支部会员集会处.  5 beaver's or otter's lair （海狸或水獭的）巢穴.  6 N American Indian dwelling or household （北美印第安人的）住处, 住家.
+lodge
+/ lCdV; lBdV/ v  1 [Tn, Tn.pr] provide (sb) with a place to sleep or live in for a time 供（某人）以临时住宿处: The refugees are being lodged in an old army camp. 难民暂时安置在一座旧军营里.  2 [I, Ipr] ~ (with sb/at...) live for payment in sb's house 租住某人的房屋: Where are you lodging? 你在哪里寄宿? * I'm lodging at Mrs Brown's (house)/with Mrs Brown. 我在布朗太太家寄宿.  3 [Ipr, Tn.pr] ~ (sth) in sth (cause sth to) enter and become fixed in sth （使某物）进入并固定於某处: The bullet (was) lodged in his brain. 子弹射入他的脑内.  4 [Tn.pr] ~ sth with sb/in sth leave (money, etc) with sb/in sth for safety 将（钱等）交付某人保管, 寄存某处: lodge one's valuables in the bank 把贵重物品存放在银行里.  5 [Tn, Tn.pr] ~ sth (with sb) (against sb) present (a statement, etc) to the proper authorities for attention 向负责部门提出（某事）: lodge a complaint with the police against one's neighbours 向警方告邻居的状 * lodge an appeal, a protest, an objection, etc 提出上诉、 抗议、 反对意见等.
+lodger 
+n person who pays to live in (part of) sb's house 房客; 租住者: She makes a living by taking in lodgers. 她靠收房客租金为生.
+lodgement (also lodgment)
+/ 5lCdVmEnt; `lBdVmEnt/ n (fml 文)  1 [U] action or process of lodging (lodge2 5) 向负责部门提出: the lodgement of a complaint 投诉的提出.  2 [C] mass of material that collects in or blocks sth 积聚物; 堵塞物: a lodgement of dirt in a pipe 烟斗中积存的烟垢.
+lodging
+/ 5lCdVIN; `lBdVIN/ n  1 [U, C] temporary accommodation 临时寄宿; 借宿: full board and lodging, ie a room to stay in and all meals provided 一应膳宿 * find a lodging for the night 找地方借宿一夜.  2 lodgings [pl] room or rooms (not in a hotel) rented for living in 寄宿舍（非指旅馆中的）: It's cheaper to live in lodgings than in a hotel. 住寄宿舍比住旅馆便宜.
+lodging-house 
+n house in which lodgings are let, usu by the week 出租房间的公寓（通常按周出租）.
+loess
+/ 5lEUes; `loIs/ n [U] layer of fine fertile light-coloured soil, found in large areas of Asia, Europe and America 黄土.
+loft
+/ lCft; ?@ lR:ft; lRft/ n  1 (a) room or space directly under the roof of a house, used for storing things 阁楼, 顶楼（用以存放东西）: [attrib 作定语] a loft conversion, ie one that has been made into a room or rooms for living in （改装的）阁楼居室. (b) space under the roof of a stable or barn, used for storing hay, etc 厩楼（用以贮放乾草等）.  2 (US) one of the upper floors of a warehouse, etc （仓库等的）上层楼面, 楼上.  3 gallery or upper level in a church or hall （教堂或大厅内的）楼厢: the `organ-loft 教堂内的风琴台.
+loft
+/ lCft; ?@ lR:ft; lRft/ v [Tn, Tn.pr] (esp sport 尤用於体育) hit, kick or throw (a ball) in a high arc 击、 踢、 掷高弧（球）: loft the ball over the goalkeeper 踢高弧球越过守门员 * a lofted drive, eg at cricket or golf 击出高球（如板球或高尔夫球）.
+lofted 
+adj (of a golf-club) shaped to hit the ball high （指高尔夫球棒）击出高球用的.
+lofty
+/ 5lCftI; ?@ 5lR:ftI; `lRftI/ adj (-ier, -iest)  1 [usu attrib 通常作定语] (of thoughts, aims, etc) noble; exalted （指思想、 目标等）高尚的, 崇高的: lofty sentiments 高尚的情操.  2 (derog 贬) seeming to be proud and superior; haughty 高傲的; 骄傲的; 傲慢的: in a lofty manner 态度傲慢.  3 (rhet 修辞) (not used of people 不用於指人) very tall 极高的: a lofty mountain 高山 * lofty halls 高大的厅堂. 
+loftily
+/ -IlI; -IlI/ adv. 
+loftiness 
+n [U].
+log
+/ lCg; ?@ lR:g; lR^/ n  1 (a) length of tree-trunk that has fallen or been cut down 原木; 圆材: birds nesting in a hollow log 在空树干里搭巢的鸟. (b) short piece of this, esp one used as firewood 短的木材; （尤指）木柴: Put another log on the fire. 往炉子里再添一段木柴.  2 (idm 习语) easy as falling off a log => easy1. sleep like a log/top => sleep.
+logging 
+n [U] (US) work of cutting down forest trees for timber 伐木工作; 伐木业: [attrib 作定语] a logging camp 伐木营地.
+log cabin 
+hut built of logs 原木小屋.
+log-jam 
+n (esp US) deadlock; standstill 僵局; 停顿.
+log-rolling 
+n [U] (derog 贬 esp US) practice of helping others in return for their help, as when authors review each other's books favourably 相互吹棒, 相互标榜（如作家间互相作好评）.
+log
+/ lCg; ?@ lR:g; lR^/ n  1 (formerly 旧时用法) floating device pulled behind a ship to measure its speed 测速仪（拖带於船後以测船速者）: sail by the log, ie calculate aship's position using this 用测速仪测量船位.  2 log-bookof a ship or an aircraft 航海或飞行日志.
+log 
+v (-gg-) [Tn]  1 enter (facts) in a log-book 将（事情）记载於航行日志中.  2 achieve (a certain speed, distance, number of hours worked, etc) as recorded in a log-book or similar record 达到（某速度、 里程、 工作时数等）记录: The pilot had logged over 200 hours in the air. 这个飞行员的飞行记录在200小时以上.  3 (phr v) log in/on (computing 计) open one's on-line access to a database, etc 注册, 登记（接通数据库等作联机存取）. log off/out (computing 计) end one's on-line access to a database, etc 注销（关闭数据库等结束联机存取）.
+log-book 
+n  1 detailed record of a ship's voyage or an aircraft's flight; any similar record 航海或飞行日志; 类似的记录.  2 motor vehicle's registration book （机动车辆的）车辆登记证.
+log
+/ lCg; ?@ lR:g; lR^/ n (infml mathematics 口, 数) logarithm 对数: [attrib 作定语] log tables 对数表.
+-log
+US = -logue.
+loganberry
+/ 5lEUgEnbrI; ?@ -berI; `lo^En9bZrI/ n large dark-red berry from a plant that is a cross2(7) between a blackberry and a raspberry 洛根莓（为黑莓与悬钩子杂交植物, 结深红色聚合果）.
+logarithm
+/ 5lCgErITEm; ?@ 5lR:g-; `lR^E9rITEm/ n (mathematics 数) any of a series of numbers set out in tables which make it possible to work out problems in multiplication and division by adding and subtracting 对数. =>App 4 见附录4. 
+logarithmic
+/ 9lCgE5rITmIk; ?@ 9lR:g-; 9lR^E`rITmIk/ adj: a logarithmic function 对数函数. 
+logarithmically
+/ -klI; -klI/ adv.
+loggerheads
+/ 5lCgEhedz; `lR^L9hZdz/ n (idm 习语) at loggerheads (with sb) disagreeing or quarrelling 不和; 相争: He and his wife are always at loggerheads. 他和妻子总是不和. * His father's will has set him at loggerheads with his brother, ie caused them to quarrel. 他父亲的遗嘱导致了他与弟弟争执起来.
+loggia
+/ 5lEUdVE, 5lCdVIE; `lodVE, `lBdVIE/ n open-sided gallery or arcade, esp one that forms part of a house and has one side open to the garden 凉廊（尤指房屋敞向花园的）.
+logic
+/ 5lCdVIk; `lBdVIk/ n [U]  1 science of reasoning 逻辑学; 论理学.  2 particular method or system of reasoning 推理的方法或体系.  3 chain of reasoning (regarded as good or bad) 逻辑性, 条理性（合乎逻辑或不合逻辑）: You have to accept the logic of his argument. 应该承认他的论据中有逻辑性.  4 ability to reason correctly 正确推理的能力; 逻辑思维的能力.  5 (computing 计) (a) principles used in designing a computer （设计计算机的）逻辑. (b) the circuit(s) involved in this 逻辑电路.
+logician
+/ lE5dVIFn; lo`dVIFEn/ n person who is skilled in logic 逻辑学家.
+logical
+/ 5lCdVIkl; `lBdVIkl/ adj  1 in accordance with the rules of logic; correctly reasoned 合逻辑的; 推理正确的: a logical argument, conclusion 合逻辑的论据、 结论.  2 (of an action, event, etc) in accordance with what seems reasonable or natural （指行为、 事情等）合乎情理的, 合乎常理的: the logical outcome 合情合理的结果 * It seemed the only logical thing to do. 看来那样做才合乎常理.  3 capable of reasoning correctly 有逻辑头脑的; 有推理能力的: a logical mind 善於推理的头脑.
+logicality
+/ 9lCdVI5kAlEtI; 9lBdVI`kAlEtI/ n [U] being logical 合逻辑; 合理.
+logically
+/ -klI; -klI/ adv: argue logically 有条理地辩论.
+logistics
+/ lE5dVIstIks; lE`dVIstIks/ n [sing or pl v] organization of supplies and services, etc for any complex operation 後勤. 
+logistic, logistical
+/ lE5dVIstIkl; lE`dVIstIkEl/ adjs: Organizing famine relief presents huge logistical problems. 筹画饥馑救济工作在後勤方面困难极大. 
+logistically
+/ -klI; -klI/ adv.
+logo
+/ 5lEUgEU; `lo9^o/ n (pl ~s) printed symbol designed for and used by a business, company, etc as its emblem, eg in advertising （企业、 公司等的）专用标识, 标记, 商标（如用於广告中的）.
+-logue (US -log) 
+comb form 构词成分 (forming ns 用以构成名词) talk or speech 话; 谈话: monologue * travelogue.
+-logy
+comb form 构词成分 (forming ns 用以构成名词)  1 subject of study 论; 学: mineralogy * sociology * theology * zoology.  2 speech or writing 语言; 文字: trilogy * phraseology * tautology.
+-logic(al) 
+comb form 构词成分 (forming adjs 用以构成形容词): physiologic(al) * pathological.
+-logist 
+comb form 构词成分 (forming ns 用以构成名词) person skilled in a subject of study 某学科学者: biologist * geologist.
+loin
+/ lRIn; lRIn/ n  1 [C] (anatomy 解) side and back of the body between the ribs and the hip-bone 腰; 腰部.  2 [C, U] (joint of) meat from this part of an animal （动物的）腰肉, 脊背肉: some loin of pork 猪脊背肉.  3 loins [pl] (dated 旧) (a) lower part of the body on both sides below the waist and above the legs 胯. (b) (euph 婉) reproductive organs 下身.  4 (idm 习语) gird one's loins => gird.
+loincloth 
+n piece of cloth worn around the body at the hips, esp as the only garment worn 缠腰布（尤指仅有的蔽体物）.
+loiter
+/ 5lRItE(r); `lRItL/ v  1 [I, Ipr, Ip] ~ (about/around) stand about idly 闲站著: loitering at street corners 在街头闲站著.  2 [I] go slowly, with frequent stops 慢走; 边走边停: Don't loiter on the way home! 不要在回家的路上闲逛! 
+loiterer 
+n.
+loll
+/ lCl; lBl/ v  1 [I, Ipr, Ip] ~ (about/around) rest, sit or stand lazily, often while leaning against sth 懒洋洋地呆著、 坐著或站著（常指倚著某物）: loll around the house 在家中呆著.  2 (phr v) loll out (of the tongue) hang loosely （指舌）耷拉, 下垂.
+lollipop
+/ 5lClIpCp; `lBlI9pBp/ n large (usu flat and round) boiled sweet on a small stick, held in the hand and sucked 棒棒糖.
+lollipop man (fem 阴性作 lollipop woman, lollipop lady) 
+(Brit infml 口) person who carries a circular sign marked `Stop! Children Crossing' as a warning to traffic to stop, allowing children to cross a busy road, esp on their way to and from school 儿童过路辅导员（持圆形指示牌, 有｀停车! 儿童过路＇字样, 尤於上学、 放学时间值勤者）.
+lollop
+/ 5lClEp; `lBlEp/ v [I, Ipr, Ip] (infml 口 esp Brit) move in clumsy jumps; flop about 笨拙地跳动; 扑动: lolloping along (the road) （一路）蹦蹦跳跳.
+lolly
+/ 5lClI; `lBlI/ n (Brit)  1 [C] (infml 口) lollipop 棒棒糖.  2 [U] (sl 俚) money 钱.
+lone
+/ lEUn; lon/ adj [attrib 作定语] (usu rhet 通常作修辞)  1 without companions; solitary 孤独的; 孤单的: a lone figure trudging through the snow 在雪地里独自跋涉的人. Cf 参看 alone 1, lonely 3.  2 (idm 习语) a ,lone `wolf person who prefers to be, work, etc alone 好孤独自处、 独自工作等的人.
+loner 
+n (infml 口) person who avoids the company of others 喜独处者; 不合群者: She's been a loner all her life. 她一生离群索居.
+lonely
+/ 5lEUnlI; `lonlI/ adj  1 sad because one lacks friends or companions 孤寂的; 寂寞的: I live all alone but I never feel lonely. 我虽孑然一身, 但从不感孤寂. * a lonely-looking child 形单影只的孩子 * Living in a big city can be (ie make one feel) very lonely. 在大城市里生活还真很孤寂. * Hers is a lonely life. 她的生活很寂寞.  2 [attrib 作定语] (of places) far from inhabited places; not often visited; remote （指地方）偏僻的, 人迹罕至的; 偏远的: Antarctica is the loneliest place on earth. 南极是地球上最偏远的地区.  3 [attrib 作定语] without companions 孤单的; 无伴侣的: a lonely traveller 孤单的旅客.  4 (idm 习语) plough a lonely furrow => plough v. =>Usage at alone 用法见alone. 
+loneliness 
+n [U]: suffer from loneliness 备尝孤寂之苦.
+lonely hearts 
+people who are seeking friendship, esp with a view to marriage 徵友者（尤指物色佳偶者）: [attrib 作定语] a lonely hearts column, ie a section of a newspaper, etc containing messages from such people （报纸等的）徵友专栏.
+lonesome
+/ 5lEUnsEm; `lonsEm/ adj (esp US)  1 lonely 孤寂的; 寂寞的; 人迹罕至的; 偏僻的; 偏远的: I get lonesome when you're not here. 你不在时我颇感寂寞. * a lonesome mountain village 偏僻的山村.  2 causing loneliness 令人感到孤寂的: a lonesome journey 寂寞的旅途. =>Usage at alone 用法见alone.  3 (idm 习语) by/on one's `lonesome (infml 口) on one's own; alone 独自; 单独.
+long
+/ lCN; ?@ lR:N; lRN/ adj (-er / -NgE(r); -N^L/, -est /-NgIst; -NgIst/)  1 having a great or specified extent in space （空间上）长的: How long is the River Nile? 尼罗河有多长? * Your hair is longer than mine. 你的头发比我的长. * Is it a long way (ie far) to your house? 到你家远吗? * These trousers are two inches too long. 这条裤子长出两英寸. Cf 参看 short1 1.  2 having a great or specified duration or extent in time （时间上）长的: He's been ill for a long time. 他病了很长时间了. * How long are the holidays? 假期有多长? * They're six weeks long. 有六周之久. * Don't be too long about it, ie Do it soonor quickly. 时间别太长（早做或快做）. =>Usage at long3用法见long3.  3 (phonetics 语音) (of vowel sounds) taking relatively more time to utter than the correspondingshort vowel sound （指元音）长音的: The vowel sound in `caught' is long; in `cot' it is short. caught中的元音是长元音; cot中的是短元音.  4 seeming to be longer than it really is 似乎比实际为长的; 漫长的: ten long years, miles, etc 漫长的十年、 十英里等.  5 (of memory) able to recall events distant in time （指记忆）能回忆久远的.  6 (idm 习语) at the `longest not longer than the specified time （时间上）至多, 最长: He's only away for short periods  a week at the longest. 他只是短期外出--至多一周. go `far/go a long `way become very successful 很成功: That girl will go a long way, I'm sure. 我相信那姑娘很有前途. go far/go a long way towards doing sth make a considerable contribution towards sth 对某事物大有裨益: concessions which go a long way towards satisfying his critics 对批评他的人起缓解作用的让步 * The new legislation does not go far enough towards solving the problem. 新的法规对解决该问题并无多大帮助. go a long way (a) (of money, food, etc) last a long time （指钱、 食物等）用很长时间, 经花, 经用: She makes a little money go a long way, ie buys many things by careful spending. 她用很少的钱能买很多东西. * A little of this paint goes a long way, ie covers a large area. 这种颜料用一点可以涂一片. (b) be as much as one can bear 叫人受不了: A little of his company goes a long way, ie One can tolerate his company for a short time only. 跟他呆上一会儿就叫人受不了. happy as the day is long => happy. have come a long way have made much progress 大有进步: We've come a long way since those early days of the project. 这项工作开始以来我们已取得很大进展. have a long `arm be able to make one's power or authority felt even at a distance 有深远的势力或影响力. in long/short pants => pants. in the `long run ultimately; eventually 从长远看; 终究; 最後: In the long run pricesare bound to rise. 从长远看, 物价肯定要涨. in the long/ short term => term. it's as broad as it's long => broad1. (put on, have, wear, etc) a long `face sad expression 拉长脸; 哭丧著脸; 愁眉苦脸. a long `haul long and difficult activity, etc 持久而艰苦的活动等: It's been a long haul but at last this dictionary is published. 经过千辛万苦这部词典才终於得以问世. a `long shot wild guess or attempt 瞎猜; 姑妄一试. ,long in the `tooth (joc 谑) rather old 年齿渐长; 颇老: He's getting a bit long in the tooth to be playing football. 他踢足球未免年齿过长了. long time no `see (infml 口) (used as a greeting 用作招呼语) it's a long time since we last met 好久没见了. not by a `long chalk; Brit not by a `long shot not at all 完全不; 绝不: We're not beaten yet, (not) by a long chalk. 我们还没有败, 远远没败. take a long (cool/hard) `look at sth consider a possibility, problem, etc carefully and at length 谨慎仔细考虑（可能性、 问题等）. take the `long view consider events, effects, factors, etc a long time in the future, rather than the immediate situation 从长远考虑事情、 效果、 因素等. to cut a long story short to get to the point of what one is saying quickly 长话短说; 简而言之; 总之.
+longboat 
+n largest boat carried on a sailing-ship （帆船所带的）大艇.
+longbow 
+n bow drawn by hand, equal in length to the height of the archer and used to shoot feathered arrows 长弓; 大弓. Cf 参看 crossbow.
+long-distance 
+adj, adv travelling or operating between distant places 长距离的; 长途的: a ,long-distance `lorry driver, `phone call, `runner 跑长途的卡车司机、 长途电话、 长途跑步者 * to phone long-distance 打长途电话.
+long division 
+(mathematics 数) (process of) dividing one number by another with all the calculations written down 长除, 长除法（做除法运算时把每一步骤都写下来）: Can you do long division? 你会长除法吗? * [attrib 作定语] a long-division sum 长除法运算.
+long drink 
+drink that is large in quantity, filling a tall glass, eg beer 大杯饮料（如用高杯盛的啤酒）.
+longhand 
+n [U] ordinary writing (contrasted with shorthand, typing, etc) 普通书写（别於速记、 打字等）: all written in longhand 全部手写.
+long hop 
+(in cricket) ball that pitches short and is easy to hit （板球中的）（短距触地）长反弹球（易被击中）.
+long johns 
+(infml 口) underpants with legs that extend to the ankles 长内裤（及於踝部）: a warm pair of long johns 一条暖和的长内裤.
+long jump (US broad jump) 
+athletic contest of jumping as far forward as possible 跳远: competing in the long jump 比赛跳远.
+long-life 
+adj (esp of dairy products) remaining usable for a long time （尤指乳制品）可长久保存的: ,long-life `milk 长期保鲜奶.
+long odds 
+(in betting) very uneven odds, eg 50 to 1 （打赌中）悬殊的机会（如50比1）.
+long-range 
+adj [attrib 作定语] (a) of or for a period of time far in the future 长期的; 为长远计的: long-range planning 长远规画 * a long-range weather forecast 远期天气预报. (b) (of vehicles, missiles, etc) that can be used over great distances （指运载工具、 导弹等）长距离的, 远程的, 长程的: a long-range bomber 远程轰炸机.
+long-sighted (also esp US far-sighted) 
+adj [usu pred 通常作表语] (a) only able to see clearly what is at a distance 远视: She's long-sighted and needs glasses to read. 她是远视眼, 看书要戴眼镜. (b) (fig 比喻) having foresight; prudent 有远见; 有远虑.
+longstop 
+n (in cricket) fielder standing directly behind the wicket-keeper （板球）守门员身後的守场员, 外野手.
+long suit  
+1 many playing-cards of one suit in a hand 长套（一手牌中有多张同花者）: Play the highest card in your longest suit. 打你手中最长套的大牌.  2 (fig 比喻) thing at which one excels 特长; 长处: Modesty is not his long suit. 谦虚可不是他的长处.
+long-time 
+adj [attrib 作定语] that has lasted for a long time 为时已久的; 历久的: a long-time friendship 老交情.
+long-term 
+adj [usu attrib 通常作定语] of or for a long period of time 长期的: a ,long-term commitment 长期承担的责任.
+long ton 
+measure of weight, equal to 2240 pounds 长吨（等於2240磅）.
+long wave 
+(abbr 缩写 LW) radio wave having a wavelength of more than 1000 metres 长波: [attrib 作定语] a long-wave broadcast 长波广播.
+long weekend 
+weekend that is made longer (as a holiday) by an extra day at the beginning or the end of it 长周末（前或後多加一天）.
+long-winded 
+adj talking or writing at tedious length 喋喋不休的; 罗嗦的: a ,long-winded `speaker, `speech, `style 说话罗嗦的人、 冗长的讲话、 烦冗的风格. 
+long-windedness 
+n [U].
+long
+/ lCN; ?@ lR:N; lRN/ n  1 [U] long time or interval (used esp as in the expressions shown) 长时间, 长间歇（尤用於以下示例）: This won't take long. 这要不了多久. * Will you be away for long? 你要离开很长时间吗? * I hope to write to you before long. 我希望不久就能给你写信. =>Usage at long3 用法见long3.  2 [C] long signal (eg in Morse code); long vowel or syllable (esp in Latin verse) 长信号（如摩尔斯电码）; 长元音或长音节（尤指拉丁诗文中）: a long and two shorts 一长两短.  3 (idm 习语) the ,long and (the) `short of it all that need be said about it; the general effect or result of it 总的意思; 总的结果.
+long
+/ lCN; ?@ lR:N; lRN/ adv (-er / -NgE(r); -N^L/, -est /-NgIst; -NgIst/)  1 for a long time 长久; 长期地: Were you in Rome long? 你在罗马呆的时间长吗? * Stay as long as you like. 你愿停留多久皆可. * long into the next century 下一个世纪之後很久 * I shan't be long, ie will come, go, etc soon. 我用不了很长时间（就来、 就去等）.  2 at a time distant from a specified point of time (used esp in the expressions shown) （距某一时间）很久地（尤用於以下示例）: long ago/before/after/since 很久以前[之前很久/之後很久/很久以来] * He died not long (ie soon) after (that). （那之後）不久他就死了. =>Usage at recent 用法见recent.  3 (with ns indicating duration 与表示延续的名词连用) throughout the specified time 贯穿某时间: all day long 整天 * I've waited for this moment my whole life long. 我一生都在等待这个时刻.  4 (idm 习语) as/so long as (used as a conj 用作连词) (a) on condition that; provided that 只要; 如果: As long as it doesn't rain we can play. 只要不下雨, 我们就能玩. (b) (US) since; inasmuch as 既然; 由於. be not long for this world be likely to die soon 行将谢世; 历日无多. no/any/much `longer after a certain point in time 不再; 已不: I can't wait any/much longer. 我不能再等了. * He no longer lives here. 他已不住在这里. he who laughs last laughs longest => laugh. so long (dated infml 旧, 口) goodbye 再见.
+long-drawn-out 
+adj made to last too long; unnecessarily extended 拖得太长的; 拉得过长的: long-drawn-out negotiations 旷日持久的谈判.
+long-lived 
+adj having a long life; lasting for a long time 长寿的; 长期的; 长久的: My family tend to be quite long-lived. 我家族的人大都相当长寿.
+long-playing record (also dated 旧作 long-player)
+(abbr 缩写 LP) type of gramophone record that plays for up to about 30 minutes on each side 密纹唱片, 慢转唱片（每一面能持续约30分钟的）.
+long-standing 
+adj [esp attrib 尤作定语] that has existed or lasted for a long time 长期存在的; 为时长久的: ,long-standing `grievances 长期存在的不满 * a ,long-standing arrangement 长期安排.
+long-suffering 
+adj patiently bearing problems, troubles, etc, esp those caused by another person 长期忍受的（对困难事、 麻烦事等, 尤指他人引起的）: I pity his ,long-suffering `wife. 我可怜他那长期受苦的妻子.
+long
+NOTE ON USAGE 用法: Both long and a long time are used as adverbial expressions of time. *long和a long time都用作表示时间的状语.  1 Long is not used in positive sentences unless it is modified by another adverb, eg too, enough, ago *long只在受另一副词如too、 enough、 ago修饰时才用於肯定句: You've been sleeping too long/long enough. 你睡得太久了[你睡的时间够长了]. *  She waited there (for) a long time. 她在那里等了很长时间.  2 Both can be used in questions 这两者均可用於疑问句: Have you been here long/a long time? 你在这里呆了很久[很长时间]了吗?  3 In negative sentences there can be a difference in meaning. 在否定句中二者意义有别. Compare 试比较: I haven't been here for a long time (ie It is a long time since I was last here) and I haven't been here long (ie I arrived here only a short time ago). ｀我已很久没到这里来了（即离上次我来此已很长时间了）＇和｀我到这里没多久（即我刚到不久）＇.
+long
+/ lCN; ?@ lR:N; lRN/ v [Ipr, It] ~ for sth/~ (for sb) to do sth have an intense desire for sth; want sth very much （对某事物）渴望; 非常想有某事物: The children are longing for the holidays. 孩子们盼望放假. * a (much) longed-for rest 巴望著（已久）的休息 * She longed for him to ask her to dance. 她巴不得他邀请自己跳舞. * I'm longing to see you again. 我盼望再见到你.
+longing
+/ 5lCNIN; ?@ 5lR:NIN; `lRNIN/ n [C, U] ~ (for sb/sth) intense desire 渴望; 热望: a longing for home 想家 * a deep sense of longing 深深的渴望.  adj [attrib 作定语] having or showing longing 渴望的; 表示渴望的: a longing look 渴望的样子 * gaze with longing eyes 以渴望的目光注视. longingly adv: speak longingly of one's native land 不胜向往地谈自己的家乡 * The children were gazing longingly at the toys in the shop window. 孩子们眼巴巴地望著商店橱窗里的玩具.
+long
+abbr 缩写 = longitude: long 23E/W, ie East/West 东[西]经23. Cf 参看 lat.
+long-shoreman
+/ 5lCNFR:mEn; ?@ 5lR:N-; `lRN9FRrmEn/ n (pl -men / -mEn; -mEn/) (esp US) person employed to work on shore loading and unloading ships 码头工人.
+longevity
+/ lCn5dVevEtI; lBn`dVZvEtI/ n [U] (fml 文) long life 长寿; 长命: a family noted for its longevity 以长寿闻名的家族.
+longitude
+/ 5lCndVItju:d; ?@ -tu:d; `lBndVE9tud/ n [U](abbr 缩写 long) distance east or west of the Greenwichmeridian, measured in degrees 经度: lines of longitude marked on a map 标在地图上的经线. =>illus at globe 见globe插图. Cf 参看 latitude 1.
+longitudinal
+/ 9lCndVI5tju:dInl; ?@ -5tu:dnl; 9lBndVE`tudnl/ adj  1 of longitude 经度的.  2 of or in length; measured lengthwise 长度的; 纵的: longitudinal stripes, eg on a flag 纵条纹（如旗帜上的）. 
+longitudinally
+/-nElI; -nlI/ adv.
+chaise longue
+/ 9FeIz 5lCN; ?@ 5lR:N; `Fez `lRN/ (pl chaises longues / 9FeIz 5lCN; ?@ 5lR:N; `Fez `lRN/) (French 法) low chair with a long seat on which the person sitting can stretch out his legs 躺椅.
+longways
+/ 5lCNweIz; ?@ 5lR:N-; `lRN9wez/ (also longwise / 5lCNwaIz; US  5lR:N-; `lRN9waIz/) adv = lengthwise (length).
+loo
+/ lu:; lu/ n (pl ~s) (Brit infml euph 口, 婉) lavatory 厕所: I need to go to the loo. 我要上厕所. =>Usage at toilet 用法见toilet.
+loofah (also esp US luffa)
+/ 5lu:fE; `lufE/ n [C] rough bath sponge made from the dried pod of a type of gourd （浴用）丝瓜络.
+look
+/ lUk; lJk/ v  1 [I, Ipr, Ip] ~ (at sb/sth) turn one's eyes in a particular direction (in order to see sb/sth) 看; 瞧; 望: If you look carefully you can just see the church from here. 你仔细看的话, 可以从这里看到那座教堂. * We looked but saw nothing. 我们看了, 但什麽也没看见. * `Has the postman been yet?' `I'll just look and see.' ｀邮递员来过了吗?＇｀我这就去看看.＇ * Look to see whether the road is clear before you cross. 看清没车时再过马路. * I was looking the other way when the goal was scored. 进球时我正看著别处. * She looked at me and smiled. 她望著我微笑. * She looked out of the window and saw the postman coming up the path. 她向窗外望去, 看见邮递员正从小道上过来. * They looked across the room at each other. 他们在房间的两头彼此望著. * She blushed and looked down at the floor. 她脸一红随即低下头看著地板.  2 [Ipr, Tw] ~ at sth (esp imperative 尤用於祈使句) pay attention to sth; observe sth 瞧; 看: Look at the time! We should have been at the theatre ten minutes ago. 瞧都什麽时候了! 十分钟前我们就该到戏院了. * Can't you look where you're going? You nearly knocked me over! 看, 你这是往哪里走? 差点儿把我撞倒了! * Look what Denise has given me for Christmas! 看丹尼斯送我什麽圣诞礼物了! * Look who's here! 看谁在这里呢!  3 (a) [La, Ln] seem to be; appear 看起来; 看上去; 像是: look healthy, ill, pale, puzzled, sad, tired 看上去健康、 有病、 苍白、 困惑不解、 忧伤、 疲乏 * That book looks interesting/That looks an interesting book. 那本书好像很有意思[那好像是本有趣的书]. * That pie looks good, ie good to eat. 那馅饼看来很好吃. * The town always looks deserted on Sunday mornings. 星期日早晨这小镇总显得冷冷清清. * `How do I look in this dress?' `You look very nice (in it).' ｀我穿这件连衣裙怎麽样?＇｀挺好看.＇ * You made me look a complete fool! 你叫我大出洋相了! (b) [Ipr] ~ (to sb) like sb/sth; ~ (to sb) as if.../as though... (usu not in the continuous tenses 通常不用於进行时态) have the appearance of sb/sth; suggest by appearance that... 像某人[某事物]的样子; 外表像...: It looks like salt and it is salt. 那看著像盐, 也的确是盐. * That photograph doesn't look like her at all. 那张照片看上去一点都不像她. * This looks to me like the right door. 依我看就是这个门. * It looks like rain/It looks as if it's going to rain. 好像要下雨了. * It looks like being/as if it's going to be a nice day. 看样子是个好天. * You look as if you slept badly. 看你那样子彷佛没睡好觉. * It doesn't look to me as if the Socialists will win the election. 我看不出社会党人能在大选中获胜. =>Usage at feel1 用法见feel1.  4 [I, Ipr] ~ (for sb/sth) search for or try to find sb/sth 寻找或寻求某人[某事物]: `I can't find the papers.' `Well, keep looking!' ｀我找不到那些文件.＇｀那就继续找!＇ * Where have you been? We've been looking for you everywhere. 你到哪里去了? 我们一直到处找你. * Are you still looking for a job? 你仍在找工作吗? * Negotiators are looking for a peaceful settlement to the dispute. 谈判双方正寻求和平解决争端的办法. * The youths were clearly looking for (ie were intending to start) a fight. 显然这些年轻人要寻衅闹事.  5 [Ipr, Ip] face in, or give a view in, a particular direction 面向; 朝向: The house looks east. 这房子朝东. * The hotel looks towards the sea. 该旅馆面向大海. * My bedroom looks onto the garden. 我的卧室对著花园.  6 (idm 习语) be looking to do sth try to do sth 想做某事物: The government will be looking to reduce inflation by a further two per cent this year. 政府力求今年把通货膨胀率再减低百分之二. look `bad; not look `good be not right according to convention, and likely to make others have a bad opinion of one 不合常情; 失礼; 招人非议: It looks bad not going to your own brother's wedding. 连亲兄弟的婚礼都不参加, 这太说不过去了. look `bad (for sb) suggest probable failure, trouble or disaster; be ominous 可能失败、 有麻烦或大祸临头: He's had a severe heart attack; things are looking bad for him, I'm afraid, ie he is probably going to die. 他心脏病严重发作, 我看情况不妙（可能会死）. look `good seem to be promising; seem to be making satisfactory progress 似有希望或有满意的进展: This year's sales figures are looking good. 今年的销售数字形势喜人. look `here (used to express protest or to ask sb to pay attention or listen to sth 用以表示抗议或叫某人注意): Now look here, it wasn't my fault that we missed the train. 喂, 咱们误了火车可不是我的错. * Look here, I'm not having you make remarks like that about my sister. 哎, 我不许你们说我妹妹这种话. (not) look one`self (not) have one's normal (healthy) appearance 看起来（不）跟往常一样（健康）: You're not looking yourself today, eg You look tired or ill. 今天你看上去气色不大好. look sb ,up and `down examine sb in a careful or contemptuous way 上下仔细地或轻蔑地打量某人: I didn't like the way he looked me up and down before speaking to me. 我不喜欢他在跟我说话之前那样上下打量我. never/not look `back (infml 口) continue to prosper or be successful 一直兴旺或顺利: Her first novel was published three years ago and since then she hasn't looked back. 她的第一部小说是三年前发表的, 从此一帆风顺. to `look at sb/sth judging by the appearance of sb/sth 由外貌判断: To look at him you'd never think he was a successful businessman. 若看他的外貌, 谁也想不到他是个事业有成的商人. not be much to `look at (infml 口) not have an attractive appearance 其貌不扬: The house isn't much to look at but it's quite spacious inside. 别看那房子外表不起眼, 里面相当宽敞. (For other idioms containing look, see entries for ns, adjs, etc 与look搭配的其他习语见有关名词、 形容词等的词条, 如 look one's age => age; look sharp => sharp.) 7 (phr v) look `after oneself/sb make sure that one/sb is safe and well; take care of oneself/sb 照料、 照顾或照看自己[某人]: He needs to be properly looked after. 他需要好好照顾. * Who will look after the children while their mother is in hospital? 孩子们的母亲住院期间谁照 顾他们呢? * He's good at looking after himself/his own interests. 他很会照顾自己[自己的利益]. look after sth be responsible for sth 负责某事物: Our neighbours are looking after the garden while we are away. 我们不在家的时候, 由邻居照料花园.
+look ahead 
+think about what is going  to happen in the future 向前看; 为将来打算: Have you looked ahead to what you'll be doing in five years' time? 你是否想过五年後你要做些什麽?
+look at sth 
+(a) examine sth, esp closely 检查某事物（尤指仔细查）: Your ankle is badly swollen; I think the doctor ought to look at it. 你的脚腕子肿得很厉害, 我认为得请医生看看了. * I haven't had time to look at (ie read) your essay yet. 我还未得空仔细地读你的文章. * I'm taking my car to the garage to be looked at. 我要把汽车送到修车厂去检修. (b) think about, consider or study sth 考虑或研究某事物: The implications of the new legislation will need to be looked at. 新法规的含义需研究一下. * The committee wouldn't even look at my proposal. 委员会对我的提议甚至不予考虑. (c) view or regard sth 观察或看待某事物: The Americans look at life differently from the British. 美国人对生活的看法, 与英国人不同. * Looked at from that point of view, the job becomes easy. 从那个观点看, 这工作就容易了.
+look back (on sth) 
+think about (sth in) one's past 回顾自己的过去（的某事物）: look back on one's childhood,past, life 回顾童年、 过去、 生活.
+look down on sb/sth 
+(infml 口) regard sb/sth with contempt; consider sb/sth inferior to oneself; despise sb/sth 鄙视或看不起某人[某事物]?i; 认为某人[某事物]不如己: She looks down on people who've never been to university. 她瞧不起没上过大学的人. * He was looked down on because of his humble background. 他因家世寒微而被人看不起.
+look for sth 
+hope for sth; expect sth 盼望或期待某事物: We shall be looking for an improvement in your work this term. 我们期待你这学期功课进步.
+look forward to sth/doing sth 
+anticipate sth with pleasure 欣然期待某事物: look forward to one's holidays, the weekend, a trip to the theatre 盼望放假、 周末、 去看戏 * We're so much looking forward to seeing you again. 我们非常盼望再见到你.
+look in (on sb/at...) 
+make a short visit to sb's house/a place 短时间探访某人家或到某处: The doctor will look in again this evening. 今晚医生再来探视. * Why don't you look in (on me) next time you're in town? 你下次进城来顺便来串门儿好吗? * I may look in at the party on my way home. 我回家时可能顺便到聚会处看看.
+look into sth 
+investigate or examine sth 调查或观察某事物: A working party has been set up to look into the problem. 已成立工作组调查该问题. * His disappearance is being looked into by the police. 他失踪一事警方正在调查.
+look on 
+be a spectator at an event or incident; watch sth without taking part in it oneself 观看某事物; 旁观: Passers-by just looked on as a man was viciously attacked. 有一男子遭人毒打, 路人只在一旁观看. look on sb/sth as sb/sth regard or consider sb/sth to be sb/sth 将某人[某事物]看作他人[他事物]: She's looked on as the leading authority on the subject. 她被认为是该问题的主要权威. look on sb/sth with sth regard sb/sth in the specified way 以某种态度看待某人[某事物]: I look on him/his behaviour with contempt. 我对他不屑一顾[瞧不起他的为人]. * She was always looked on with distrust. 人家对她总是不信任. * How do people in general look on her? 人们一般对她怎麽看?
+look out 
+(used in the imperative 用於祈使句) be careful; watch out 小心; 当心: Look out! There's a car coming. 小心! 有辆汽车来了. look out (for sb/sth) be alert or watchful in order to see, find or be aware of sb/sth 警惕或留心某人[某事物]: Will you go to the station and look out for Mr Hill? 你到火车站去迎候希尔先生好吗? * Look out for pickpockets. 小心扒手. * Police will be looking out for trouble-makers at today's match. 今天的比赛有警察防备著捣乱分子. * Do look out for spelling mistakes when you check your work. 你检查作业时要当心拼写错误. look sth out (for sb/sth) search for sth and find it 寻出某物: I must look out some bits and pieces for the church jumble sale. 我得找些零碎东西捐给教堂作义卖.
+look over sth 
+inspect or examine sth 检阅或检查某事物: We must look over the house before we decide to rent it. 我们必须先查看一下这所房子再决定租不租. look sth over examine sth one by one or part by part 逐一或逐部分检查某事物: Here's the mail. I've looked it over. 这批邮件都在这儿. 我已逐一查过了.
+look round 
+(a) turn one's head in order to see sb/sth 转过头看某人[某物]: She looked round when she heard the noise behind her. 她听到身後有声响, 就回过头去看. (b) examine various options or possibilities 审察供选择的事物或可能性: We're going to look round a bit before deciding where to buy a house. 我们先到各处查看一下, 再决定买哪里的房子. look round sth visit (a place or building) as a tourist or sightseer 参观, 游览（某地或某建筑）: Shall we look round the cathedral this afternoon? 我们今天下午参观大教堂好吗?
+look through sb 
+deliberately ignore sb whom one can see clearly 对某人故意视而不见: She just looked straight through me. 她对我连理都不理. look through sth examine or read sth quickly 快速检查某事物; 快速阅读某物: She looked through her notes before the examination.考试前她匆匆看了一遍笔记. look sth through examine or read sth carefully; examine or read (a number of things) one by one 仔细检查, 逐一审查（某事物）: Always look your work through before handing it in. 交作业前一定要仔细检查. * He looked the proposals through before approving them. 他逐一审查了各项建议才予以批准.
+look to sb for sth; look to sb to do sth 
+rely on or expect sb to provide sth or do sth 依赖或指望某人提供或做某事物: We are looking to you for help. 我们指望你的帮助. * She's regularly looked to for advice. 人家经常徵求她的意见. * Many people are looking to the new government to reduce unemployment. 很多人都寄望新政府能减少失业的人. look to sth make sure that sth is safe or in good condition; be careful about sth 注意或留心某事物: The country must look to its defences. 国家必须注意其防御力量. * You should look to your health. 你应当注意健康.
+look up 
+(a) raise one's eyes 仰视: She looked up (from her book) as I entered the room. 我进屋时, 她（放下书）抬眼看了看. (b) (infml 口) (of business, sb's prospects, etc) become better; improve （指商业、 某人的前景等）转好, 改善: Inflation is coming down; unemployment is coming down; things are definitely looking up! 通货膨胀正在缓解, 失业情形正在改善, 形势确实已好转. look sb up (infml 口) visit or contact sb, esp after not having seen him for a long time 看望或接触某人（尤指久别後）: Do look me up the next time you're in London. 你下次到伦敦, 务必来找我. look sth up search for (a word or fact) in a dictionary or reference book （在词典或参考书中）查阅（词或资料）: If you want to know how a word is used, look the word up in the Advanced Learner's Dictionary. 要想了解某词的用法, 查《进修词典》. * Look up the time of the next train in the timetable. 查一下火车时刻表中下一趟车的时间. look up to sb admire or respect sb 赞赏或尊敬某人: She has always looked up to her father. 她一向崇敬父亲.
+look 
+interj (used to make sb listen to sth important that one is saying 用以唤起某人注意听要说的重要事情): Look, don't you think you're over-reacting slightly? 喂, 你不认为你的反应有点过火吗?
+looker 
+n (infml approv sexist 口, 褒, 性别偏见) attractive girl or woman 漂亮姑娘; 美女: She's a real looker! 她真漂亮! 
+looker-on
+/ 9lUkEr5Cn; 9lJkL`Bn/ n (pl lookers-on) / 9lUkEz5Cn; 9lJkLz`Bn/ person who watches sth but does not take part in it; spectator; onlooker 观者; 旁观者.
+-looking 
+(forming compound adjs 用以构成复合形容词) having the specified appearance 具有某种外观者: a ,strange-looking `place * She's not ,bad-looking, ie quite attractive. 她容貌不错.
+look-alike 
+n (often used after a person's name 常用於人名之後) person who has a very similar appearance to sb else 与某人极相似的人: the Prime Minister's look-alike 酷似首相的人 * [attrib 作定语] a Marilyn Monroe look-alike contest 模仿玛丽莲·梦露形像的比赛.
+look-in 
+n (idm 习语) (not) give sb/get/have a `look-in (infml 口) (not) give sb/have a chance to participate or succeed in sth （不）给某人[有]参加或完成某事物的机会: She talks so much that the rest of us never get a look-in. 她说话滔滔不绝, 我们都插不上嘴. * He'd love to play for the school team but he never gets a look-in, ie is never chosen. 他倒很愿意参加校队, 可是从未有过机会.
+looking-glass 
+n (dated 旧) mirror 镜子.
+look-out 
+n  1 [C] place from which sb watches carefully in order to see an enemy, intruder, etc 岗哨（指处所）; 观察所; 了望台: [attrib 作定语] a look-out tower 了望塔.  2 [C] person who watches from such a place 岗哨（指人）; 了望员: We posted several look-outs. 我们部署了几个岗哨.  3 (idm 习语) be a bad, grim, poor, etc look-out (for sb/sth) prospects are bad, etc for sb/sth 某人[某事物]的前景不妙等: It's a bleak look-out for the coal industry as the number of pit closures increases. 煤井关闭的数目日多, 煤炭工业前景暗淡. be `sb's look-out (infml 口) (used to describe an action that is considered irresponsible 用以描述不负责任的行为) be sb's concern or responsibility 为某人的事或责任: If you want to waste your money, that's your `own look-out. 你要乱花钱, 那是你的事. be on the look-out for sb/sth; keep a look-out for sb/sth = look out for sb/sth.
+look-over 
+n [sing] brief examination or inspection （简短的）察看或审阅: Would you give these figures a look-over to check my calculations? 请审阅一下这些数字, 看看我计算得对不对好吗?
+look-through 
+n [sing] act of reading sth quickly 浏览; 粗略看一遍: I gave her article a quick look-through. 她的文章我匆匆读过一遍.
+look
+NOTE ON USAGE 用法:  1 Look (at) means to direct one's eyes towards a particular object *look (at)指使视线接触某物体: Just look at this beautiful present. 快来看看这件漂亮的礼物吧. *  I looked in the cupboard but I couldn't find a clean shirt. 我看过了衣橱里边, 但找不到乾净的衬衫.  2 Gaze (at) means to keep one's eyes turned in a particular direction for a long time. *gaze (at)指使视线长时间对著某方向. We can gaze at something without looking at it if our eyes are not focussed 假如视线不集中於某目标, 则虽为gaze at却并非look at: He spent hours gazing into the distance. 他半天一直凝视著远方. *  She sat gazing unhappily out of the window. 她坐在那儿闷闷不乐地望著窗外.  3 Stare (at) suggests a long, deliberate, fixed look. *stare (at)指长久的、 有意的、 目不转睛的看. Staring is more intense than gazing and the eyes are often wide open. stare比gaze精神集中, 常指张目注视. It can be impolite to stare at somebody *stare at某人有时是不礼貌的: I don't like being stared at. 我不喜欢人家盯著瞧我. *  She stared at me in astonishment. 她惊奇地注视著我.  4 Peer (at) means to look very closely and suggests that it is difficult to see well *peer (at)指仔细看, 含很难看清之意: We peered through the fog at the house numbers. 我们透过雾气细看门牌号码. *  He peered at me through thick glasses. 他透过厚厚的眼镜片盯看著我.  5 Gawp (at) means to look at someone or something in a foolish way with the mouth open *gawp (at)指傻头傻脑地张著嘴看某人或某物: What are you gawping at? 你在傻盯著什麽? *  He just sits there gawping at the television all day! 他整天坐在那儿傻里傻气张著大嘴看电视!
+look
+/ lUk; lJk/ n  1 [C usu sing 通常作单数] act of looking 看; 瞧; 望: Have/Take a look at this letter. 看一看这封信.  2 [C usu sing 通常作单数] search; inspection 查找; 察看: I've had a good look (for it) but I can't find it anywhere. 我好好找了一遍, 但是哪儿都找不到.  3 [C] way of looking; expression or appearance 样子; 表情; 外貌: a look of pleasure, fear, relief, etc 喜悦、 害怕、 欣慰等的神色 * I knew something was wrong: everyone was giving me funny looks, ie looking at me strangely. 我知道有点不对头, 因为人人都怪模怪样地看著我. * The house has a Mediterranean look. 这所房子有地中海一带的样子.  4 [C] fashion; style 时式; 风格: The broad-shouldered look is in this year. 今年流行宽肩的款式. * They've given the shop a completely new look, ie redesigned it. 他们把商店装修一新. * [attrib 作定语]I like your new-look hair-style. 我喜欢你的新发式.5 looks [pl] person's appearance 相貌; 仪表: She's got her father's good looks. 她有父亲端庄的容貌. * She's starting to lose her looks, ie become less beautiful. 她姿色逐渐衰减.  6 (idm 习语) by/from the look of sb/sth judging by sb's/sth's appearance, etc 据某人[某事物]的外表等判断: Taxes are going to go up, by the look of it. 看样子要加税了. give sb/get a dirty look => dirty1. like the look/sound of sb/sth => like1. take a long look at sth => long1.
+loom
+/ lu:m; lum/ n machine for weaving cloth 织布机.
+loom
+/ lu:m; lum/ v (a) [Ipr, Ip] appear in an indistinct and often threatening way 隐现（常令人生畏）: an enormous shape looming (up) in the distance, out of the darkness, through the mist, etc 自远处、 从黑暗中、 透过雾霭等森森然逼临的庞然大物. (b) [La, I] (fig 比喻) appear important or threatening 显得重要或令人生畏: The prospect of war loomed large in everyone's mind. 战事将起的庞大阴影威慑人心. * the looming threat of a strike 非同小可的罢工威胁.
+loony
+/ 5lu:nI; `lunI/ n, adj (sl 俚) (person who is) crazy or eccentric; lunatic 疯狂的; 怪诞的; 疯子; 狂人: He does have some pretty loony ideas. 他的确有些颇为狂妄的想法.
+loony-bin 
+n (sl joc offensive 俚, 谑, 蔑) mental home or hospital 疯人院.
+loop
+/ lu:p; lup/ n  1 (a) shape produced by a curve crossing itself （曲线自绕所成的）环形, 圈: a double loop like a figure eight 像8字的双圈 * handwriting with loops on many of the letters 把很多字母都写得带圈的笔体. (b) any path or pattern shaped roughly like this 环形的轨迹或图案: The plane flew round and round in wideloops. 飞机翻著大圈一圈一圈地飞行. (c) length of string, wire, etc in such a shape, usu fastened at the crossing （绳、 金属线等绕成的）环, 结: a loop of ribbon to carry the package by 包裹上供手提的缎带套.  2 complete circuit for electric current 环形线路.  3 (computing 计) set of instructions carried out repeatedly until some specified condition is satisfied 循环.  4 contraceptive coil 避孕环.
+loop 
+v  1 [I, Tn, Tn.pr, Tn.p] form or bend (sth) into a loop or loops 使（某物）成环或圈: strings of lanterns looping/looped between the branches of the trees 绕树穿枝回环成串的灯笼 * looped threads 打圈的线 * loop (up) a rope 把绳子挽成圈.  2 [Tn, Tn.pr, Tn.p] fasten or join (sth) with a loop or loops 打环扣系住（某物）; 缠绕: loop the rope round the post 把绳子缠绕在柱子上 * loop the curtains back 卷起帘子.  3 (idm 习语) ,loop the `loop (of an aircraft) fly in a complete circle vertically; (of a pilot) cause an aircraft to do this （指飞行器或驾驶员）翻圈飞行, 翻跟头飞行.
+loop-line 
+n railway or telegraph line that leaves the main line and then joins it again （铁路的）会车线; （电信的）回线, 环形线路.
+loophole
+/ 5lu:phEUl; `lup9hol/ n  1 way of escaping a rule, the terms of a contract, etc, esp one provided by vague or careless wording （规则、 合同条款等的）漏洞, 空子（尤指措辞含混或不严谨所致者）: A good lawyer can always find a loophole. 精明的律师专会找到漏洞.  2 narrow vertical opening in the wall of a fort, etc for looking or shooting through, or to let light and air in （要塞等的）观察孔, 枪眼, 透光孔, 换气孔.
+loopy
+/ 5lu:pI; `lupI/ adj (sl 俚) crazy 疯狂的: It sounds a pretty loopy idea to me. 那个主意我觉得有点异想天开.
+loose
+/ lu:s; lus/ adj (-r, -st)  1 freed from control; not tied up 自由的; 不受束缚的; 松开的: The cows had got out of the field and were (roaming) loose in the road. 牛从牧场窜出, 在公路上自由自在（到处）走动. =>Usage 见所附用法.  2 (that can be) detached from its place; not firmly fixed （能）除下的; 不牢固的: Be careful with that saucepan  the handle's loose. 小心那个长把儿锅--把儿可松了. * a rope hanging loose 松垂的绳子 * a loose tooth, thread, screw 松动的牙齿、 线、 螺钉.  3 not fastened together; not held or contained in sth 未系在一起的; 零散的: loose change, ie coins carried eg in a pocket 零钱 * nails sold loose by weight, ie not in a packet 按重量零售的钉子.  4 not organized strictly 组织不严密的: a loose confederation of states 松散的联邦 * a loose symphonic structure 结构松散的交响乐曲.  5 not exact; vague 不精确的; 含混的: a loose translation 不准确的译文 * loose thinking 不严密的思想.  6 (a) physically slack; not tense 松弛的; 不紧张的: loose skin 松弛的皮肤 * have loose bowels, ie suffer from diarrhoea 腹泻. (b) not tight or constricting 不紧的; 未收紧的: a loose collar 宽松的衣领. =>Usage 见所附用法.  7 not compact or dense in texture 不致密的; 疏松的: cloth with a loose weave 织得稀疏的布 * loose soil 松土.  8 [esp attrib 尤作定语] (of talk, behaviour, etc) not sufficiently controlled （指言行等）不严谨的, 放荡的: loose conduct 放荡的行为 * lead a loose and dissolute life 过荒淫放荡的生活 * a loose (ie immoral) woman 放荡的女子.  9 (of play in a game) careless and inaccurate （指比赛中的表现）不经心的, 马虎的: some rather loose bowling, ie in cricket （板球中）漫不经心的投球.  10 (idm 习语) all hell broke/was let loose => hell. at a loose `end; US also at loose ends having nothing to do; not knowing what to do 无事做; 不知做什麽好: Come and see us if you're at a loose end. 闲著的时候到我们这儿来坐坐. break `loose (from sb/sth) escape confinement or restriction 挣脱束缚或限制: The dog has broken loose, ie got free from its chain. 那狗挣脱链子跑了. * break loose from tradition 挣脱传统的束缚. come/work `loose (of a fastening, bolt, etc) become unfastened or insecure （指扣件、 闩等）松开, 不牢固. cut `loose (infml 口) act, speak, etc freely and without restraint （行动、 说话等）自由, 无约束: He really cut loose and told me what he thought of me. 他单刀直入说出对我的看法. cut sth/sb loose (from sth) make sth/sb separate or free 使某事物[某人]分开或摆脱束缚: cut a boat loose 砍断缆索放船行 * cut oneself loose from one's family 摆脱家庭的束缚. have a loose `tongue be in the habit of talking too freely 说话太随便; 嘴不紧. have a screw loose => screw n. let sb/sth loose release sb/sth 释放某人[某物]: Don't let that dog loose among the sheep. 不要放任那条狗在羊群中乱窜. * Just close your eyes and let loose your imagination. 闭上眼睛, 海阔天空地遐想一番吧. let sb loose on sth allow sb to do as he likes with sth 放任某人做某事物: I daren't let Bill loose on the garden  he'd pull up all the flowers. 我不敢把比尔放到花园去--他会把花全都拔掉的. play fast and `loose (with sb) behave dishonestly or deceitfully 玩弄; 欺诈.
+loose- 
+(in compounds 用以构成复合词) loosely 不受束缚地; 松开地; 不牢固地; 不严密地; 不精确地; 不紧地; 放荡地: loose-fitting clothes.
+loosely 
+adv in a loose manner 不受束缚地; 松开地; 不牢固地; 不严密地; 不精确地; 不紧地; 放荡地: loosely speaking, ie in general 笼统地说 * loosely translated 粗略地翻译.
+looseness 
+n [U].
+loose box 
+stall in which a horse can move about freely 可供马自由活动的马厩.
+loose covers 
+removable covers for chairs, etc （椅子等的）活套.
+loose-leaf 
+adj [esp attrib 尤作定语] (of a note-book, etc) with pages that can be removed separately and replaced （指笔记本等）活页的.
+loose
+NOTE ON USAGE 用法: The adjective loose has several senses. 形容词loose有几个义项. Two of these are 1 `not tied up' and 2 `not tight' 其中两项是1未拴住的, 2不紧的: The dogs are loose in the garden. 狗在花园里都没拴著. *  a tight/loose shirt, dress, belt, etc 紧身的[宽松的]衬衫、 连衣裙、 皮带等. The verb loose (also unloose) relates to the first sense and means `set free' 动词loose（及unloose）与第一义有关, 意为｀使不受约束＇: The guard loosed the dogs when the burglar alarm went off. 防盗警报器一响, 警卫就放出了警犬. The verb loosen (also unloosen) relates to the second sense and means `make loose' 动词loosen（及unloosen）与第二义有关, 意为｀使松开＇: After the huge meal he loosened his belt and went to sleep. 他饱餐一顿以後就松开腰带睡著了. Note that the verb lose (pt lost, pp lost) is unconnected with loose or loosen. 注意, 动词lose（过去式lost, 过去分词lost）与loose或loosen无关.
+loose
+/ lu:s; lus/ v  1 [Tn] release (an animal, etc) 释放（动物等）: loose the dogs 把狗放开.  2 (phr v) loose (sth) off (at sb/sth) fire (a gun or missile) 放（枪）; 发射（导弹）: Men were loosing off at shadows. 士兵向黑影射击. * loose off a few bullets (at the enemy) （向敌人）射出几发枪弹. =>Usage at loose1 用法见loose1.
+loose
+/ lu:s; lus/ n (idm 习语) (be) on the `loose enjoying oneself freely 放纵; 放荡.
+loosen
+/ 5lu:sn; `lusn/ v  1 [I, Tn] become or make loose or looser 变松; 使松; 放松: Can you loosen the lid of this jar? 你能把这个瓶盖松开吗? * This knot keeps loosening. 这个结老松开. * medicine to loosen a cough, ie help bring up the phlegm 止咳祛痰药. =>Usage at loose1 用法见loose1.  2 (idm 习语) loosen/tighten the purse-strings => purse1. loosen sb's `tongue make sb talk freely 使某人无拘束地谈话: Wine soon loosened his tongue. 他喝过酒话就多了.  3 (phr v) loosen (sth) up (cause sth to) relax （使某事物）放松: You should loosen up (your muscles) before playing any sport. 运动之前应先放松（肌肉）. * Don't be so nervous  loosen up a bit. 别那麽紧张--放松一点.
+loot
+/ lu:t; lut/ n [U]  1 goods (esp private property) taken from an enemy in war, or stolen by thieves 战利品, 掠夺品（尤指私人财物）; 赃物.  2 (infml 口) money; wealth 钱; 财物.
+loot 
+v (a) [I] carry off loot 抢劫; 劫掠: soldiers killing and looting wherever they went 到处屠杀劫掠的士兵. (b) [Tn] take (sth) as loot; take loot from (buildings, etc left unprotected, eg after a violent event) 掠夺（某物）; 抢劫（建筑物等）: The mob looted many shops in the area. 暴徒在该地抢劫了许多商店. Cf 参看 pillage, plunder. looter n: Looters will be shot on sight. 打劫者格杀勿论.
+lop
+/ lCp; lBp/ v (-pp-)  1 [Tn] cut branches, twigs, etc off (a tree) 剪去, 砍去（树）枝等.  2 (phr v) lop sth off/away remove (branches, twigs, etc) from a tree, etc by cutting （从树上等）剪除, 砍掉（树枝等）: He had his arm lopped off by an electric saw. 他让电锯给锯掉了一条胳膊.
+lop-eared
+/ 9lCp 5Ied; `lBp`Ird/ adj having drooping ears 有垂耳的: a ,lop-eared `rabbit 垂耳兔.
+lope
+/ lEUp; lop/ v [I, Ip] run fairly fast with long bounding strides 跳跃著大步跑: The tiger loped off into the jungle. 那老虎跑进丛林中去了.
+lope 
+n (usu sing 通常作单数) long bounding step or stride 大步; 阔步: move at a steady lope 迈著稳健的大步行走.
+lopsided
+/ 9lCp 5saIdId; `lBp`saIdId/ adj with one side lower, smaller, etc than the other; unevenly balanced 一侧比另侧低、 小等的; 两侧不平衡的; 不匀称的: a lopsided `grin 歪著嘴笑.
+loquacious
+/ lE5kweIFEs; lo`kweFEs/ adj (fml 文) fondof talking; talkative 爱说话的; 多话的. 
+loquaciously
+adv. 
+loquaciousness, loquacity
+/ lE5kwsEtI; lo`kwAsEtI/ ns [U].
+loquat
+/ 5lEUkwCt, 5lCkwt; `lokwBt/ n [C] (a) ornamental tree, common in China and Japan, having small yellow edible fruit 枇杷. (b) fruit of this tree 枇杷果.
+lord
+/ lR:d; lRrd/ n  1 [C] master; male ruler 君主; 王: our sovereign lord the king 国王陛下.  2 [sing] (a) the Lord God; Christ 上帝; 耶稣基督. (b) Our Lord Christ 主; 耶稣基督.  3 (a) [C] nobleman （男性）贵族: She married a lord. 她嫁给了一个贵族. (b) the Lords [singor pl v] (Brit) (members of) the House of Lords (house1 4) 上议院; 上议院议员: The Lords is/are debating the issue. 上议院正在辩论这事.  4 Lord [C] (Brit) (a) title of certain high officials 阁下, 大人（对某些高级官员的尊称）: the Lords of the Treasury 财政部诸大臣 * the First Lord of the Admiralty 海军大臣 * the Lord Mayor of London 伦敦市长. (b) title prefixed to the names of peers and barons 勋爵（用在贵族和男爵的姓名之前）: Lord Derby, ie the title of the Earl of Derby 德比勋爵（德比伯爵的尊称）. (c) My Lord respectful form of address to certain noblemen, judges and bishops 大人, 阁下（对某些贵族、 法官、 主教等的直接尊称）.  5 (idm 习语) drunk as a lord => drunk. good `Lord interj (expressing surprise, etc 表示惊讶等). live like a lord => live2. one's ,lord and `master (joc 谑) one's husband 丈夫; 夫君. `Lord knows nobody can say 谁也说不好; 天知道: Lord knows where he dug up that dreadful story. 天知道他那讨厌的故事是从哪里找来的. year of our Lord => year.
+lord 
+v (phr v) lord it over sb behave in a superior or domineering way to sb 对某人发威或专横: He likes to lord it over the junior staff. 他喜欢对下级职员逞威风.
+the lord of the manor 
+(in the Middle Ages) master from whom men held land and to whom they owed service （中世纪时的）庄园领主.
+the Lord's Day 
+Sunday 主日; 星期日.
+the Lord's Prayer 
+the prayer taught by Christ to his disciples, beginning `Our Father' 主祷文.
+Lords spiritual 
+(Brit) bishops and archbishops in the House of Lords 上议院中的神职议员（主教和大主教）.
+Lords temporal 
+(Brit) noblemen in the House of Lords who inherit their titles or are given them for life 上议院中的世俗议员（世袭贵族或终身贵族）.
+lordly
+/ 5lR:dlI; `lRrdlI/ adj (-ier, -iest)  1 haughty; insolent in a superior way 傲慢的; 神气活现的: dismiss people with a lordly gesture 颐指气使让大家离去.  2 suitable for a lord; magnificent 贵族气派的; 堂皇的: a lordly mansion 堂皇的宅第. 
+lordliness 
+n [U].
+lordship
+/ 5lR:dFIp; `lRrdFIp/ n  1 [C] title used in speaking to or about a man of the rank of `Lord' 大人, 阁下, 爵爷, 老爷（称呼或提到有爵位身分的人时用的敬称）: his/your lordship 爵爷大人 * their lordships 老爷 * (joc 谑) Would your lordship like a cup of tea? 阁下是否用茶?  2 [U] ~ (over sb/sth) (dated fml 旧, 文) authority; rule 权威; 统治.
+lore
+/ lR:(r); lRr/ n [U] knowledge and traditions about a subject or possessed by a particular group of people （某学科的或某部分人的）学问和传统: `bird lore 对鸟类的知识 * `folklore 民俗学 * `gypsy lore 吉卜赛人的学问和传统 * `Celtic lore 凯尔特人的传说.
+lorgnette
+/ lR:5njet; lRrn`jZt/ n pair of eye-glasses held to the eyes on a long handle 长柄眼镜.
+lorn
+/ lR:n; lRrn/ adj (arch or joc 古或谑) lonely and sad 孤寂而凄凉的.
+lorry
+/ 5lCrI; ?@ 5lR:rI; `lRrI/ n (Brit) (also esp US truck) large strong motor vehicle for transporting goods, soldiers, etc by road 卡车: an army lorry 军用卡车 * [attrib 作定语] a lorry driver 卡车司机. => illus 见插图.
+lose
+/ lu:z; luz/ v (pt, pp lost / lCst; ?@ lR:st; lRst/)  1 [Tn] have (sth/sb) taken away from one by accident, misfortune, old age, death, etc 失去, 丧失, 损失（某事物[某人]）: lose all one's money at cards 玩纸牌把钱输光 * lose a leg in an industrial accident 在一次工业事故中失去一条腿 * lose one's hair, teeth, good looks, ie as a result of ageing 失去头发、 牙齿、 美貌（如因年老） * He lost both his sons (ie They were killed) in the war. 他的两个儿子都在战争中死了. * She's just lost her husband, ie He has died recently. 她的丈夫刚去世. * lose one's job 失业.  2 [Tn] no longer have or maintain (esp a moral or mental quality) 不再有（尤指道德或精神的素质）: lose one's confidence, composure, etc 失去信心、 稳定的情绪等 * The train was losing speed. 火车渐渐减速. * lose interest in sth/sb, ie cease to be interested or attracted 对某事物[某人]失去兴趣 * He's lost ten pounds in weight. 他体重减了十磅. * lose one's balance/equilibrium 失去平衡[均势] * She's losing colour, ie becoming pale. 她脸色渐渐苍白了. * I warn you, I'm rapidly losing patience, ie becoming impatient. 我警告你, 我可没那麽多耐性了.  3 [Tn] become unable to find 遗失; 失落: I've lost my keys. 我的钥匙丢了. * The books seem to be lost/to have got lost. 那些书好像不见了. * She lost her husband in the crowd. 她和她丈夫在人群中走散了.  4 [Tn] (a) fail to obtain or catch (sth) 得不到或未捉住（某事物）: His words were lost (ie could not be heard) in the applause. 他的话让掌声淹没了. (b) (infml 口) be no longer understood by (sb) 使（某人）弄不懂: I'm afraid you've lost me. 对不起, 我不明白了.  5 [Tn] (infml 口) escape from (sb/sth); elude 逃避（某人[某事物]）; 躲避: We managed to lose our pursuers in the darkness. 我们趁黑摆脱了追踪的人. * You see that car following us? Well, lose it! 看见那辆跟著咱们的汽车了吗? 来, 甩掉它!  6 (a) [I, Ipr, Tn, Tn.pr] ~ (sth) (to sb) be defeated; fail to win (a contest, a lawsuit, an argument, etc) 输; 失败; 未赢得（竞赛、 官司、 辩论等）: It's only the second time the team has lost (a match) this season. 那仅仅是本赛季该队第二次失利而已. * We lost to a stronger side. 我们输给了实力更强的一方. * They won the battle but lost the war. 他们赢了这次战斗, 但输了这场战争. * lose a motion, ie fail to carry it in a debate 动议未通过. (b) [Tn, Tn.pr] ~ sth (to sth/sb) have sth taken away (by sth/sb) 丧失某事物（由某事物[某人]获得）: Railways have lost much of their business to the bus companies. 铁路公司许多生意让汽车公司夺走了.  7 [Tn] have to give up or forfeit (sth) 被迫放弃或失去（某事物）: The Labour candidate lost his deposit, ie did not obtain the minimum number of votes necessary in an election. 那个工党候选人失去了老本（未得到最低获选票数）. * lose one's no-claim bonus, eg by making an insurance claim following an accident 失去保险金无索偿优惠（如因发生事故後曾索赔）.  8 [Tn] waste (time or an opportunity) 浪费（时间或机会）: We lost twenty minutes through having to change a tyre. 我们因为换轮胎损失了二十分钟. * There's no time to lose, ie We must hurry. 没有时间了（必须赶快）.  9 (a) [I, Ipr, Tn, Tn.pr] ~ (sth) (on sth/by doing sth) become poorer (as a result of sth) （由某事物导致）亏损, 变差: We lost (a lot) on that deal. 我们那笔生意受到（很大）损失. * Poetry always loses (something) in translation. 诗歌一经翻译总有所失. * You will lose nothing by telling the truth. 说实话并不吃亏. (b) [Dn.n] cause (sb) to be without or forfeit (sth) 使（某人）失去或丧失（某事物）: His carelessness lost him the job. 他因粗心大意而丢了工作. * Such behaviour will lose you everyone's sympathy. 你这种表现大家就不会同情你了.  10 [I, Tn] (of a watch or clock) go too slowly by (an amount of time) （指钟表）慢（若干时间）: A good watch neither gains nor loses. 好表不快也不慢. * This clock loses two minutes (ie becomes two minutes behind the correct time) a day. 这钟一天慢两分钟.  11 (idm 习语) fight a losing battle => fight1. find/lose favour with sb/in sb's eyes => favour1. find/lose one's voice/tongue => find1. give/lose ground =>ground1. heads I win, tails you lose => head1. keep/lose one's balance => balance1. keep/lose one's cool => cool1. keep/lose count => count2. keep/lose one's temper => temper1. keep/lose track of sb/sth => track. lose all `reason become irrational or illogical 失去理智; 不讲道理: He lost all reason and started abusing his opponent. 他蛮不讲理, 大骂对手. lose one's `bearings become lost or confused 蒙头转向; 不知所措; 惶惑. lose one's `breath pant for breath, eg after running hard 气喘咻咻; 上气不接下气. lose `caste (with/among sb) lose status or respect 丧失地位; 为人轻视. lose `courage become depressed or fearful; despair 丧失勇气; 沮丧; 害怕; 绝望. lose `face be humiliated; lose credit or reputation 丢脸; 受屈辱; 丧失声誉. lose one's grip (on sth) be unable to understand or control a situation, etc 无法掌握或控制局势等: I think the Prime Minister may be losing his grip. 我认为首相可能控制不住局面了. lose one's `head become confused or over-excited 昏了头; 张皇失措; 冲动: Don't lose your head  keep calm! 别惊慌失措的--沉住气! lose `heart become discouraged 泄气; 灰心. lose one's `heart (to sb/sth) fall in love 爱上; 锺情於. lose one's `life be killed 丧生; 遇害. lose one's `marbles (sl 俚) go mad; no longer behavesensibly or rationally 发疯; 丧失理智; 行事无理性. lose/waste no time in doing sth => time1. lose one's `place (in a book, etc) be unable to find the point at which one stopped reading （在书中等）忘记上次读到的地方. lose one's `rag (infml 口) express one's anger, impatience, etc in an uncontrolled way 发脾气; 按捺不住. lose one's `seat (a) have the place where one was sitting taken by another person 座位被占. (b) (of a Member of Parliament) fail to be re-elected （指议员）未获连选. lose one's `shirt (infml 口) lose all one's money, esp as a result of gambling or speculation 输光所有的钱, 赔光本钱（尤指赌博或投机）: He lost his shirt on the horses. 他赌马把钱输光了. lose sight of sb/sth (a) no longer be able to see sb/sth 看不见某人[某物]: lose sight of land 看不见陆地. (b) overlook sth; fail to consider sth 忽略或未考虑某事物: We must not lose sight of the fact that... 我们不应忽视的事实是... * Our original aims have been lost sight of. 我们原来的目标已无影无踪了. lose the thread (of sth) be unable to follow an argument, story, etc 失去（议论故事等的）头绪. lose one's `touch no longer have the abilities, etc that once made one successful 丧失以前的能力等. lose touch (with sb/sth) no longer be in contact with sb/sth 失去和某人[某事物]的联系: I've lost touch with all my old friends. 我和所有的老朋友都失去了联系. * Let us not lose touch with reality. 我们不要脱离现实. lose one's `way become lost 迷路: We lost our way in the dark. 我们在黑暗中迷了路. lose/take off weight => weight. a losing `battle/`game struggle/contest in which defeat seems certain 不能获胜的争斗[比赛]: It's a losing battle trying to persuade Henry to take more exercise. 要说服亨利多运动纯属徒劳. not lose sleep/lose no sleep over sth not worry unduly about sth 不为某事物操心: It's not worth losing sleep over. 不值得多虑. win/lose by a neck => neck. win or lose => win. a winning/losing streak => streak n. win/lose the toss => toss n.  12 (phr v) lose oneself in sth become totally absorbed in sth 专心致志於某事物: I soon lost myself in the excitement of the film. 影片中的刺激情节很快就把我吸引住了. lose `out (on sth) (infml 口) be unsuccessful; suffer loss 不成功; 受损失: If things go wrong I'm the one who'll lose out, not you. 事情若有差错, 受损的是我, 不是你. lose out to sb/sth (infml 口) be overcome or replaced by sb/sth 被某人[某事物]战胜或取代: Has the cinema lost out to TV? 电影是不是让电视给取代了? =>Usage at loose1 用法见loose1.
+loser 
+n person who loses or is defeated, esp habitually 受损失者, 输者, 失败者（尤指一贯如此者）: a good/bad loser, ie one who accepts defeat well/badly 输得起[输不起]的人 * a born loser, ie sb who regularly fails in life 天生的庸才.
+loss
+/ lCs; ?@ lR:s; lRs/ n  1 [U] act, instance or process of losing 丧失; 遗失; 损失: loss of blood, health, prestige, money 丧失血液、 健康、 威信、 钱财 * The loss (ie death) of his wife was a great blow to him. 他妻子去世对他打击很大. * without (any) loss of time （毫）不失时 * a temporary loss of power 暂时失势 * The loss of this contract would be very serious. 未能签成这一合同关系重大.  2 [C] (a) person or thing lost 损失的人或物: heat loss 热量损失 * The enemy suffered heavy losses, ie many men killed, etc or much equipment destroyed. 敌军损失惨重. * The car was so badly damaged that it had to be abandoned as a total loss. 汽车损坏严重, 只好彻底报废. (b) money lost in a business deal, etc （生意等的）亏损的钱: made a loss on the deal 这笔交易赔了钱 * sell sth at a loss, ie for less than it cost 亏本出售某物 * suffer losses in the export market 在出口市场中亏损.  3 [sing] suffering caused by losing sb/sth; disadvantage （因失去某人[某事物]而致的）损失, 不利: Her departure is a great loss to the orchestra. 她离去是管弦乐队的一大损失. * It's no loss, ie Its loss does not matter. 那算不上损失.  4 (idm 习语) at a `loss not knowing what to do or say; perplexed or puzzled 不知如何是好; 茫然; 困惑: It left him at a complete loss (for words). 这使他完全茫然（而语塞）了. * I'm at a loss what to do next. 我不知道下一步怎麽办. cut one's `losses abandon a scheme that causes loss before one loses too much 中止某计画以免损失更大. a dead loss => dead.
+loss-leader 
+n (commerce 商) article sold at a loss to attract customers to buy other goods （为招徕顾客）亏本出售的商品.
+lost
+pt, pp of lose.
+lost
+/ lCst; ?@ lR:st; lRst/ adj  1 that cannot be found or recovered 失去的; 丧失的; 遗失的; 无法恢复的: recalling her lost youth 回忆她失去的青春 * The art of good conversation seems lost. 高雅谈吐的艺术似已不复存在. * lost tribes of Africa 非洲消失的部落.  2 [esp pred 尤作表语] (fig 比喻) confused or puzzled 不知所措; 困惑: I got rather lost trying to find the station. 我找车站找得晕头转向. * We would be totally lost without your help. 我们没有你的帮助就一筹莫展. * They spoke so quickly I just got lost. 他们说得那麽快, 我都糊涂了.  3 (idm 习语) ,all is not `lost (saying 谚) there is still some hope of success, recovery, etc 尚有一线（成功、 恢复等的）希望. be lost in sth be absorbed in sth 专注於某事物: lost in thought/wonder/admiration 想得入神[不胜诧异/欣赏入迷]. be lost on sb fail to influence sb 对某人不起作用或无影响: Our hints were not lost on him, ie He noticed them and acted accordingly. 我们给他的暗示他已心领神会. be lost to sth be no longer affected or influenced by sth 不再受某事物的影响; 将某事物置之度外: When he listens to music he's lost to the world, ie unaware of what is happening around him. 他一听音乐便把整个世界忘之脑後. get `lost (sl 俚) go away 滚开: Tell him to get lost. 叫他滚. give sb up for `lost no longer expect sb to be found alive 认为某人无生还的可能. a lost `cause project, ideal, etc that has failed or is certain to fail 已失败的或无法实现的计画、 理想等. make up for lost `time hurry, etc in order to compensate for time wasted earlier 加紧、 加快等以补偿失去的时间: He didn't have a girl-friend till he was 18, but now he's making up for lost time, ie he has had many girl-friends since then. 他18岁才交女友, 现在是在弥补前失了（已经交过很多女友）. there's little/no love lost between A and B => love1.
+lost property 
+possessions mislaid in a public place and not yet claimed by their owners 无人认领的失物: [attrib 作定语] a ,lost-property office 失物招领处.
+lot
+/ lCt; lBt/ n [Gp] (infml 口) the `lot, all the `lot, the whole `lot the whole number or amount (of sb/sth) 全体; 全部; 总量: That's the lot! 就这些! * Take all the lot if you want. 你想要就全部拿去. * The whole lot was/were discovered in a field. 那些全是在一田地发现的. * I want the lot (ie all) of you to get out of my house. 我要你们全滚出我家. * He expects a good salary, a company car, first-class air travel  the lot. 他想要可观的薪水、 公司的汽车、 头等的机票--一应俱全.
+lot
+/ lCt; lBt/ pron a lot, lots (infml 口) large number or amount 大量; 许多: Have some more pie, there's lots left. 再吃点馅儿饼吧, 还多著呢. * `How many do you want?' `A lot/lots.' ｀你要多少?＇｀要很多.＇
+a lot of 
+det (also infml 口语亦作 lots of) a large number or amount of (sb/sth) 大量; 许多: What a lot of presents! 多麽多的礼物哇! * I haven't got a lot of time. 我时间不多了. * There was lots of money in the safe. 保险柜里有很多钱. * A lot of people were queuing for the film. 许多人排队等著看那部电影. * I saw quite a lot of her (ie I saw her quite often) during the holidays. 假期中我见过她很多次. =>Usage at much1 用法见much1.
+lot
+/ lCt; lBt/ adv (infml 口)  1 a lot, lots (used with adjs and advs 与形容词和副词连用) considerably 很; 非常: I'm feeling a lot better today. 我今天身体好多了. * I eat lots less than I used to. 我吃得比从前少得多.  2 a lot (used with vs 与动词连用) (a) a great amount 极; 很; 非常: I care about you a lot. 我对你很关心. (b) often 常常: I play tennis quite a lot in the summer. 夏天我经常打网球. Cf 参看 a fat lot (fat1 7).
+lot
+/ lCt; lBt/ n  1 (a) [C] item or number of items sold, esp at an auction sale （出售物品的）项目, 批（尤指拍卖物）: Lot 46: six chairs. 第46项: 椅子六把. (b) [CGp] group, collection or set of people or things of the same kind （同类人或物的）组, 批, 套, 群: Nobody in the first lot of applicants was suitable for the job. 在第一批求职者中无人适合做那份工作. * I have several lots of essays to mark this weekend. 本周末我有几份文章要批改. * This next lot of washing is the last. 下一批是最後要洗的东西了.  2 [C] (a) piece of land 地皮; 土地. (b) (esp US) area used for a particular purpose （作某用途的）场地: a `parking lot, ie a car-park 停车场 * a vacant `lot, ie a building site 一块空地皮（建筑场地） * a `film lot, ie a film studio and the land around it 电影摄影场.  3 [sing] person's fortune, destiny or share 命运; 运气: Her lot has been a hard one. 她命苦. * I would not want to share his lot. 我可不愿和他同甘共苦.  4 [U] method of deciding sth or selecting sb/sth by chance 抽签法; 抓阄儿法: She was chosen by lot to represent us. 她抽中签当我们的代表.  5 (idm 习语) a bad egg/lot => egg. cast/draw `lots (for sth) make a selection by lot 抽签, 抓阄儿（决定某事物）: They drew lots for the right to go first. 他们抓阄儿决定谁先走. fall to sb's lot to do sth (fml 文) become sb's task or responsibility 成为某人的任务或责任. throw in one's lot with sb decide to join sb and share his fortunes 决心与某人共命运.
+loth
+= loath.
+lotion
+/ 5lEUFn; `loFEn/ n [C, U] liquid medicine or cosmetic for use on the skin （外用的）药液; （化妆用的）润肤液: soothing lotions for insect bites 虫咬止痛药水 * a bottle of cleansing lotion for the face 一瓶洁面液.
+lottery
+/ 5lCtErI; `lBtErI/ n  1 [C] way of raising money by selling numbered tickets and giving prizes to the holders of numbers selected at random （发行彩票）抽彩给奖（筹款法）: [attrib 作定语] a `lottery ticket 彩票. Cf 参看 draw1 1, raffle.  2 [sing] (fig 比喻) thing whose success, outcome, etc is determined by luck 碰运气的事: Some people think that marriage is a lottery. 有些人认为婚姻是缘分.
+lotto
+/ 5lCtEU; `lBto/ n [U] game of chance similar to bingo but with the numbers drawn by the players instead of being called 洛托（一种赌博游戏）.
+lotus
+/ 5lEUtEs; `lotEs/ n (pl ~es)  1 type of tropical water-lily 莲: [attrib 作定语] lotus flowers/blooms 莲花 * lotus blossom 莲花开花期.  2 (in Greek legends) fruit that makes those who eat it lazily and dreamily contented （希腊神话中的）落柘枣（食後产生懒怠与梦幻的满足感）.
+lotus position 
+way of sitting cross-legged, used when meditating, in yoga, etc 打坐（瑜伽等盘膝端坐的姿势）.
+loud
+/ laUd; laJd/ adj (-er, -est)  1 producing much noise; easily heard 喧闹的; 响亮的: loud voices, screams, laughs, etc 宏亮的嗓音、 喊声、 笑声等 * That music's too loud; please turn it down. 那音乐太吵人了; 请把音量调低些.  2 (derog 贬) (of colours, behaviour, etc) forcing people to notice them/it （指颜色、 行为等）引人注目的, 刺眼的: That dress is a bit loud (ie gaudy), isn't it? 那件连衣裙有点花哨吧? * His manner is too loud.他那样子太招摇.  3 (idm 习语) be loud in one's praise(s) (of sb/sth) praise sb/sth very highly 盛赞某人[某事物].
+loud 
+adv (-er, -est)  1 (used esp with talk, sing, laugh, etc 尤与talk、 sing、 laugh等动词连用) in a loud manner 喧闹地; 响亮地: laugh loud and long 大笑不已 * Speak louder  I can't hear you. 大点声说--我听不见. * Their baby screamed loudest of all. 他们的孩子哭叫起来声音最大.  2 (idm 习语) actions speak louder than words => action. for crying out loud => cry1. ,out `loud aloud 出声地; 大声地: Don't whisper; if you've got something to say, say it out loud. 别叽咕了, 有什麽要说的大声说吧.
+loudly 
+adv: a dog barking loudly 大声吠叫的狗 * loudly dressed 穿得花哨的.
+loudness 
+n [U]
+loudhailer 
+n (US bullhorn) portable electronic device for amplifying the sound of sb's voice so that it can be heard at a great distance 便携式扩音器; 电子喇叭: use a loudhailer to address the crowd 用电子喇叭向人群讲话.
+loud-mouth 
+n (infml 口) person who talks too loudly or too much, esp boastingly 大声说话的人; 多嘴的人; （尤指）爱吹牛的人. 
+loud-mouthed 
+adj.
+loudspeaker (also speaker) 
+n part of a radio, record-player, etc that changes electrical impulses into audible sounds 扩音器; 扬声器.
+lough
+/ lCk, lCx; lBk, lBx/ n (Irish 爱尔兰) lake or long inlet of the sea 湖; 海湾. Cf 参看 loch.
+lounge
+/ laUndV; laJndV/ v [I, Ipr, Ip] sit or stand in a lazy way, esp leaning against sth; loll 懒洋洋地坐或立（尤指倚靠某物）: lounge about/around (the house) （在家里）发懒 * lounging at street corners 在街头闲荡.
+lounge 
+n  1 waiting-room at an airport, etc （机场等的）等候室: the departure lounge 候机室.  2 public sitting-room in a hotel, club, etc （旅馆、 俱乐部等的）休息室.  3 (Brit) sitting-room, with comfortable chairs, in a private house （私宅中有沙发等的）起居室.  4 = lounge bar.
+lounger 
+n lazy or idle person 懒惰闲散的人; 游手好闲者.
+lounge bar (Brit) (US saloon bar) 
+smarter, and usu more expensive, bar in a pub, hotel, etc 豪华酒吧. Cf 参看 public bar (public).
+lounge-suit 
+n (Brit) man's suit with matching jacket and trousers, worn esp in offices and on more formal occasions （男子的）成套西服（尤指在办公室和较正式场合中穿的）.
+lour (also lower)
+/ 5laUE(r); laJr/ v [I, Ipr] ~ (at/on sb/sth) (a) look threatening; frown 作怒相; 皱眉: louring looks 怫然不悦的神情. (b) (of the sky, clouds, etc) look dark, as if threatening a storm （指天气、 云等）变阴暗（似预示暴风雨）.
+louse
+/ laUs; laJs/ n  1 (pl lice/ laIs; laIs/) (a) small insect living on the bodies of animals and human beings, esp in dirty conditions 虱. (b) similar insect living on plants （靠植物生活的）小昆虫.  2 (pl ~s) (sl 俚) contemptible person 可鄙的人.
+louse 
+v (phr v) louse sth up (infml 口) spoil sth; ruin sth 搞糟或弄坏某事物: You've really loused things up this time. 这回你可真把事情搞糟了.
+lousy
+/ 5laUzI; `laJzI/ adj (-ier, -iest)  1 infested with lice 多虱的.  2 (infml 口) very bad or ill 极坏的; 极不适的: a lousy holiday 极糟的假日 * I feel lousy. 我觉得很不舒服.  3 [pred 作表语] ~ with sth/sb (sl 俚) having more than enough of sth/sb 大量; 多: In August the place is lousy with tourists. 八月里这地方游客多如牛毛.
+lout
+/ laUt; laJt/ n clumsy vulgar man or youth with bad manners 粗鄙的男子或青年.
+loutish 
+adj of or like a lout （似）粗鄙之人的: loutish behaviour 粗鄙的行为.
+louvre (also louver)
+/ 5lu:vE(r); `luvL/ n (a) one of a set of fixed or movable strips of wood, metal, etc arranged to let air in while keeping light or rain out （一条）百叶窗板. (b) set of such strips inside a supporting frame （一套）百叶窗板. 
+louvred (also louvered) 
+adj: a louvred door 百叶门.
+lovable
+/ 5lQvEbl; `lQvEbl/ adj easy to love; worthy of love 可爱的; 惹人爱的; 值得爱的: a lovable puppy 可爱的小狗 * He's such a lovable rascal! 他真是个讨人喜欢的小坏蛋!
+love
+/ lQv; lQv/ n  1 [U] warm liking or affection; affectionatedevotion 喜爱; 热爱; 锺爱: a mother's love for her children 母亲对其子女的爱 * love of (one's) country, ie patriotism 对祖国的热爱 * She has a great love for animals. 她酷爱动物. * He shows little love towards her. 他没怎麽表现出喜爱她.  2 [U] sexual affection or passion 性爱; 恋爱; 爱情: marry for love, not money 为爱情而非为金钱结婚 * Their love has cooled, ie is no longer strong. 他们的爱情冷却了.  3 [U] (religion 宗) (in Christianity) God's benevolence towards mankind （基督教中）（上帝的）博爱, 慈爱.  4 [U, sing] strong liking for sth 酷爱某事物: a love of learning, adventure, music 酷爱学习、 冒险、 音乐.  5 [C] person who is loved; sweetheart 恋人; 情人; 爱人: Take care, my love. 小心, 亲爱的. * one of my former loves 我从前的一个情人 * (joc 谑) with his lady love, ie his girlfriend or wife 带著他的爱人（女友或妻）.  6 [C] (infml 口) delightful person or thing 招人喜爱的人或物: What a love her daughter is! 她女儿多麽可爱呀! * Isn't this hat a perfect love? 这顶帽子挺可爱吧?  7 [C] (Brit infml 口) (form of address used by a man to a woman or child (not necessarily a friend), or by a woman to a person of either sex 男人用以称呼（不一定相识的）女子或儿童; 女子用以称呼他人（男女均可）): Mind your head, love! 喂, 小心你的头!  8 [U] (in tennis) no score; nil （网球）零分: love all, ie neither player or pair has scored 零比零 * The score in the game on Court One is thirty-love. 一号球场上的比分是三十比零.  9 (idm 习语) be in love (with sb) feel affection and desire (for sb) 热恋著（某人）: They're very much in love (with each other). 他们（彼此）在热恋中. * I'm madly in love with her. 我爱她爱得发狂. be in love with sth be very fond of sth 喜爱某事物: a city in love with its own past ?W热爱自身传统的城市 * He's in love with the sound of his own voice, ie talks too much. 他就喜欢自己的声音（太爱说话）. cupboard love => cupboard. fall in love (with sb) feel a sudden strong attraction for sb 突然爱上某人. (just) for `love/for the `love of sth without payment or other reward 出於爱好（不计报酬）: They're all volunteers, doing it just for the love of the thing. 他们都是自愿的, 完全是因为喜欢做而做的. for the ,love of `God, etc (a) (expressing surprise, dismay, etc 用以表示惊奇、 惊慌等): For the love of God, not another bill! 看在上帝的份上, 别再来账单了! (b) (used when urging sb to do sth 用於催促某人做某事物): For the love of Mike let's get out of here! 看在上帝的份上, 咱们离开这鬼地方吧! ,give/,send sb one's `love give/send an affectionate greeting to sb 向某人致意: Please give your sister my love. 请代我向令妹致意. * My parents send their love. 我父母问您好. a labour of love => labour1. the ,love of sb's `life (a) person's most dearly loved sweetheart 最理想的爱人: I think I've met the love of my life. 我认为我已找到理想的爱人了. (b) person's favourite possession, activity, etc 最喜爱的东西、 活动等: Sailing is the love of his life. 帆船运动是他最喜爱的活动. make love (to sb) (a) have sexual intercourse 做爱; 性交: He refused to make love before they were married. 他决不在婚前发生性行为. (b) (dated 旧) behave amorously (towards sb), esp by being specially attentive （向某人）表示爱情; （尤指）献殷勤. not for ,love or `money not by any means 无论如何; 不管怎样: We couldn't find a hotel room for love or money. 我们怎麽也找不到一间旅馆客房. there's little/no `love lost between A and B they dislike each other 他们彼此厌恶: There's never been much love lost between her and her sister. 她和妹妹一向互相嫌恶.
+loveless 
+adj without love 没有爱的: a loveless marriage 没有爱情的婚姻.
+love-affair 
+n romantic or sexual relationship between two people who are in love （两人相爱的）风流韵事, 性关系.
+love-bird 
+n  1 small brightly-coloured parrot that seems to show great affection for its mate 情鸟; 情侣鹦鹉.  2 (usu pl 通常作复数) (infml 口) person who is very much in love 热恋中的人: Come along, you two love-birds! 快点吧, 你们这一对恩爱情侣!
+love-child 
+n (euph 婉) child of unmarried parents 私生子.
+love-hate 
+relationship intense emotional relationship involving feelings of both love and hate 爱恨交加的强烈感情关系.
+love-letter 
+n letter between two people expressing the love of one for the other 情书.
+lovelorn
+/ -lR:n; -9lRrn/ adj unhappy because one's love is not returned 失恋的.
+love-making 
+n [U] sexual play between two lovers, esp including sexual intercourse 做爱; （尤指）性交.
+love-match 
+n marriage made because the two people are in love with each other 爱情的结合; 恋爱结婚.
+love-potion (also love-philtre) 
+n (in stories) magic drink supposed to make the person who drinks it fall in love （故事中）（饮後可产生爱情的）春药.
+love-seat 
+n small sofa in the shape of an S, with two seats facing in opposite directions 情人椅（供两人对坐的S形小沙发）.
+lovesick 
+adj weak or ill because of being in love 受爱情折磨而憔悴的; 害相思病的.
+love-song 
+n song expressing or describing love 情歌; 恋歌.
+love-story 
+n story or novel in which the main theme is romantic love 爱情小说; 恋爱故事.
+love
+/ lQv; lQv/ v  1 [Tn] have a strong affection or deep tender feelings for (sb/sth) 爱, 热爱（某人[某事物]）: love one's parents, country, wife 爱父母、 国家、 妻子 * love God, ie worship Him 崇拜上帝.  2 [Tn, Tt, Tnt, Tg, Tsg] like (sb/sth) greatly; take pleasure in 喜欢（某人[某事物]）; 喜好: She's always loved horses. 她一向喜爱马匹. * He loves his pipe, ie smoking it. 他爱抽烟斗. * Children love to play/playing. 儿童喜欢玩要. * `Will you come?' `I'd love to!' ｀你来吗?＇｀我很乐意!＇ * We'd love you to come to dinner. 我们很愿意请你来吃饭. * I love him reading to me in bed. 我喜欢在床上听他给我读点什麽.  3 (idm 习语) ,love `me, ,love my `dog (saying 谚) if one loves sb, one will or should love everyone and everything associated with him 爱吾及犬; 爱屋及乌.
+lovely
+/ 5lQvlI; `lQvlI/ adj (-ier, -iest)  1 beautiful; attractive 可爱的; 美丽的; 动人的: a lovely view, voice, woman 可爱的景色、 嗓音、 女子 * lovely hair, weather, music 秀发、 可爱的天气、 动人的音乐.  2 (infml 口) enjoyable; pleasant 令人愉快的; 快乐的: a lovely dinner, time, story 可口的饭菜、 过得愉快、 有趣的故事 * It's lovely and warm (ie pleasant because warm) in here. 这儿的天气温暖宜人.  3 (idm 习语) everything in the garden is lovely => garden.
+loveliness 
+n [U].
+lovely 
+n (infml 口) pretty woman 美女: a couple of television lovelies 电视中的两个美女.
+lover
+/ 5lQvE(r); `lQvL/ n  1 [C] partner (usu a man) in a sexual relationship outside marriage （婚外恋的）伴侣, 情人（通常指男性）: They say he used to be her lover. 据说他曾是她的婚外情人. * She's taken a new lover. 她有了新的外遇情人. Cf 参看 mistress 4.  2 lovers [pl] two people who are in love or having a sexual relationship though not married 一对情侣（恋爱中的或未婚而有性关系的）: young lovers strolling in the park 在公园漫步的年轻情侣 * They met on holiday and soon became lovers. 他们在度假时结识, 不久便成了情侣.  3 [C] (often in compounds 常用以构成复合词) person who likes or enjoys sth specified 爱好者; 热爱者: a lover of music, horses, good wine 爱好音乐、 马匹、 美酒的人 * art-lovers 艺术爱好者.
+loving
+/ 5lQvIN; `lQvIN/ adj [esp attrib 尤作定语] feeling or showing love 爱的; 表示爱意的; 亲爱的: a loving friend 亲爱的朋友 * loving words 体贴的话. 
+lovingly 
+adv.
+loving-cup 
+n large wine-cup passed from person to person at a banquet, etc, so that everyone may drink from it 爱杯（宴席上供轮流饮酒的大杯）.
+loving-kindness 
+n [U] (arch 古) tender consideration or care 慈爱; 爱护.
+low
+/ lEU; lo/ adj (-er, -est)  1 not high or tall; not extending far upwards 低的; 矮的: a low wall, ceiling, tree 矮的墙、 天花板、 树 * a low range of hills 低矮的冈峦 * flying at a low altitude 在低空飞行 * The sun is low in the sky. 太阳很低. * a low brow, ie with hair-line and eyebrows close together 低前额（发线与眼眉靠得近者） * a dress low in the neck/a low-necked dress, ie one leaving the upper part of the breasts and much of the shoulders bare 领口低的连衣裙（袒胸露臂的）.  2 below the usual or normal level, amount, intensity, etc 低於通常或正常水平、 数量、 强度等的: low wages, taxes, prices, etc 低的工资、 税率、 价格等 * low temperature 低温 * low pressure, eg of the atmosphere, of gas or water piped to houses, of blood 低压（如气压、 煤气或自来水压、 血压） * low cloud 低云 * The surrounding land is low (ie not far above sea-level) and marshy. 周围的地低洼而多沼泽. * a low-density housing estate, ie one with comparatively few houses in the space available 低密度的住宅区（房屋较少） * The reservoir was very low after the long drought. 久旱之後水库的水位很低了.  3 ranking below others in importance or quality （在重要性或质量上）低於或劣於其他的: upper and lower classes of society 社会的上下阶层 * of low birth 出身低贱的 * low forms of life, ie creatures having a relatively simple structure 低等的生物 * low-grade fuel 低级燃料.  4 vulgar or coarse 鄙俗的; 粗俗的: low manners, tastes, etc 粗俗的举止、 低级趣味 * He keeps low company. 他结交庸俗的朋友. * low comedy, ie a crude form of farce 低级的喜剧 * low cunning, ie immoral and selfish cleverness 下流的诡计.  5 (of sound or a voice) not high in pitch; deep （指声音）不尖的, 深沉的: A man's voice is usually lower than a woman's. 男子的嗓音通常比女子的低.  6 not loud 小声的; 低沉的: a low rumble of thunder 低沉的隆隆雷声 * Keep your voice low. 要小声说话.  7 lacking in vigour; feeble or depressed 无生气的; 衰弱的; 情绪低的: in a low state of health 身体虚弱 * feel low/in low spirits/low-spirited 觉得情绪低落.  8 (of a gear) allowing a slower speed of a vehicle in relation to its engine speed （指变速器）低挡的: You'll need to change into a lower gear when going up this hill. 上这座山时得换低挡.  9 (idm 习语) at a low `ebb in a poor state; worse than usual 处於低潮; 情况不佳; 比平时差: Her spirits were at a very low ebb, ie She was very depressed. 她的情绪极度低落. be/run `low (on sth) (of supplies) be/become almost exhausted; have almost exhausted the supplies (of sth) （指供应品）几乎耗尽:The petrol's running low. 汽油快用完了. * We're (running) low on petrol. 我们的汽油不多了. a high/low profile => profile. lay sb/sth `low (a) bring sb/sth into a flat or horizontal position 使某人[某物]倒下或平卧: He laid his opponent low with a single punch. 他一拳就把对手打倒在地. (b) weaken or destroy 使衰弱或毁灭: The whole family was laid low by/with (ie was ill and in bed with) flu. 全家都因流感病倒在床上.
+lowermost 
+adj lowest 最低的; 最下的.
+lowness 
+n [U].
+Low Church 
+section of the Church of England that gives little importance to ritual and the authority of bishops and priests 低教会派（英国国教的一支, 不注重仪式及主教、 牧师的权威地位）: My family is Low Church. 我家属低教会派. 
+Low-Churchman 
+n member or supporter of this 低教会派成员.
+low-class 
+adj of poor quality or low social class 低级的; 低等的; 质量低劣的; 社会地位卑下的: ,low-class `merchandise 低级的商品.
+lower case 
+(in printing) small letters, not capitals （印刷）小楷字母, 小写字体: [attrib 作定语] ,lower-case `lettering 小写体字.
+Lower Chamber (also Lower House) 
+larger, usu elected, branch of a legislative assembly (eg the House of Commons in Britain, the House of Representatives in the US) 下议院（如英国的下议院, 美国的众议院）.
+the lower deck 
+(in the Navy) petty officers and lower ranks (not the officers) （海军中）水兵和低级军官.
+low frequency 
+(abbr 缩写 LF) radio frequency of 30 to 300 kilohertz 低频（无线电波段中30-300千赫范围内的频率）.
+low-key (also low-keyed) 
+adj not intense or emotional; restrained 低调的; 不强烈的; 克制的; 有节制的: The wedding was a very ,low-key affair. 婚礼办得毫不招摇.
+lowland
+/ 5lEUlEnd; `lolEnd/ n (usu pl 通常作复数) low-lying land 低地. 
+lowlander
+/ -lEndE(r); -lEndL/ n (a) person who lives in a lowland area 低地人. (b) (also `Lowlander) native of the Scottish Lowlands 苏格兰低地人.
+low-level language 
+computer language using instructions that correspond closely to the operations which the computer will perform 低级语言（近於计算机作业指令的）.
+low-pitched 
+adj (of sounds) low in pitch3(3a) （指声音）低调的, 轻的, 低沉的: a ,low-pitched `voice 低沉的嗓音.
+low season 
+time of year when fewest visitors come to a resort, etc （旅游胜地等的）淡季.
+low tide (also low water) 
+(a) tide when at its lowest level 低潮; 低水位. (b) time when this occurs 低潮期; 低水位期. ,low-`water mark (a) lowest point reached by the water at low tide 低潮线; 低水位线. (b) (fig 比喻) lowest or worst point 最低点; 最坏程度: the low-water mark of the company's fortunes 公司业绩的最低点.
+low
+/ lEU; lo/ adv (-er, -est)  1 in, at or to a low level or position 在或向低的水平或位置: aim, shoot, throw, etc low 向低处瞄准、 射击、 投掷等 * bow low to the Queen 向女王深深鞠躬 * play low, ie play a card with a low value 打出低点数的牌 * The simplest way to succeed in business is to buy low (ie at low prices) and sell high. 做生意成功最简单的途径就是贱买贵卖.  2 not at a high pitch; quietly 低调地; 低声地; 悄声地: I can't sing as low as that. 我唱不了那麽低的调. * Speak lower or she'll hear you! 低点声说, 要不她就听见了!  3 (idm 习语) lie low => lie2. be brought `low be reduced in health, wealth or position （健康、 财富或地位等的）下降, 恶化: Many rich families were brought low by the financial crisis. 很多富户都因那次金融危机而家道中落. high and low => high3. stoop so low => stoop.
+low-born 
+adj of humble birth 出身低微的: a low-born `leader 出身卑贱的领袖.
+low-lying 
+adj near to the ground or to sea-level 接近地面或海平面的; 低洼的: fog in ,low-lying `areas 低洼地区的雾.
+low-paid 
+adj paid low wages 工资低的: They are among the ,lowest-paid (,workers) in the `country. 他们在该国是属於低工资的（工作人员）.
+low-rise 
+adj [attrib 作定语] (of a building) having fewstoreys （指建筑物）低的, 层数少的: ,low-rise developments 低矮的新建住宅区.
+low
+/ lEU; lo/ n  1 low level or figure 低水平; 低数目: The (value of the) pound has fallen to a new low against the dollar, ie is worth less in exchange for dollars than ever before. 英镑兑换美元的比值已跌到新的低点.  2 area of low barometric pressure 低气压区: another low moving in from the Atlantic 从大西洋西移的另一个低气压区.
+low
+/ lEU; lo/ n deep sound made by cattle 牛叫声; 哞.
+low 
+v [I] make this sound; moo 作牛叫声; 发哞声.
+low-down
+/ 5lEUdaUn; `lo`daJn/ adj [attrib 作定语] (infml 口) dishonourable; underhand 卑鄙的; 不名誉的; 偷偷摸摸的: That was a pretty low-down trick to play! 玩弄那套伎俩真可耻!
+low-down 
+n (idm 习语) give sb/get the low-down (on sb/sth) (infml 口) tell sb/be told the true facts (about sb/sth) 告诉某人[获悉]（有关某人[某事物]的）真相: Give me the low-down on her divorce. 把她离婚的实情告诉我吧.
+lowbrow
+/ 5lEUbraU; `lo9braJ/ adj (esp derog 尤作贬义) not cultured or intellectual 无文化修养的; 无知识的; 智力低的: a lowbrow programme, discussion, person 粗俗的节目、 议论、 人.
+lowbrow 
+n lowbrow person 无文化修养的人. Cf 参看 highbrow, middle-brow (middle).
+lower
+/ 5lEUE(r); `loL/ v  1 [Tn, Tn.pr] (a) let or bring (sb/sth) down 让, 使（某人[某事物]）降低, 降下: lower supplies to the stranded men, eg from a helicopter 把给受困者的救济品放下去（如从直升飞机上） * lower the sails, a flag, a window 落帆、 降旗、 放下窗 * He lowered his gun slowly. 他慢慢把枪放下. * lower one's eyes (to the ground), ie look down 垂下眼睛（看地面） * (infml 口) He lowered (ie drank) four pints of beer in an hour. 他一小时喝下四品脱啤酒. (b) make less high 使减低; 放低: lower the roof of a house 把房子的屋顶改低 * lower (the height of) the ceiling 把天花板（的高度）降低.  2 [I, Ipr, Tn, Tn.pr] (cause sth to) become less in amount or quantity （使某事物）减少: Stocks generally lowered in value. 股票普遍下跌. * lower one's voice to a whisper 把声音降到耳语那麽低 * A poor diet lowers one's resistance to illness. 饮食不佳会减低对疾病的抵抗力.  3 [Tn, Tn.pr] ~ oneself (by doing sth) (infml 口) reduce one's dignity or self-respect 降低身分或自尊: Don't lower yourself by asking `him for help. 不要向他求助以免降低身分. * Speak to her? I'd never lower myself. 跟她说话? 我可不自贬人格.  4 (idm 习语) raise/lower one's sights => sight1.  5 (phr v) lower (sth) away (nautical 海) lower (a boat, sail, etc) 放下（小船）; 降下（船帆）.
+lower
+= lour.
+lowly
+/ 5lEUlI; `lolI/ adj (-ier, -iest) (dated 旧) of humble rank or condition 地位低的; 卑微的. 
+lowliness 
+n [U].
+loyal
+/ 5lRIEl; `lRIEl/ adj ~ (to sb/sth) true and faithful 忠诚的; 忠贞的: remain loyal to one's principles 信守自己的原则 * a loyal supporter of the Labour Party 工党的忠实拥护者.
+loyalist 
+n person who is loyal, esp to the established ruler or government during a revolt 忠诚分子（尤指在叛乱中忠於原统治者或政府者）: [attrib 作定语] loyalist troops 忠於政府的部队.
+loyally
+/ 5lRIElI; `lRIElI/ adv.
+loyalty
+/ 5lRIEltI; `lRIEltI/ n (a) [U] being true and faithful; loyal behaviour 忠诚; 忠诚行为: swear an oath of loyalty to the King 向国王宣誓效忠 * Can I count on your loyalty? 你对我的忠诚能让我信得过吗? (b) [C often pl 常作复数] bond that makes a person faithful to sb/sth 向某人[某事物]效忠的义务或约束: We all have a loyalty to the company. 我们对公司都有效忠的义务. * a case of divided loyalties, ie of being loyal to two different and often conflicting causes, etc 两面效忠（对常为对立双方皆效忠）.
+lozenge
+/ 5lCzIndV; `lBzIndV/ n  1 four-sided figure in the shape of a diamond 菱形; 菱形物.  2 small tablet of flavoured sugar, esp one containing medicine, which is dissolved in the mouth 糖锭; （尤指口含的）锭剂: a throat lozenge, ie for a sore throat 润喉片.

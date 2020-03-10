@@ -1,0 +1,596 @@
+Pk
+abbr 缩写 = (esp on a map 尤用作地图上的标记) Park: St (ie Saint) James' Pk 圣·詹姆斯公园.
+pkg
+abbr 缩写 = package.
+pkt
+abbr 缩写 = packet: 1 pkt cigarettes 一包香烟.
+Pl
+abbr 缩写 = (esp on a map 尤用作地图上的标记) Place: St (ie Saint) James' Pl 圣·詹姆斯街.
+pl
+abbr 缩写 = (grammar) plural.
+placard
+/ 5plAkB:d; `plAkBrd/ n written or printed notice (designed to be) publicly displayed, eg by being fixed to a wall or carried on a stick 布告; 招贴; 海报; 标语牌; 告示牌: The placards condemned the government's action. 那些标语牌上写著谴责政府措施的词句. =>illus at flag 见 fla 插图.
+placard 
+v [Tn]  1 stick placards on (sth) 将布告、 海报或标语张贴於（某处）.  2 announce (sth) by using placards （用布告、 海报等）公布（某事）.
+placate
+/ plE5keIt; ?@ 5pleIkeIt; `pleket/ v [Tn] make (sb) less angry; soothe or pacify 安慰, 抚慰（某人）; 使（某人）平静、 息怒.
+placatory 
+/ plE5keItErI; ?@ 5pleIkEtR:rI; `plekE9tRrI/ adj designed to placate or having this effect 安慰的; 抚慰的; 和解的: placatory remarks 安抚的话.
+place
+/ pleIs; ples/ n  1 [C] particular area or position in space occupied by sb/sth 地方; 场所; 所在地: Is this the place where it happened? 这就是事发地点吗? * This place seems familiar to me  I think I've been here before. 这地方好像很熟悉--大概我从前来过这里. * I can't be in two places at once. 我分身乏术. * He loves to be seen in all the right places, ie at all the important social events. 他喜欢在所有重大的社交场合上出头露面.  2 [C] city, town, village, etc 城、 镇、 村等: We saw so many places on the tour I can't remember them all. 我们旅行到过很多地方, 我记都记不清. * This town is the coldest place in Britain. 这镇子是英国最寒冷的地方. * Australia is a big place. 澳大利亚这个地方很大.  3 [C] ~ (of sth) (often in compounds 常用以构成复合词) building or area of land used for a particular purpose or where sth occurs （作某用途或发生某事的）建筑物或场所: a `meeting-place, `birthplace, `hiding-place, etc 会面地点、 出生地、 隐蔽所 * places of amusement/entertainment,ie theatres, cinemas, etc 娱乐场所（戏院、 影院等） * a place of worship, ie a church 礼拜的场所（教堂） * He can usually be contacted at his place of business/work. 通常可在他的办公[工作]地点和他联系. * a place of learning, eg a university 做学问的地方（如大学） * one's place of birth/death 出生[死亡]之地.  4 [C] particular spot or area on a surface 物体表面的某点或某处: a sore place on my foot 脚的痛处 * The wall was marked with damp in several places. 那堵墙有几处潮斑.  5 [C] particular passage or point in a book, play, etc （书、 戏剧等的）某段落或某点: The audience laughed in all the right places, eg in a play. 观众看到有趣处无不大笑不已（如在观剧时）. * Put a piece of paper in (ie in your book) to mark your place. 在你读到的地方夹上张纸条.  6 [C] seat or position, esp one reserved for or occupied by a person, vehicle, etc 座位或位置（尤指某人、 车等保留或占据的）: Come and sit here  I've kept you a place. 到这儿来坐--我给你占了一个座位. * There's only one place left in the car park. 停车场里只剩一个位置了. * the place of honour at the head of the table 餐桌上首的贵宾席 * There will always be a place for you here if you decide to come back. 只要你决定回来, 这里永远给你保留位置. * Return to your places and get on with your work. 各回各位去干自己的工作吧. * (fig 比喻) have an assured place in history 在历史上占有一定的地位 * I went to buy a newspaper and lost my place in the queue. 我去买了份报纸, 回来就找不到我排队中的位置了. =>Usage at space 用法见space.  7 [sing] rank, position or role in society (used esp with the vs shown) （社会的）等级, 地位, 身分（尤与所示动词连用）: keep/know one's place 保持个人的地位[知道自己的身分] * forget one's place, ie not behave according to one's social position 举止与身分不合 * not be one's place (ie one's proper role) to give advice 无资格进言.  8 [C] (a) position or office, esp as an employee 职位或职务（尤指雇员的）: She hopes to get a place in the Civil Service. 她希望获得一份公职. (b) opportunity to study at a school or university （在学校）学习或研究的机会: She was awarded a place at the Royal College of Music. 她获得皇家音乐学院的学籍. * The ballet school offers free places to children who are exceptionally talented. 该芭蕾舞蹈学校给有特殊天赋的儿童提供免费学习的机会. (c) membership of a sports team 运动队员的资格或身分: She worked hard for her place in the Olympic team. 她为进入奥林匹克运动队而努力.  9 [C] (a) natural or suitable position (for sth) （某物的）自然的或恰当的位置: Put everything away in its correct place. 把东西放到该放的地方去. * (saying 谚) A place for everything and everything in its place. 物各有其位, 物各在其位. * The dustbin is the only place for most of these clothes. 这些衣服大都只配进垃圾箱. (b)(usu negative 通常用否定式) suitable or proper location(for sb to be) （某人的）相宜的或应在的地方: A railway station is no place for a child to be left alone at night. 火车站可不是让儿童在晚上独自呆的地方. * City streets are no place to be if you don't like noise or crowds. 要是怕吵、 怕人多就别上街.  10 [C] (mathematics 数) position of a figure after a decimal point, etc （小数点後的）位:calculated/correct to 5 decimal places/5 places of decimals,eg 6.57132 计算[精确]到小数点後5位数（如6.57132）.  11 [C usu sing 通常作单数] (a) (in a competition) position among the winning competitors （竞赛中）获胜者的名次: He finished in third place. 他得了第三名. (b) (in horse-racing) position among the first three, esp second or third （赛马的）位置（获胜的前三名, 尤指第二名或第三名）: Did you back the horse for a place or to win? 那匹马你买的是位置还是独赢?  12 [C] (a) house, esp a large one in the country 房子; （尤指）乡间巨宅: They have a flat in town as well as a place in the country. 他们在城里有一套公寓, 在乡村还有一所房子. (b) (infml 口) home 家: We're having the party at my place. 我们的聚会在我家举行.  13 Place [sing] (esp Brit) (a) (as part of a name for a short street, square etc 用於短街、 广场等名称中): Langham Place 兰厄姆广场. (b) (as part of a name for a large country house 用於乡村巨宅的名称中): Wakehurst Place 韦克赫斯特山庄.  14 (idm 习语) all `over the place (infml 口) (a) everywhere 到处: Firms are going bankrupt all over the place. 各地的商行都纷纷破产了. (b) in an untidy state; disordered 凌乱; 紊乱; 杂乱: The contents of the drawers were strewn all over the place. 抽屉里的东西乱七八糟.* Your hair is all over the place. 你的头发乱蓬蓬的. change/swap `places (with sb) (a) take sb's position, seat, etc and let him take one's own 与某人交换位置、 座位等: Let's change places  you'll be able to see better from here. 咱们换一下位置吧--你从这儿看清楚些. (b) be in sb else's situation or circumstances 在他人的处境或环境: I'm perfectly happy  I wouldn't change places with anyone. 我十分愉快--这种幸福我跟谁都不换. fall, fit, slot, etc into `place (of a set of facts or series of events) begin to make sense in relationship to each other （指一系列事实或事件）开始有头绪: It all begins to fall into place. 一切开始明朗了. give place to sb/sth be replaced by sb/sth; give way to sb/sth 为某人[某事物]所取代; 让位给某人[某事物]: Houses and factories gave place to open fields as the train gathered speed. 火车越开越快, 把房子和工厂抛在後面进入了一片开阔的田野. `go places (infml 口) be increasingly successful, esp in one's career 不断进展（尤指在个人事业上）: two young people who are really going places 两个事业顺利的年轻人. have one's heart in the right place => heart. in the `first, `second, etc place (used eg when making points in an argument 用於如列举理由时) firstly, secondly, etc 第一点、 第二点等. in high places => high1. in `my, `your, etc place in my, your, etc situation or circumstances 处於我的、 你的等情况、 处境: What would you do in my place? 你要是处於我的地位, 你怎样做? * In her place I'd sell the lot. 我要是她就全部卖掉. in `place (a) in the usual or proper position 在平常的或应在的地方: She likes everything to be in place before she starts work. 她喜欢东西都摆好再开始工作. (b) suitable or appropriate 合适的; 恰当的: A little gratitude would be in place. 应当略表谢意. in place of sb/sth; in sb's/sth's place instead of sb/sth 代替某人[某事物]: The chairman was ill so his deputy spoke in his place. 主席有病, 所以由副主席代为致词. lay/set a `place put cutlery, dishes, etc for one person in position on the table 在餐桌上摆上一份一人用的餐具: Set a place for him when you lay the table  he may come after all. 铺桌子时给他摆上一份餐具--毕竟他有可能来. lightning never strikes in the same place twice => lightning. lose one's place => lose. out of `place (a) not in the usual or a correct or suitable place 不在平常的或应在的或适当的地方. (b) unsuitable; improper 不适合的; 不适当的: Her criticisms were quite out of place. 她的批评太不相宜了. * Modern furniture would be out of place in a Victorian house. 在维多利亚时代式的房子里摆设现代家具很不谐调. a place in the `sun situation of equal or shared privilege 平等的或均等的有利地位或处境: Nations that had been oppressed for centuries were now fighting for a place in the sun. 多少世纪以来受压迫的国家现在都在争取平等. pride of place => pride. put oneself in sb else's/sb's `place imagine oneself in sb else's situation or circumstances 设想自己处於他人的地位或处境. put sb in his (proper) `place humiliate sb who has been impertinent or boastful 对无礼的或自夸的人加以羞辱: He tried to kiss her but she quickly puthim in his place. 他想要吻她, 她顿时让他自讨没趣. take`place occur; happen 发生: When does the ceremony take place? 仪式什麽时候举行? * We have never discovered what took place (between them) that night. 我们从未发觉那天晚上（他们之间）发生了什麽事情. =>Usage at happen 用法见happen. take sb's/sth's place; take the place of sb/sth replace sb/sth 代替某人[某事物]: She couldn't attend the meeting so her assistant took her place. 她不能出席会议, 所以由助手替她. * Nothing could take the place of the family he had lost. 他失去了家庭, 这一损失是无法弥补的. there's ,no place like `home (saying 谚) one's home is the best place to be 哪里也不如自己的家.
+place-bet 
+n (in horse-racing) bet that a horse will be one of the first three past the winning-post （赛马的）位置赌（赌某匹马可跑得第一、 第二或第三名）.
+place-kick 
+n (in Rugby football) kick made after the ball has been placed on the ground for that purpose （橄榄球的）定位踢（将球放在地上踢出者）.
+place-mat 
+n mat on a table on which a person's plates are laid （餐桌上用餐人的）餐具垫.
+place-name 
+n name of a city, town, hill, etc （城、 镇、 山等的）地名: an expert on the origin of place-names 地名考源专家.
+place-setting 
+n set of cutlery, dishes, etc for one person （供一人使用的）一套餐具.
+place
+/ pleIs; ples/ v  1 [Tn.pr, Tn.p] (a) put (sth) in a particular place 将（某物）置於某处: He placed the money on the counter. 他把钱放在柜台上. * The notice is placed too high  nobody can read it. 布告贴得太高--谁也没法看. (b) put (sth) in its proper place 将（某物）放在应放之处: Be sure to place them correctly. 务必把这些东西放对地方. * He placed the books in order on the shelf. 他把书按顺序摆在书架上.  2 [Tn.pr, Tn.p] put (sb) in the situation or circumstances specified (used esp as in the expressions shown) 使（某人）处於某处境或环境（尤用於以下示例）: place sb in charge/command (of sth), ie make him the leader 让某人负责[指挥]（某事物） * place sb under arrest, ie arrest him逮捕某人 * place sb in a dilemma/difficult position/quandary, ie make matters difficult for sb 使某人进退两难[处於困境/犹豫不决] * place one's faith/trust in sb/sth 信赖某人[相信某事物] * place confidence in sb, ie be confident that he will help, etc 对某人抱有信心 * Responsibility for the negotiations was placed in his hands, ie He was made responsible for them. 由他负责谈判事宜.  3 [Tn] identify (sb/sth) by using one's memory or past experience 凭记忆或经验辨认（某人[某事物]）: I've seen his face before but I can't place him. 我以前见过他, 但我认不出他是谁. * She has a foreign accent that I can't quite place. 她有外国口音, 但我听不出是哪儿的口音.  4 [Tn, Tn.pr, Tn.p] make a judgement about (sb/sth) in comparison with others; class (sb/sth) 经比较评价（某人[某事物]）; 将（某人[某事物]）分类: I would place her among the world's greatest sopranos. 我认为她可以算是世界上第一流的女高音.  5 [Tn, Tn.pr] ~ sth (with sb/sth) give (an order or a bet) to a person or firm （向某人或某公司）发（定单）或打（赌）: They have placed an order with us for three new aircraft. 他们向我们订购了三架新飞机. * Place your bets now  the race begins in half an hour! 现在可以下赌注--赛事於半小时後开始!  6 [Tn, Tn.pr] ~ sb (in sth); ~ sb (with sb/sth) find a home, job, etc for sb 为某人找到、 安排或安置（家、 工作等）: The agency places about 2000 secretaries per annum. 该代理机构每年可为约2000名秘书安排工作. * They placed the orphans with foster-parents. 他们为这些孤儿找到了养父养母.  7 [Tn, Tn.pr] invest (money), esp in order to earn interest 投（资）: The stockbroker has placed the money in industrial stock. 证券经纪人已用那笔钱购入了工业股票.  8 [esp passive 尤用於被动语态: Tn, Cn.a] state the finishing position of runners (in a race) or contestants (in athletics) （体育竞赛中）定出（选手的）名次: He was reponsible for placing the winners. 他负责评定选手名次. * She was placed third. 她被定为第三名.  9 (idm 习语) be placed (a) (Brit) (in horse-racing) finish first, second or third （赛马中）得第一、 第二或第三名. (b) (US) (in horse-racing) finish second （赛马中）得第二名.
+placement 
+/ 5pleIsmEnt; `plesmEnt/ n [U] action of placing or state of being placed 放置; 安置; 辨认; 评价; 预订; 下赌注; 定名次: [attrib 作定语] the placement of orphans 对孤儿的安置 * a placement agency for secretarial staff 秘书介绍所.
+placebo
+/ plE5si:bEU; plE`sibo/ n (pl ~s)  1 (medical 医) harmless substance given as if it were medicine to calm a patient who mistakenly believes he is ill 安慰剂: [attrib 作定语] placebo effect, ie beneficial effect of taking a placebo 宽慰作用（服安慰剂後的）.  2 thing done or said only to please or humour sb 使人宽慰的事物; 安慰话.
+placenta
+/ plE5sentE; plE`sZntE/ n (pl -tae / -ti:; -ti/ or ~s) (anatomy 解) organ lining the womb during pregnancy by which the foetus is nourished through the umbilical cord, and which is expelled after birth 胎盘. 
+placental 
+/ -tl; -tl/ adj: a placental mammal 有胎盘哺乳动物.
+placid
+/ 5plAsId; `plAsId/ adj (a) calm and peaceful; undisturbed 安静的; 平静的; 宁静的: the placid watersof the lake 平静的湖水. (b) (of a person, his temperament,etc) not easily excited or irritated （指人、 性情等）温和的, 文静的: a placid smile 恬静的微笑. 
+placidly 
+adv: cows placidly chewing grass 静静地吃著青草的母牛. 
+placidity 
+/ plE5sIdEtI; plE`sIdEtI/ n [U]: the placidity of his temperament 他温和的性情.
+placket
+/ 5plAkIt; `plAkIt/ n opening in a woman's skirt to make it easier to put on and take off （裙子的）开口.
+plagiarize, plagiarise
+/ 5pleIdVEraIz; `pledVE9raIz/ v [Tn, Tn.pr] ~ sth (from sb/sth) take (sb else's ideas, words, etc) and use them as if they were one's own 剽窃, 抄袭（他人的意念、 言词等）: Whole passages of the work are plagiarized. 那作品整段整段都是剽窃的. * He has plagiarized most of the book from earlier studies of the period. 他那本书大部分都是从研究那个时期的著作中剽窃的内容.
+plagiarism 
+/ -rIzEm; -rIzEm/ n (a) [U] action of plagiarizing 剽窃; 抄袭: be accused of plagiarism 被控剽窃. (b) [C] instance of this 剽窃; 抄袭.
+plagiarist 
+/ -rIst; -rIst/ n person who plagiarizes 剽窃者; 抄袭者.
+plagiarist 
+/ -rIst; -rIst/ n person who plagiarizes 剽窃者; 抄袭者.
+plague
+/ pleIg; ple^/ n  1 (a) the plague [sing] =bubonic plague (bubonic). (b) [C] any deadly infectiousdisease that kills many people 瘟疫: [attrib 作定语] The incidence of cholera in the camps has reached plague proportions. 营中霍乱流行已酿成瘟疫之灾.  2 [C] ~ of sth large numbers of a pest that invade an area and cause annoyance or damage 侵扰一地造成破坏的大量有害动物: a plague of flies, locusts, rats, etc 蝇、 蝗、 鼠等灾害.  3 [C usu sing 通常作单数] (infml 口) cause of annoyance; nuisance 惹人烦恼的事物、 人或原因: What a plague that boy is! 那男孩太讨厌了!  4 (idm 习语) avoid sb/sth like the plague => avoid.
+plague 
+v  1 [Tn, Tn.pr] ~ sb/sth (with sth) (a) annoy sb, esp by repeatedly asking questions or making demands 烦扰某人（尤指一再询问或要求）: plague sb with questions, requests for money, etc 一再询问、 要钱等烦扰某人. (b) cause suffering or discomfort to sb 使某人受苦或难受: She was plagued with arthritis. 她患关节炎十分痛苦.  2 [Tn] cause trouble or difficulty to (sb/sth) 给（某人[某事物]）造成麻烦或困难: a construction schedule plagued by bad weather 因天气恶劣受阻的工程进度.
+plague-ridden (also `plague-stricken) 
+adj infected with a/the plague(1,2) 瘟疫流行的; 有害动物为患的.
+plaice
+/ pleIs; ples/ n (pl unchanged 复数不变) type of flat-fish with reddish spots, eaten as food 鲽（有红斑的比目鱼, 可食）.
+plaid
+/ plAd; plAd/ n (a) [C] long piece of woollen cloth, worn over the shoulders by Scottish Highlanders （苏格兰高地人用的毛呢的）长披肩. (b) [U] cloth (usu with a tartan pattern) used for this, and for kilts, etc （用作长披肩、 男子短裙等的）毛呢, （通常为）格子呢: [attrib 作定语] a plaid kilt （苏格兰男子穿的）格子呢短裙. (c) [C] tartan pattern for cloth 布料的格子图案.
+plain
+/ pleIn; plen/ adj (-er, -est)  1 easy to see, hear or understand; clear 清楚的; 明白的; 易懂的; 清晰的: The markings along the route are quite plain. 路线沿途的标志都十分清楚. * in plain English 用浅近的英语 * He made it plain (to us) that he did not wish to continue. 他向我们明白表示他不想继续下去. * She made her annoyance plain. 她已怒形於色.  2 (of people or their actions, thoughts, etc) not trying to deceive; frank and direct （指人、 其行为、 思想等）率直的, 坦率的, 直接的: in plain words, ie frankly 明言 * a plain answer 直截了当的回答 * the plain truth 明显的事实 * Let me be plain with you, ie speak openly and frankly: There will have to be some plain speaking. 让我开诚布公跟你说吧. 得公开而明白地谈一谈.  3 (a) not decorated or luxurious; ordinary and simple 不矫饰的; 朴素的; 普通的; 平凡的; 简单的: a plain but very elegant dress 朴素而极雅致的连衣裙 * plain food/cooking, ie not spicy or rich 清淡的食物[烹调风味] * plain cake, ie without fruit, etc 纯蛋糕（无水果等配料的） * plain chocolate, ie made without adding milk 纯巧克力. (b) without a pattern or marking on it 没有图案或花纹的: plain paper, ie without lines 无格纸 * plain fabric, ie without a pattern or design 素的织物 * under plain cover, ie in an envelope without any special marking 在普通信封中（无特殊标记）.  4 not beautiful or good-looking 不漂亮的; 不好看的: a few rather plain bits of furniture 几件很不起眼的家具 * From a rather plain child she had grown into a beautiful woman. 她从一个相貌平平的女孩成长为一个漂亮的妇人.  5 (idm 习语) in plain `English bluntly or simply expressed 用直率的或简单明了的英语: If you wanted me to go why didn't you say so in plain English instead of making vague hints? 你想叫我走, 为什麽拐弯抹角而不直说? make oneself plain make one's meaning clear 表达清楚: There is no more money  do I make myself plain? 再也没钱了--我的意思清楚吗? (as) plain as a pikestaff/the nose on one's face very obvious or clearly visible 一清二楚; 显然易见; 明摆著的事. (all) ,plain `sailing course of action that is simple and free from trouble 十分顺利; 一帆风顺: Once the design problems were solved, it was all/everything was plain sailing. 设计问题一经解决, 就容易办了.
+plain 
+adv (esp US) (a) clearly 清楚地: speak plain 清楚地说. (b) absolutely; simply 绝对地; 简直: That is just plain stupid. 那简直是愚不可及.
+plainly 
+adv (a) clearly 清楚地: The mountain tops are plainly visible from the village. 自该村望去, 群山之巅清晰可见. * Try to express yourself more plainly. 尽量表达得清楚些. (b) obviously 显然: That is plainly wrong. 那显然不对. * You are plainly unwilling to co-operate. 你显然不愿合作. * He was plainly unwelcome. 他显然不受欢迎.
+plainness 
+n [U].
+plain clothes (esp of police officers) 
+ordinary clothes, not uniform （尤指警察的）普通衣服, 便衣: The detectives were in plain clothes. 警探穿著便衣. `plain-clothes adj wearing plain clothes 穿便衣的: a plain-clothes detective 便衣侦探.
+plain dealing 
+honesty; straightforwardness 诚实; 直率.
+plain flour 
+flour that does not contain baking powder 不含发酵粉的普通白面. Cf 参看 self-raising flour.
+plain-spoken 
+adj frank in speech, often to the point of rudeness; outspoken 说话坦率的（常近於粗俗的）; 直言的.
+plain
+/ pleIn; plen/ n large area of flat land; prairie 平原: a vast, grassy plain 大平原、 草原 * the great plains of the American Midwest 美国中西部的大平原.
+plainsman 
+/ -zmEn; -zmEn/ n (pl -men) person living in a region of plains, esp in the great plains of the US 平原居民（尤指在美国大平原上居住的人）.
+plain
+/ pleIn; plen/ n (in knitting) simple basic stitch （编织中的）平针. Cf 参看 purl.
+plainchant
+/ 5pleIntFB:nt; ?@ 5pleIntFAnt; `plen9tFAnt/ (also `plainsong / -sCN; -9sRN/) n [U] medieval type of church music for a number of voices singing together, used in the Anglican and Roman Catholic Churches 素歌（中世纪的宗教合唱曲, 为圣公会及天主教所采用）.
+plaint
+/ pleInt; plent/ n (law 律) charge made against sb in court; accusation 起诉; 诉状.
+plaintiff
+/ 5pleIntIf; `plentIf/ (also complainant) n person who brings a legal action against sb 原告. Cf 参看 defendant.
+plaintive
+/ 5pleIntIv; `plentIv/ adj sounding sad; sorrowful（听起来）哀伤的; 悲哀的: a plaintive cry, melody, voice, etc 悲伤的哭泣、 曲调、 声音等. 
+plaintively 
+adv. 
+plaintiveness 
+n [U].
+plait
+/ plAt; plAt/ (US braid) v [Tn] (a) weave or twist (three or more lengths of hair, straw, etc) under and over one another to make one rope-like length 将（发、 草等）编成辫: plait one's hair 编辫子. (b) make (sth) by doing this 编（某物）: plait a basket, cord, rope 编篮子、 绳、 索.
+plait 
+n form made by plaiting 编成的东西; 辫子: wear one's hair in plaits/a plait 把头发编成辫子. =>illus 见插图.
+plan
+/ plAn; plAn/ n  1 ~ (for sth/doing sth); ~ (to do sth) arrangement for doing or using sth, considered or worked out in advance 计画; 规画; 方案: make plans (for sth) （为某事）定计画 * a plan to produce energy from waste material 利用废物作能源的计画 * What are your plans for the holidays? 你假期打算做什麽? * a carefully worked-out plan 精心设计的方案 * a change of plan, ie deciding not to do what was planned 计画的变动 * a development plan, eg for an industry, a town or an area 发展规画（如工业、 城镇或地区的） * The best plan (ie The best thing to do) would be to ignore it completely. 上策是完全不予理睬. * a plan of attack/campaign, ie a way of doing sth, esp sth difficult 攻坚[攻关]方案.  2 (a) detailed, large-scale diagram of part of a town, district, group of buildings, etc （城市、 区、 建筑群等的）详图: a plan of the royal palace and its surroundings 皇宫及其环境详图 * a plan of the inner city 市中心详图. (b) (esp pl 尤作复数) outline drawing (of a building or structure) showing the position and size of the various parts in relation to each other （建筑或结构的）平面图, 设计图: draw up plans for an extension 绘制扩建图 * The architect submitted the plans for approval. 建筑师将设计图表交付审批. * The plans of the new development are on show at the Town Hall. 镇公所大厅展出了新开发平面图. (c) diagram (of the parts of a machine) （机器部件的）图解, 说明图: plans of early flying machines 早期飞行器的说明图. Cf 参看 chart, map.  3 way of arranging sth, esp when shown on a drawing; scheme 安排, 方式, 方法（尤指图示）; 示意图: a seating plan, ie one showing where people are to sit at a table 座位示意图.  4 (idm 习语) go according to plan (of events, etc) take place successfully （指事情等）顺利进行, 按计画实现: If everything goes according to plan, I shall be back before dark. 假若一切顺利, 我天黑之前就回来.
+plan 
+v (-nn-)  1 [Tn] make a plan of or for (sth) 为（某事物）定计画或绘设计图、 平面图等: plan a garden 设计花园 * a well-planned city 精心设计的城市 * a planned economy, ie controlled by the government 计画经济.  2 [I, Ipr] ~ (for/on/sb/sth) make preparations （为某事物）做准备: plan for the future, one's retirement, etc 为将来、 退休等做准备 * I had planned for 20 guests, but only 10 arrived. 我做好了招待20位客人的准备, 可是只来了10位. * We hadn't planned on twins! 我们没有生双胞胎的准备! =>Usage at arrange 用法见arrange. 3 [Tt] make plans (to do sth); intend 计画, 打算（做某事）; 意欲: When do you plan to take your holiday? 你打算什麽时候休假? * We're planning to visit France this summer. 我们正计画今年夏天到法国旅行.  4 (phr v) plan sth out consider sth in detail and arrange it in advance 策画、 筹画或详细安排某事物: plan out one's annual expenditure 做出全年的开支预算 * plan out atraffic system for the town 为该镇筹画交通系统. plannern (a) person who makes plans 设计者; 策画者. (b) (also ,town `planner) person who works in or studies town planning 城市规画的工作者或研究者. planning n [U] (a) making plans (for sth) （做某事物的）计画: family planning, ie using birth control to limit the number of children a couple have 计画生育. (b) = town planning (town). planning permission (esp Brit) licence to build a new building or change an existing one, granted by a local authority （兴建或改建建筑物前当局授予的）建筑许可证.
+plane
+/ pleIn; plen/ n  1 (a) (geometry 几) surfacesuch that a straight line joining any two points in it touches it at all points 几何平面. (b) any flat or level surface 平面.  2 (fig 比喻) level of thought, existence or development （思想、 存在或发展的）水平, 水准, 程度, 阶段: They seem to exist on a different spiritual plane. 他们似乎生活在不同的精神境界. * This species has reached a higher plane of development. 这一种属已达到更高的发展阶段.
+plane 
+adj completely flat; level 平的; 平面的: a plane surface 平面.
+plane 
+v [I, Ip] (of an aeroplane) move through the air,esp without an engine; glide （指飞机）航行, （尤指）滑行.
+plane geometry 
+geometry of two-dimensional or plane figures 平面几何学.
+plane sailing 
+method of calculating a ship's position as though the ship were on a plane surface instead of the curved surface of the earth 平面航法（将地球曲面视作平面测定船的位置）.
+plane-table 
+n instrument used by surveyors for drawing plans in fieldwork, consisting of a circular table with a pivoted sighting-device 平板仪.
+plane
+/ pleIn; plen/ n tool, consisting of a blade set in a flat surface, which makes the surface of wood smooth by shaving very thin layers from it 刨子.
+plane 
+v  1 (a) [Tn] use a plane on (sth) 用刨子刨（某物）: plane the edge of the plank 刨木板的边缘. (b) [Cn.a] make (sth) smooth, etc by using a plane 用刨刨平（某物）: plane sth smooth 将某物刨平滑.  2 (phr v) ~ sth away/down/off remove sth using a plane 用刨刨去某物: plane away the irregularities on a surface 把一物体表面上的突出物刨掉.
+plane
+/ pleIn; plen/ (also `plane-tree) n any of several types of deciduous tree with spreading branches, broad leaves and thin bark that comes off in flakes 悬铃木.
+plane
+/ pleIn; plen/ n = aeroplane: travel by plane 乘飞机 * The plane is about to land. 飞机即行著陆. * [attrib 作定语] a plane flight 飞机的飞行.
+planet
+/ 5plAnIt; `plAnIt/ n any of the bodies in space that move around a star (such as the sun) and are illuminated by it 行星: The planets of our solar system are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto. 我们太阳系的行星是水星、 金星、 地球、 火星、 木星、 土星、 天王星、 海王星、 冥王星.
+planetarium 
+/ 9plAnI5teErIEm; 9plAnE`tZrIEm/ n (pl ~s or  -ia / -IE; -IE/) (building with a) device for representingthe positions and movements of the planets and stars by projecting spots of light on a dome which represents the sky 天象仪; 天象馆; 天文馆.
+planetary 
+/ 5plAnItrI; ?@ -terI; `plAnE9tZrI/ adj of orlike a planet or planets （似）行星的: planetary movements行星的运动.
+plangent
+/ 5plAndVEnt; `plAndVEnt/ adj (fml 文)  1 (of sounds) throbbing loudly; reverberating （指声音）震荡的, 回响的.  2 (of sounds) expressing sadness; mournful （指声音）凄切的, 悲戚的. 
+plangency 
+/ -dVEnsI;-dVEnsI/ n [U]. 
+plangently 
+adv.
+plank
+/ plANk; plANk/ n  1 long flat piece of sawn timber, 50-150mm thick and at least 200mm wide, used for making floors, etc 木板（厚50-150毫米, 宽至少200毫米, 用以铺地面等）.  2 (esp politics 尤用於政治) any of the main principles of the policy or programme of a political party （政党的）政策或政纲的准则: the main planks of their disarmament platform 他们的裁军政纲准则.  3 (idm 习语) thick as two planks => thick. walk the plank => walk1.
+plank 
+v (phr v) plank sth down (infml 口) (a) put (sth) down heavily 重重地放下（某物）: plank down one's luggage 重重地放下行李. (b) pay (money) at once 立即付（钱）. Cf 参看 plonk1 v.
+planking 
+n [U] planks used esp to make a floor; structure made of planks 板材; （尤指）地板: Are you going to cover the planking with carpet? 你打算在地板上铺地毯吗?
+plankton
+/ 5plANktEn; `plANktEn/ n [U] any of the (mainly microscopic) forms of plant and animal life that drift in or float on the water of seas, rivers, lakes, etc 浮游生物.
+plant
+/ plB:nt; ?@ plAnt; plAnt/ n  1 [C] (a) living organism that is not an animal, which grows in the earth and usu has a stem, leaves and roots 植物: Plants need light and water. 植物需要光和水. * [attrib 作定语] `plant life 植物. (b) any of the smaller kinds of these as distinct from shrubs or trees 花草: garden plants  * a `strawberry plant 一株草莓 * plants flowering in the window-box 窗口花坛中开著花的花草.  2 (a) [U] machinery, equipment, etc used in an industrial or a manufacturing process （用於工业生产中的）机器、 设备等: The firm has made a huge investment in new plant. 该公司投入巨资购置新设备. * [attrib 作定语] `plant hire, ie renting of machines or equipment 机器租赁. (b) [C] piece of machinery or equipment 机器; 设备: The farm has its own `power plant. 这家农场自己有发电设备.  3[C] (esp US) place where an industrial or a manufacturingprocess takes place; factory 工厂: a `chemical plant 化工厂 * a nuclear re`processing plant 核燃料後处理工厂. =>Usage at factory 用法见factory.  4 [C] (infml 口) (a) thing placed deliberately so that its discovery willmake an innocent person appear guilty; false or misleadingevidence 栽赃物; 伪证: He claimed that the stolen jewellery found in his house was a plant. 他声称在他家中发现的那些失窃的珠宝是有人给他栽赃. (b) person who joins a group of criminals, conspirators, etc in order to spy on them for others （在犯罪、 阴谋等集团中卧底的）眼线, 坐探: They discovered that he was a police plant. 他们发现他是警方的眼线.
+plant
+/ plB:nt; ?@ plAnt; plAnt/ v  1 (a) [Tn, Tn.pr] put (plants, seeds, etc) in the ground to grow 种植; 栽种: plant flowers around the pool 在池子周围栽花 * We planted beans and peas in the garden. 我们在花园中种菜豆和豌豆. * Plant in rows two feet apart. 每隔两英尺种一行. (b) [Tn, Tn.pr] ~ sth (with sth) put bushes, trees, flowers, etc in (a garden, flower-bed, etc) 在（花园、 花圃等）中栽种花草树木: plant a garden 在花园中种花 * plant the border with spring flowers 在边上种上春天开花的植物 * mountain slopes planted with conifers 栽有松柏的山坡. Cf 参看 sow2.  2 [Tn.pr] (a) place (sth) in position firmly or forcefully 牢固地或用力地安放（某物）: He planted his feet firmly on the ground. 他在地上双脚站得很稳. * He stood with his feet planted wide apart. 他两脚叉开很大距离站著. (b) (infml 口) position (oneself) 使（自己）处於某一位置: plant oneself in a chair in front of the fire 坐到炉前的椅子上.  3 [Tn, Tn.pr] (infml 口) (a) ~ sth (on sb) hide sth where it will be found in order to deceive sb or make an innocent person seem guilty 给某人栽赃: plant stolen goods on sb 把赃物栽给某人 * He claimed that the weapons had been planted (on him). 他称那些武器是别人（给他）栽的赃. (b) ~ sb (in sth) cause sb to join a group secretly, esp to spy on its members 使某人秘密加入一集团; （尤指）安插眼线或坐探: The police had planted a spy in the gang. 警方在那团伙中安插了一名坐探. * The speaker's supporters were planted in the audience and applauded loudly. 听众中安插了演讲人的支持者; 他们使劲给他鼓掌.  4 [Tn.pr] ~ sth in sth fix or establish (an idea, etc) in sb's mind 给某人灌输（某思想等）: Who planted that idea in your head? 是谁给你灌输的这种思想? * His strange remarks planted doubts in our minds about his sanity. 他那些怪话使我们心中生疑, 不知他精神是否正常.  5 [Tn.pr] deliver (a blow, etc) with deliberate aim 给以（一击等）: plant a kiss on sb's cheek 在某人的面颊上吻一下 * plant a blow on the side of sb's head 向某人头侧一击 * plant a knife in sb's back 把刀插入某人的背上.  6 (phr v) plant (sth) out place (plants) in the ground so that they have enough room to grow 移栽, 移植（植物）: plant out tomato seedlings 把西红柿移栽到地里.
+planter 
+n  1 person who grows crops on or manages a plantation 农场的种植者或经管者: a `sugar-planter, `tea-planter, `rubber-planter, etc 糖料作物、 茶、 橡胶等的种植者.  2 machine for planting (plant2 1) 种植机.  3 (esp US) container in which plants are grown, esp in a house as an ornament 花盆（尤指室内的）.
+plantain
+/ 5plAntIn; `plAntIn/ n (a) [C, U] tropical fruit, similar to a banana but usu cooked before being eaten 大蕉（果实）. (b) [C] tree-like plant that bears this 大蕉（植物）.
+plantain
+/ 5plAntIn; `plAntIn/ n common wild plant with broad flat leaves and small green flowers, that bears seeds which are used as food for cage-birds 车前草.
+plantation
+/ plAn5teIFn, also, in British use, 英式英语亦读作 plB:n-; plAn`teFEn/ n  1 large piece of land, esp in a tropical country, where tea, cotton, sugar, tobacco, etc are grown （茶、 棉、 甘蔗、 烟草等的）大种植园, 大农场（尤指热带国家的）: [attrib 作定语] a plantation manager种植园经管者.  2 (a) area of land planted with trees 造林地: plantations of fir and pine 枞树及松树林地. (b) group of trees or plants planted together 人工林; 人工植物带.
+plaque
+/ plB:k; ?@ plAk; plAk/ n flat (usu round) piece of stone, metal or porcelain fixed on a wall as an ornament or a memorial （装於墙上作饰物或纪念物的石质、 金属或瓷制的）饰板（通常为圆形）: A simple plaque marks the spot where the martyr died. 有一块朴素的饰板用以纪念该烈士的殉难处.
+plaque
+/ plB:k; ?@ plAk; plAk/ n [U] (medical 医) soft substance that forms on teeth and encourages the growth of harmful bacteria 牙斑: It is necessary to remove plaque by brushing one's teeth. 需刷牙以去除牙斑. Cf 参看 tartar1 1.
+plasma
+/ 5plAzmE; `plAzmE/ (also plasm / 5plzEm;`plAzEm/) n [U] (anatomy 解)  1 (a) clear yellowish liquid part of blood, in which the corpuscles float 血浆. (b) (medical 医) (also `blood plasma) this fluid taken from the blood and specially treated for use in bloodtransfusions （输血用的）血浆.  2 = protoplasm.  3 (physics物) type of gas containing positively and negatively charged particles in approximately equal numbers, and present in the sun and most stars 等离子体.
+plaster
+/ 5plB:stE(r); ?@ 5plAs-; `plAstL/ n  1 [U] soft mixture of lime, sand, water, etc that becomes hard when dry and is used for making a smooth surface on walls and ceilings 灰泥（涂平墙壁和天花板用的）: The plaster will have to dry out before you can paint the room. 待房间的灰泥乾後才可粉刷.  2 [U] (also ,plaster of `Paris) white paste made from gypsum that becomes very hard when dry, used for making moulds, holding broken bones in place, etc 烧石膏; 熟石膏: She broke her ankle weeks ago and it's still in plaster. 她的踝关节数周前骨折, 至今仍打著石膏.  3 [C, U] = sticking plaster (stick2).
+plaster 
+v  1 (a) [Tn] cover (a wall, etc) with plaster(1) 用灰泥涂抹（墙壁等）. (b) [Tn.pr] ~ A with B/~ B on(to) A cover sth with sth thickly, as one puts plaster on a wall 用黏稠物涂抹某物: hair plastered with oil 抹油的头发 * an artist who plasters the paint on the canvas 在画布上涂颜料的画家 * plaster the town with posters 把海报贴遍市镇.  2 [Tn] cover (a wound, etc) with a plaster(2) 给（受伤处等）打石膏.  3 (phr v) plaster sth down make sth lie flat by putting a wet or sticky substance on it （敷湿或黏之物）使某物平贴: plaster one's hair down 用发蜡把头发梳平. 
+plastered 
+adj (sl 俚) drunk 醉的: be/get plastered 醉了. 
+plasterer
+/ 5plAB:stErE(r); `plAstErL/ n person whose job is to put plaster on walls and ceilings 粉刷匠; 泥水匠.
+plasterboard 
+n [U] board made of sheets of cardboard with plaster(1) between them, used for inside walls and ceilings 灰泥板（以灰泥夹心, 作内墙壁及天花板用的）.
+plaster cast 
+(a) mould made with gauze and plaster of Paris to hold a broken or dislocated bone in place 石膏绷带（作折断或脱位之骨复位固定用者）. (b) mould (eg for a small statue) made of plaster of Paris 石膏模型（如做小塑像的）.
+plastic
+/ 5plAstIk; `plAstIk/ n  1 (a) [C usu pl 通常作复数] any of several chemically produced substances that can be formed into shapes when heated or made into thin threads and used in textiles 塑料: the use of plastics in industry 塑料在工业中的应用. (b) [U] substance made in this way 可塑性物质: Many items in daily use are made out of plastic. 有很多日常生活用品是塑料制的. * Plastic is sometimes used instead of leather. 塑料有时可以代替皮革.  2 plastics [sing v] science of making plastics (plastic 1a) 塑料学.  3 [U] (also plastic money) (infml 口) credit card(s) 信用卡: `Have you got any cash or shall we use plastic?' `Put it on the plastic.' ｀你有没有现金? 还是我们用信用卡呢?＇｀用信用卡吧.＇
+plastic 
+adj  1 (of goods) made of plastic(1b) （指物品）塑料的: a plastic cup, raincoat, spoon, toy, wrist-watch 塑料杯、 雨衣、 羹匙、 玩具、 手表 * fabric with a plastic coating 塑料涂层纤维织物 * a plastic bag, ie made from very thin soft plastic material 塑料袋.  2 (of materials or substances) easily shaped or moulded （指材料或物质）可塑的: Clay is a plastic substance. 黏土是可塑物质. * (fig 比喻) The mind of a young child is quite plastic. 儿童的思想很有可塑性.  3 of the art of modelling eg clay or wax 制造模型的艺术的（如用黏土或蜡等）: the plastic arts, ie sculpture, ceramics, etc 制造模型的艺术. 
+plasticity
+/ pl5AstIsEtI; plAs`tIsEtI/ n [U] state or quality of being able to be moulded or shaped 可塑性.
+plastic bomb 
+bomb that contains plastic explosive 塑料炸弹.
+plastic explosive 
+explosive material that can easily be formed into different shapes or moulded around the object it is used to destroy 塑料炸药.
+plastic surgery 
+repairing or replacing injured or damaged tissue on the surface of the body, eg after a person has been badly burned 整形外科.
+plasticine (also Plasticine) 
+/ 5plAstIsi:n; `plAstE9sin/ n  [U] (propr 专利名 esp Brit) substance similar to clay but which does not harden like clay, used for modelling, esp by children 橡皮泥.
+plate
+/ pleIt; plet/ n  1 [C] (a) (often in compounds 常用以构成复合词) shallow (usu round) dish made usu of earthenware or china, from which food is served or eaten 盘子; 碟子: a `dinner, `meat, `soup, etc plate 餐盘、 肉盘、 汤盘 * paper/plastic `plates, eg at a picnic 纸[塑料]盘（如野餐用的）. =>illus 见插图. (b) contents of this 一盘所盛之物: a plate of soup, stew, etc 一盘汤、 炖肉等. (c) similar dish, usu made of metal or wood, used to collect money from the congregation in church （教会的）捐款盘, 奉献盘: pass round the plate 传递捐献盘 * put ￡5 in the plate 把5英镑放入捐献盘中.  2 [U] (a) spoons, forks, dishes, bowls, etc made of gold or silver, esp for use at meals 金的或银的餐具: a fine piece of plate, ie one of these articles 一件精致的贵金属餐具. (b) dishes, bowls, chalices, etc made of gold or silver for use in church 教会的金的或银的圣餐具: The plate is kept in a locked cupboard. 圣餐具放在有锁的橱里.  3 [U] (often in compounds 常用以构成复合词) metal other than silver or gold that has been covered with a thin coating of silver or gold 镀金或镀银的金属: electroplate, ie object(s) coated with a thin layer of metal 电镀物品 * gold/silver plate 镀金[镀银] * I thought the teapot was silver, but it's only plate. 我以为那把茶壶是银的, 原来只是电镀的.  4 [C] (a) thin flat sheet of metal, glass, etc （金属、 玻璃等的）薄板材: steel plates, eg used in shipbuilding 钢板（如造船用的）. (b) (biology 生) thin flat piece of horn, bone, etc （骨质、 角质等的）盾片, 鳞片: The armadillo has a protective shell of bony plates. 犰狳有角质鳞片的护甲.  5 [C] (geology 地质) any of the large rigid sheets of rock that make up the earth's surface 板岩; 页岩: [attrib 作定语] plate tectonics, ie study of the structure and formation of the earth's surface through the movements of its plates 板块构造学.  6 [C] oblong piece of metal with sth stamped or engraved on it （印或刻有名号等的）金属牌: a brass `plate, eg on the door of a doctor, solicitor, etc with his name on it 黄铜牌（如医生、 律师等门上的名牌） * a `licence-/`number-plate, eg on a car 牌照[号码牌]（如汽车上的）.  7 [C] (a) sheet of metal, plastic, rubber, etc treated so that words or pictures can be printed from it （金属、 塑料、 橡胶等制的印刷用的）版, 印版. (b) (esp photographic) book illustration, esp one that is printed separately from the rest of the text 书籍插图（尤指照片版插页, 与正文分开印刷的）: `colour plate 彩色插图.  8 [C, U] (in photography) sheet of (esp) glass coated with a film sensitive to light （照相用的）感光底片, （尤指）玻璃感光片: `whole-/`half-/`quarter-plate, ie the usual sizes 整张[半张/四分之一张]感光片.  9 (also `dental plate, denture) [C] thin piece of plastic material moulded to the shape of the gums or roof of the mouth for holding artificial teeth 托牙板.  10 [C] (a) silver or gold cup as a prize for a horse-race （作赛马奖品的）金杯, 银杯. (b) the race itself （以金杯或银杯作奖品的）赛马.  11 [C] (in baseball) home base of the batting side （棒球中的）本垒.  12 (idm 习语) hand/give sb sth on a `plate (infml 口) give sb sth or allow sb to obtain sth without any effort on his part 把某事物奉送某人; 让某人轻易获得某事物: You can't expect promotion to be handed to you on a plate. 晋升的事休想会给你送货上门. on one's `plate to occupy one's time or energy 花个人的时间或精力: have enough/a lot/too much on one's plate 有够多[很多/太多]的事要做 * I can't help you at the moment -- I've far too much on my plate already. 我现在无法帮助你--我自己的事已经太多了.
+plateful 
+/ -fUl; -9fJl/ n amount that a plate1(1a) holds 一盘的量: The child has eaten three platefuls of porridge! 这孩子已经喝了三盘粥了!
+plate glass 
+very clear glass of fine quality made in thick sheets, used eg for doors, mirrors, shop windows, etc 厚玻璃板（如门、 镜子、 商店橱窗等用的）: [attrib 作定语] a plate-glass window 厚玻璃板的窗户.
+plate-rack 
+n rack in which food plates are stored or left to drain after being washed 餐具架（供储放或控乾餐具用的）. =>illus at rack 见rack插图.
+plate
+/ pleIt; plet/ v  1 [Tn, Tn.pr esp passive 尤用於被动语态] ~ sth (with sth) cover (another metal) with a thin layer esp of gold or silver 镀（另一金属）（尤指镀金或镀银）: a copper tray plated with silver 镀银的铜托盘 * gold-plated dishes 镀金餐碟 * silver-plated spoons 镀银羹匙.  2 [Tn] cover (esp a ship) with metal plates 给（尤指船）覆金属板.
+plateau
+/ 5plAtEU; ?@ plA5tEU; plA`to/ n (pl ~s or  -eaux / -tEUz; -`toz/)  1 large area of fairly level land high above sea-level 高原. Cf 参看 ridge 2.  2 state of little or no change following a period of rapid growth or development （迅速增长或发展後的）稳定状态: After a period of rapid inflation, prices have now reached a plateau. 经急剧通货膨胀之後物价现已趋於平稳.
+platelayer
+/ 5pleItleIE(r); `plet9leL/ n (Brit) person whose job is to lay and repair railway tracks （铺设及维修钢轨的）路工.
+platelet
+/ 5pleItlIt; `pletlIt/ n any of the numerous tiny discs in the blood that help it to clot 血小板.
+platform
+/ 5plAtfR:m; `plAt9fRrm/ n  1 level surface raised above the surrounding ground or floor, esp one from which public speakers, performers, etc can be seen by their audience 台; 平台; （尤指）讲台, 舞台, 戏台: the concert platform, ie place where a pianist performs 钢琴演奏台 * Your questions will be answered from the platform. 你的问题将由台上的人作答. * appear on the same platform/share a platform with sb, ie make speeches, etc at the same public meeting 与某人在同一公众集会上发表演说.  2 (at a railway station) flat surface built next to and at a higher level than the track, where passengers get on and off trains （火车站的）站台, 月台: Which platform does the Brighton train leave from? 开往布赖顿市的火车在第几站台? * Your train is waiting at platform 5. 你要坐的那趟火车在第5站台. * He came running along the platform just as the train was leaving. 火车刚开就见他沿月台跑过来.  3 (Brit) floor area at the entrance to a bus where passengers get on and off （公共汽车供乘客上下车的）入口平台.  4 (politics 政) main policies and aims of a political party, esp as stated before an election; manifesto （政党的）纲领; （尤指选举前发表的）政纲; 宣言: fight the election/come to power on a platform of economic reform 以经济改革为政纲竞选[掌权].
+plating
+/ 5pleItIN; `pletIN/ n [U]  1 thin covering of metal, esp silver or gold, on another metal 极薄的金属（尤指 金或银）的镀层或包层: The plating is beginning to wear off in places. 镀层有的地方已经磨掉了.  2 layer or covering esp of metal plates 层, 外层（尤指金属板）: protected with steel plating 用钢板防护的.
+platinum
+/ 5plAtInEm; `plAtnEm/ n [U] (chemistry 化) greyish-white metallic element that does not tarnish, used to make jewellery and, esp in alloys with other metals, in industry 铂; 白金: a sapphire in a platinum setting 白金托镶著的蓝宝石. =>App 10 见附录10.
+platinum blonde 
+(infml 口) (woman) having hair that is very fair or silvery white (but not white with age) 有浅色或银白色头发的（女子）（非因年老所致）.
+platitude
+/ 5plAtItju:d; ?@ -tu:d; `plAtE9tud/ n [C] (fml derog 文, 贬) commonplace remark or statement, esp when it is said as if it were new or interesting 陈词滥调; （尤指当作新内容或津津乐道的）老调重弹: We shall have to listen to more platitudes about the dangers of overspending. 我们又得再听一通超支危害的陈词滥调了.
+platitudinous 
+/ 9plAtI5tju:dInEs; ?@ -5tu:dEnEs;9plAtE`tudnEs/ adj (fml derog 文, 贬) commonplace or banal 平凡的; 陈腐的; 乏味的: platitudinous remarks 老生常谈 * The whole speech was platitudinous nonsense. 整篇讲话都是陈谷子烂芝麻.
+platonic
+/ plE5tCnIk; plE`tBnIk/ adj  1 Platonic of or concerning the Greek philosopher Plato or his teachings 柏拉图的; 柏拉图哲学的.  2 (of love or a friendship between two people) close and deep but not sexual （指两人的爱或友谊）亲密（但无性欲）的, 纯友谊的, 柏拉图式的: He said that his feelings for her were entirely platonic. 他说他对她的感情完全是友谊. * They'd had a close platonic relationship for more than thirty years. 他们之间的柏拉图式的亲密关系已有三十多年了.
+platoon
+/ plE5tu:n; plE`tun/ n group of soldiers, a subdivision of a company, acting as a unit under the command of a lieutenant 排（军队中连的下一级）.
+platter
+/ 5plAtE(r); `plAtL/ n  1 (a) large shallow dish for serving food, esp meat or fish 大浅盘（尤指盛肉或鱼的）. (b) (arch 古 Brit) flat dish usu made of wood （通常为木制的）盘, 碟.  2 (US infml 口) gramophone record 唱片.
+platypus
+/ 5plAtIpEs; `plAtEpEs/ n (pl ~es) (also ,duck-billed `platypus) small Australian furred animalwith a duck-like beak, webbed feet and a flat tail, that lays eggs but gives milk to its young 鸭嘴兽（产於澳洲）.
+plaudit
+/ 5plR:dIt; `plRdIt/ n (usu pl 通常作复数) (fml 文) applause, praise or some other sign of approval 鼓掌; 喝采; 称赞: She won plaudits for the way she presented her case. 她妙语陈情博得众口交赞.
+plausible
+/ 5plR:zEbl; `plRzEbl/ adj  1 (of a statement, an excuse, etc) seeming to be right or reasonable; believable （指陈述、 藉口等）似乎正确的, 似有道理的, 可信的: She could find no plausible explanation for its disappearance. 她无法解释清楚何以不翼而飞. * His story was/sounded perfectly plausible. 他的话[听起来]言之成理.  2 (derog 贬) (of a person) skilled in producing convincing arguments, esp in order to deceive （指人）能说会道的（尤指为行骗）: a plausible trickster, rogue, liar, etc 花言巧语的骗子、 无赖、 说谎大王等 * She was so plausible  she would have deceived anyone. 她鼓舌如簧--把谁都能骗倒. Cf 参看 implausible.
+plausibility 
+/ 9plR:zE5bIlEtI; 9plRzE`bIlEtI/ n [U] state of being plausible 似正确或有理; 可信; 能言善辩:the plausibility of her alibi 她申辩不在现场言之凿凿 * Beware of the plausibility of salesmen! 要警惕推销员的花言巧语!
+plausibly 
+/ -EblI; -EblI/ adv: The case was presented very plausibly. 案情的申述似很可信. * He argued very plausibly for its acceptance. 他为使之认可辩解得头头是道.
+play
+/ pleI; ple/ n  1 [U] activity done for amusement, esp by children; recreation 游戏, 玩耍（尤指儿童的）; 娱乐: the happy sounds of children at play 儿童游戏时欢乐的声音 * the advantages of learning through play 寄学习於娱乐的优点 * His life is all work and no play. 他的生活是只知工作没有娱乐.  2 (sport 体) (a) [U] playing of a game 比赛; 竞赛; 运动: There was no play/Rain stopped play yesterday. 昨天没有[因雨停止]比赛. * The tennis players need total concentration during play. 网球运动员在比赛中需要全神贯注. (b) [U] manner of playing a game 比赛、 竞赛或运动的表现或作风: There was some excellent play in yesterday's match. 昨天的比赛有些出色的表现. * They were penalized for too much rough play. 他们因在比赛中过於粗野而受罚. (c) [C] (esp US) action or manoeuvre in a game 比赛中的动作或技巧: a good play 漂亮的动作 * a fine defensive/passing play 精彩的防守[传递]动作.  3 [C] work (written to be) performed by actors; drama 戏剧; 剧本: a radio play 电台广播剧 * a fine edition of Shakespeare's plays 莎士比亚戏剧集锦 * She has just written a new play. 她刚写完一部新剧. * act/take part in a play 在一剧中[参加一剧的]演出 * We are going to see the new play at the Playhouse. 我们要到大剧院看新剧.  4 [U] (scope for) free and easy movement 自由活动（的范围）: Give the line more play, eg in fishing. 把线放松些（如钓鱼线）. * a knot with too much play, ie one that is not tight enough 松的结（系得不紧的） * We need more play on the rope. 绳子要松些.  5 [U] activity; operation; interaction 活动; 作用; 相互的影响: the play of supernatural forces in human destiny 超自然的力量对人类命运的影响.  6 [U] light, quick, constantly shifting movement 轻的、 快的、 不断转换的动作: the play of sunlight on water 阳光在水面上的闪烁.  7 [U] taking part in card-games, or board games, roulette, etc when playing for money; gambling 赌博: lose 500 in one evening's play 一晚上赌博输掉500英镑.  8 [sing] turn or move in cards, chess, etc （纸牌、 下棋等游戏中）轮到的机会: It's your play, ie You are the next to make a move. 轮到你了.  9 (idm 习语) bring sth into `play cause sth to have an influence 使某事物发生作用或影响: This financial crisis has brought new factors into play. 这次金融危机引发新的因素起了作用. call sth into play => call2. child's play => child. come into `play (begin to) be active or have an influence （开始）积极活动或起作用: Personal feelings should not come into play when one has to make business decisions. 为公事作决策不应搀杂个人情感. fair play => fair1. give, etc free play/rein to sb/sth => free2. give sb/sth full play => full. in full play => full. in `play as a joke; not seriously 开玩笑地; 打趣地: The remark was only made in play. 那话只是说著玩的. in/out of `play (sport 体) (of the ball in football, cricket, etc) in/not in a position where the rules allow it to be played （指足球、 板球等的球）按规则处於可[不可]比赛状态中. make a play for sb/sth (esp US) perform actions that are designed to achieve a desired result 为得到意想的结果而采取行动: She was making a big play for the leadership of the party. 她千方百计要当党的领导. * He was making a play for the prettiest girl in the college. 他挖空心思想勾引那所学院中最漂亮的女生. a play on `words pun 双关语: The advertising slogan was a play on words. 那条广告口号是双关语. the state of play => state1.
+playlet 
+/ 5pleIlIt; `plelIt/ n short play1(3) 短剧.
+play-act 
+v [I] make a show of feelings one does not really have; pretend 做作; 假装. 
+play-acting 
+n [U] (a) performing in a play1(3) 演戏. (b) pretence, esp of feelings 假装（尤指感情的）.
+playbill 
+n poster announcing the performance of a play1(3) 戏剧海报.
+playboy 
+n rich (esp young) man who spends his time enjoying himself 寻欢作乐的男子（尤指年轻的）; 花花公子.
+play-by-play 
+n (US sport 体) detailed commentary on a game, broadcast as it happens （比赛的）实况详细述评.
+playfellow (also `playmate) 
+n companion with whom (esp) a child plays 游戏伙伴（尤指儿童的）.
+playgoer 
+/ -gEUE(r); -9^oL/ n person who (often) goes to the theatre （常）看戏的人.
+playground 
+n (a) area of land where children play, eg as part of a school 游戏场, 运动场（如学校的操场）. (b) (fig 比喻) area where people like to go on holiday 度假胜地: The island has become a playground for the rich businessmen of the city. 那个岛已成为城里富商的度假胜地.
+playgroup (also `playschool) 
+n [CGp] group of children below school age who meet regularly and play together under the supervision of adults （学龄前的）幼儿学校. Cf 参看 nursery school (nursery).
+playhouse 
+n   1 theatre 剧院.  2 (also `Wendy house) model of a house large enough for a child to play in 游戏房（儿童可进入的模型房子）.
+play-pen 
+n small portable enclosure with wooden bars or netting where a baby or small child can play 游戏围栏（供幼儿在其中玩耍的便携式围栏）.
+play-room 
+n room in a house for children to play in （家庭中的）儿童游戏室.
+plaything 
+n (a) toy 玩具. (b) person treated as an unimportant object of amusement by sb else 被玩弄的人: She seemed content with her life as a rich man's plaything. 她似乎满足於做有钱男子的玩物.
+playtime 
+n [C, U] (period of) time for recreation and relaxation, esp in school 游戏或娱乐的时间（尤指学校中的）: The children have three playtimes during the day. 那些学生一天有三次游戏时间. * The children are outside during playtime. 在娱乐时间学生都在室外活动.
+playwright 
+/ 5pleIraIt; `ple9raIt/ n person who writes plays; dramatist 剧作家.
+play
+/ pleI; ple/ v  DOING THINGS FOR AMUSEMENT 玩耍  1 (a) [I, Ipr, Ip] ~ (with sb/sth) do things for pleasure, as children do; enjoy oneself, rather than work 玩; 玩耍; 游戏: There's a time to work and a time to play. 有工作的时间, 也要有娱乐的时间. * play with a ball, toy, bicycle 玩球、 玩玩具、 骑自行车玩 * a little child playing with his friend 和小朋友一起玩耍的小男孩 * children playing for hours in the garden 在花园里玩了几小时的儿童. (b) [Ipr no passive 不用於被动语态, Tn no passive 不用於被动语态, Tg] ~ (at) sth/~ (at) doing sth (esp of children) pretend to be sth or do sth for amusement （尤指儿童）装扮, 假装: Let's play (at) (being) pirates. 咱们装海盗玩儿吧. * The children were playing at keeping shop. 孩子们假装开商店玩儿.  2 [Tn, Tn.pr, Dn.n no passive 不用於被动语态] ~ sth (on sb) trick sb for amusement 开某人玩笑: play a joke/prank/trick (on sb) 开某人玩笑[对某人搞恶作剧/作弄某人] * They played me a rotten trick. 他们跟我开了一个很讨厌的玩笑.  TAKING PART IN A GAME 参加比赛  3 [I, Ipr, Tn, Tn.pr] ~ (sth) (with/against sb); ~ sb (at sth) take part in a game; compete against sb in a game 参加比赛; 同某人比赛: play football, cricket, chess, cards, etc 踢足球、 打板球、 下国际象棋、 玩纸牌 * playing (darts) with one's friends 和朋友玩（掷镖游戏） * She plays (hockey) for England. 她在英格兰队打（曲棍球）. * On Saturday France play(s) (Rugby) against Wales. 星期六法国（橄榄球）队和威尔士队比赛. * Have you played her (at tennis) yet? 你同她比赛过（网球）了吗?  4 [I, Tn] gamble at or on (sth) 赌（某事物）; 在（某事物）中赌博: play at the roulette table 赌轮盘赌 * play the casinos 在娱乐场赌博 * play the stock-market, ie buy and sell shares, etc to make money 买卖股票.  5 (a) [Ipr, Tn] take (a particular position) in a team （在体育队中）担任（某角色）: Who's playing in goal? 谁做守门员? * I've never played (as/at) centre-forward before. 我以前从未当过中锋. (b) [Tn, Tn.pr, Cn.n/a] ~ sb (as sth) include sb in a team 让某人加入队中比赛: I think we should play Bill on the wing in the next match. 我认为下一场应当让比尔任边锋. * Who shall we play at/as centre-forward? 咱们派谁当中锋?  6 (a) [I, Ipr, Ip, Tn, Tn.pr, Tn.p] (in sport) (try to) strike, kick, throw, etc (the ball, etc), esp in the specified manner or direction （体育运动中）击, 踢, 掷, 投（球等）（尤指以某种方式或向某方向）: She played (at the ball) and missed. 她击球未中. * In soccer, only the goal-keeper may play the ball with his hands. 在足球运动中只有守门员可以用手触球. * He played the ball onto his wicket, ie accidentally struck it so that it hit the wicket. 他把球打进了自己的三柱门. (b) [Tn] (in sport) make (a stroke, etc) （体育运动中）做出（某动作）: play a fast backhand volley 作快速反手拦击.  7 [I] (of a sports pitch, etc) be in a certain condition for playing （指体育比赛场地等）处於某条件: a pitch that plays well, poorly, etc, ie allows the ball to move easily, slowly, etc 好用、 不好用等的场地.  8 [I, Tn] (a) move (a piece) in chess, etc 下, 移动（棋子等）: She played her bishop. 她走了象. (b) put (a playing-card) face upwards on the table in a game of cards （纸牌游戏中）出牌: Have you played? 你出牌了吗? * Don't play out of turn! 别抢出牌! * play one's ace, a trump, etc 出A、 王牌等.  PRODUCING MUSIC OR SOUND 演奏或放音  9 (a) [I, Ipr, Tn, Dn.n, Dn.pr] ~ (sth) (on sth); ~ sth (to sb) perform on (a musical instrument); perform (music) 演奏（乐器或音乐）: In the distance a band was playing. 远处一乐队在演奏. * play (the violin, flute, etc) (well) 演奏（小提琴、 笛子等）（演奏得优美） * play (a sonata) to an audience 给听众演奏（一奏鸣曲） * play a tune on a guitar 用吉他弹一曲调 * play sb a piece by Chopin 给某人演奏萧邦的一首乐曲. (b) [I] (of music) be performed （指音乐）演奏: I could hear music playing on the radio. 我听到收音机里演奏著音乐.  10 (a) [Tn, Dn.n, Dn.pr] ~ sth (for sb) cause (a record, record-player, etc) to produce sound 用（唱片、 唱机等）播放: Can you play (me) her latest record? 给我放放她最新录制的唱片行吗? * Play that jazz tape for me, please. 请给我放那盘爵士乐录音带吧. (b) [I] (of a tape, record, etc) produce sound （指录音带、 唱片等）放音: There was a record playing in the next room. 隔壁房间里正在放唱片.  ACTING 表演  11 (a) [Tn] act in (a drama, etc); act the role of (sb) 演（戏等）; 扮演（某人）的角色: They're playing `Carmen' at the Coliseum. 他们在伦敦的大剧场上演《卡门》. * play (the part of) Ophelia 扮演奥菲莉娅（的角色）. (b) [I, Ipr] ~ (to sb) (of a drama) beperformed （指戏剧）演出, 上演: a production of `Hamlet' playing to enthusiastic audiences 为热情的观众演出的《哈姆雷特》.  12 [La, Ln, Tn no passive 不用於被动语态] behave in a specified way; act as if one were (a particular type of person) 以某种方式表现; 装成（某种人）: play dead, ie pretend to be dead in order to trick sb 装死（骗人） * play the politician, diplomat, etc 扮政治家、 外交家等 * play the fool, ie act foolishly 做蠢事 * play the sympathetic friend, the wronged wife, the busy tycoon, etc 装成有同情心的朋友、 受委屈的妻子、 忙碌的企业家等.  OTHER MEANINGS 其他意义  13 (a) [Ipr] move quickly and lightly, esp often changing direction 快而轻地动（尤指常变换方向）: sunlight playing on/over the surface of the lake 湖面上闪动的阳光 * (fig 比喻) A smile played on/about her lips. 她双唇露出一丝微笑. * His mind played on the idea of going away for a holiday. 他心里动著度假的念头. (b) [Tn.pr] direct (esp light or water) in a specified direction 将（尤指光或水）对准某处: play the torch beam over the walls 用电筒照墙的那一边 * The firemen played their hoses on the burning building. 消防队员用水龙喷射燃烧著的建筑物. * They played the searchlights along the road. 他们用探照灯照射那条路. (c) [I] (of fountains, etc) produce a steady stream of water （指喷泉等）持续喷水.  14 [Tn] allow (a fish) to exhaust itself by pulling against the line 让（鱼）拉钓线使之疲乏.  15 (idm 习语) what sb is playing at (usu expressing anger, irritation, etc 通常用以表示愤怒、 烦躁等) what sb is doing 某人在搞什麽名堂: I don't know `what he thinks he's `playing at. 我不知道他在搞什麽名堂. (For other idioms containing play, see entries for ns, adjs, etc 与play搭配的其他习语见有关名词、 形容词等的词条, 如 play fair => fair2; play the game => game1.) 16 (phr v) play a`bout/a`round (with sb/sth) act or handle sb/sth in a casual irresponsible way 玩弄某人; 摆弄或乱弄某物: Stop playing around and get on with the job. 别胡闹了, 接著做工作吧. * You shouldn't play around with (ie flirt with) another woman's husband. 你不应该和人家的丈夫厮混. * Don't play about with my expensive tools! 别乱摆弄我的昂贵的工具!
+play along (with sb/sth) 
+pretend to co-operate 假装与某人合作; 假意参与某事: (infml 口) She was in charge, so I had to play along with her odd ideas. 她是负责人, 对她的怪念头我只好假意听从.
+play at sth/being sth 
+do sth only casually, without true interest 应付事; 敷衍地做: He's only playing at his job in the city: he's much more interested in being a racing driver. 他对城里的工作只是敷衍而已, 一心想的是当赛 车手.
+play sth back (to sb) 
+allow the material recorded on a tape, etc to be heard or seen 播放（已录制的录音带、 录像带等）: I rewound the cassette and played her voice back to her. 我把录音带转回去, 把她的声音放给她听.
+play sth down 
+try to make sth appear less important than it is 欲使某事物显得没有实际上那麽重要: The government are trying to play down their involvement in the affair. 政府极力淡化与该事的瓜葛.
+play sb in, out, etc 
+play music as sb enters, leaves, etc (a place) 奏乐欢迎或欢送某人: The band played the performers onto the stage. 乐队奏乐欢迎演员登台. play oneself `in play slowly and cautiously at the beginning of a game （比赛开始时）缓慢而谨慎地进行.
+play (sth) off 
+(of two teams, etc that have the same number of points, have drawn in an earlier match, etc) play the deciding match （两队得分相同或打成平局等时）作决赛: The match between the joint leaders will be played off tomorrow. 两优胜队明天决赛. play A off against B cause two people or groups to oppose each other, esp for one's own advantage 挑拨离间（尤指为渔利）: She played her two rivals off against each other and got the job herself. 她挑拨两个对手相争, 自己却获得了那份工作.
+play on 
+(sport 体) continue to play; start playing again 继续比赛; 恢复比赛: Some of the players claimed a penalty but the referee told them to play on. 有些队员认为应当判罚, 但裁判让他们继续比赛. play on sth rouse (sb's feelings, etc) for one's own purposes （为达到个人目的）激起（某人情感等）: They played on his fears of losing his job to get him to do what they wanted. 他们利用他怕失掉工作的心理, 让他做他们想做的事. * Her speech played heavily on the angry mood of her audience. 她用演说激起听众的极大愤怒.
+play sth out 
+perform or enact sth, esp in real life 演出或现出某事物（尤指在现实生活中）: Their love affair was played out against the background of a country at war. 他们恋爱那时国家正进行著战争.
+play (sb) up 
+(infml 口) cause (sb) problems, pain or difficulties 给（某人）带来麻烦、 痛苦或困难: My injured shoulder is playing (me) up today. 我受伤的肩膀今天很疼. * schoolchildren playing up their teacher, eg by being noisy 给老师惹麻烦的小学生（如很吵闹）. play sth up ?btry to make sth appear more important than it is 欲使某事物显得比实际重要: She played up her past achievementsjust to impress us. 她夸耀过去的成绩就是为了让我们觉得她了不起. play up to sb (infml 口) flatter sb in order to win favour 讨好或奉承某人.
+play with oneself 
+(euph 婉) masturbate 手淫. 
+play with sb/sth 
+= play about/around (with sb/sth). play with sth consider (an idea, etc) lightly; toy with sth 不认真地考虑（一主意等）; 轻率对待某事物: She's playing with the idea of starting her own business. 她胡乱想著自己开业的事. 
+play-back 
+n [C, U] (device for) playing back recorded sound or pictures, eg on a video recorder 播放（录音或录像的装置）（如录像机的）.
+played out 
+adj (infml 口) exhausted; finished; no longer useful 衰竭; 结束; 失去作用: After a hard gallop, the horse was played out. 那马跑得精疲力竭. * Is this theory played out (ie no longer worth considering)? 这理论过时了吗?
+play-off 
+n match between two players or teams that are level, to decide the winner （两队或队员打成平局後的）决胜比赛, 延长赛, 加赛.
+player
+/ 5pleIE(r); `pleL/ n  1 person who plays a game 游戏者; 选手; 运动员: a game for four players 四人玩的游戏 * She's an excellent `tennis player. 她是优秀的网球选手. * Two players were injured during the match. 有两名运动员在比赛中受伤.  2 actor 演员.  3 person who plays a musical instrument 演奏者: a `trumpet player 吹奏小号的人.  4 = record-player (record1).
+player-piano 
+n piano fitted with a mechanism that allows it to be played automatically 自动钢琴（有自动演奏装置的）.
+playful
+/ 5pleIfl; `plefEl/ adj  1 fond of playing; full of fun 爱玩的; 爱游戏的; 有趣的: as playful as a kitten 像小猫一样顽皮 * a playful mood 快活的心情.  2 done in fun; not serious 闹著玩的; 取乐的: a playful slap on the hand 闹著玩打一下手 * playful remarks 开玩笑的话. 
+playfully 
+/ -fElI; -flI/ adv. 
+playfulness 
+n [U].
+playing-card
+/ 5pleIIN kB:d; `pleIN9kBrd/ (also card) n any of a set of 52 oblong cards, used for various games (eg bridge, canasta, poker) 纸牌; 扑克牌: a pack of playing-cards 一副纸牌.
+playing-field
+/ 5pleIIN fi:ld; `pleIN9fild/ n (sport 体) (a) field with special markings, used for cricket, football, hockey, etc （板球、 足球、 曲棍球等的）球场, 操场, 运动场. (b) = playground (play1).
+plaza
+/ 5plB:zE; ?@ 5plAzE; `plAzE/ n  1 open square or market-place (esp in a Spanish town) 广场, 集市（尤指西班牙城镇中的）.  2 (esp US) shopping centre 购物中心.
+PLC (also plc) 
+/ 9pi: el 5si:; 9pi Zl `si/ abbr 缩写 =  (Brit) Public Limited (ie limited liability) Company 股份公开有限公司: Lloyd's Bank PLC 劳埃德银行（亦译劳合银行）. Cf 参看 Inc, Ltd.
+plea
+/ pli:; pli/ n  1 (fml 文) ~ (for sth) earnest request; appeal 恳求; 请求: a plea for forgiveness, money, more time 恳求原谅、 给予金钱、 多给些时间 * He was deaf to (ie refused to listen to) her pleas. 他对她的请求充耳不闻.  2 (law 律) statement made by or for a person charged with an offence in court （法庭中被告一方的）抗辩, 答辩, 辩护: enter a plea of guilty/not guilty 承认有罪[不承认有罪].  3 (idm 习语) on the plea of sth/that... (fml 文) giving sth as the reason or excuse for not doing sth or for having done sth wrong （为未做某事或做错某事而作的）辩解, 托词, 藉口: withdraw on the plea of ill health 藉口健康不佳而退出 * He refused to contribute, on the plea that he couldn't afford it. 他藉口无能为力拒不捐献.
+pleach
+/ pli:tF; plitF/ v [Tn esp passive 尤用於被动语态] make or repair (a hedge) by weaving branches together 用枝条编筑或修理（篱笆）: pleached hedges 用枝条编的篱笆.
+plead
+/ pli:d; plid/ v (pt, pp pleaded; US pled / pled; plZd/)  1 [Ipr, It] ~ (with sb) (for sth) make repeated urgent requests (to sb) (for sth) 再三恳求或请求（某人）（做某事）: plead for mercy 祈求发慈悲 * He pleaded with his parents for a more understanding attitude. 他求父母多加谅解. * She pleaded with him not to leave her alone. 她恳求他不要留下她一个人. * The boy pleaded to be allowed to ride on the tractor. 那男孩请求让他坐坐拖拉机.  2 [Tn] offer (sth) as an explanation or excuse, esp for failing to do sth or for doing sth wrong 提出（理由或藉口）（尤指因未做某事或做错某事）: They asked him to pay for the damage but he pleaded poverty. 他们要他付损害赔偿金, 但他藉口贫穷而不偿还. * He apologized for not coming to the party, pleading pressure of work. 他为不能到会而道歉, 推说是工作太忙. * Pleading ignorance of the law won't help you if you are caught. 假若因犯法被抓住, 藉口不知是犯法亦无济於事.  3 [Ipr] ~ for/against sb (law 律) (of a lawyer) speak to a lawcourt (on behalf of the plaintiff/defendant)（指律师）（在法庭上为原告[被告]）提出申诉、 答辩或辩护.  4 [Tn] (law 律) present (a case) to a court of law 向法庭陈述（案情）: They employed the best lawyer they could get to plead their case. 他们聘请了能请到的最好的律师为他们陈述案情.  5 [Tn] (law 律) put (sth) forward as the basis of a case in a court of law (on behalf of sb) （代表某人）向法庭提出（某事）（作为案件的基础）: Counsel for the accused said that he intended to plead insanity, ie that his client was insane and therefore not responsible for his actions. 被告的律师说他想提出 案发时被告精神失常这一理由, 为被告不需负法律责任进行辩护. * plead guilty/not guilty, ie declare that one is guilty/not guilty of the crime one has been accused of 承认有罪[不承认有罪].  6 [Ipr, Tn] ~ (for) sth argue in support of sth; support (a cause) by argument 极力主张; 以辩论支持（某事业）: plead the cause of politicalprisoners 声援政治犯的事业 * plead for the modernizationof the city's public transport 力主城市公共交通现代化.
+pleadingly 
+adv in a begging or an imploring manner 恳求地; 乞求地.
+pleadings 
+n [pl] (law 律) formal (usu written) statements, replies to accusations, etc made by each side in a legal action （原告的）诉状; （被告的）答辩状.
+pleasant
+/ 5pleznt; `plZznt/ adj (-er, -est) (a) ~ (to sth) giving pleasure to the mind, feelings or senses; enjoyable 使人愉快的; 合意的; 可喜的: a pleasant surprise, smell, wine 惊喜、 令人舒服的气味、 可口的葡萄酒 * a pleasant breeze, temperature, climate 宜人的微风、 温度、 气候 * pleasant to the taste 可口的. (b) ~ (to sb) polite and friendly 礼貌而友好的: a pleasant smile, voice, manner 友好的微笑、 声音、 举止 * make oneself pleasant to visitors 亲切和蔼地待客 * What a pleasant girl! 多麽讨人喜欢的姑娘啊! * Do try to be more pleasant! 尽量亲切友好一些! 
+pleasantly 
+adv: smile pleasantly 亲切地微笑 * We were pleasantly surprised at the profit we made. 我们获得了利润而惊喜交加. 
+pleasantness 
+n [U].
+pleasantry
+/ 5plezntrI; `plZzntrI/ n (fml 文) (a) humorous remark; joke 幽默的话; 笑话: The children smiled politely at the visitor's pleasantries. 孩子听了客人说的幽默话, 都斯文地笑了. (b) polite remarks 有礼貌的话; 客气话: After an exchange of pleasantries, the leaders started their negotiations. 领导人互相寒暄一番, 然後开始谈判.
+please
+/ pli:z; pliz/ v  1 [Tn] be agreeable to (sb); make (sb) happy 使（某人）满意或愉快: It's difficult to please everybody. 很难做到人人满意. * Our main aim is to please the customers. 我们的目的是让顾客满意. * He's a very hard/difficult man to please. 他是个很难让人讨好的人. * I shall have nothing to do on holiday but please myself, ie do as I like. 我在假日只图快乐, 别的什麽事都不做.  2 [I] (in subordinate clauses beginning with as or what 用於以as或what开头的从句中) (fml 文) (a) think desirable or appropriate; choose 认为满意或合适; 愿意: You may stay as long as you please. 你爱呆多久就呆多久. * Take as many as you please. 你要拿多少就拿多少. (b) want; like 想要; 喜欢: That child behaves just as he pleases. 那孩子想干什麽就干什麽. * I shall do as I please. 我喜欢怎麽做就怎麽做. * Do what you please. 你想做什麽都行.  3 (idm 习语) ,if you `please (a) (fml 文) (used when making a polite request 用於客气的请求): Come this way, if you please. 请您这边走. (b) (used to express annoyance or outrage when reporting sth 用於转述某事时表示恼怒或愤恨): And now, if you please, I've been told I'm to get nothing for my work! 嘿, 真岂有此理, 听说我是白干工作毫无报酬! * He says the food isn't hot enough, if you please! 他竟然说吃的东西不够热, 你听听这话! ,please `God may God let it happen; if it is pleasing to God 但愿上帝让它实现; 若天意如愿: Please God, things will start to improve soon. 但愿事情很快开始好转. * She'll get better one day, please God. 她总有一天会好起来的, 愿上帝开恩. ,please your`self (ironic 反语) do as you like; I don't care what you do 请便; 我才不在乎你做什麽呢: `I don't want to come with you today. ' `Oh, please yourself then!' ｀我今天不想和你一起去.＇｀哦, 请便吧!＇
+please 
+interj  1 (a) (used as a polite way of making a request or giving an order 用於客气的请求或吩咐): Please come in. 请进. * Come in, please. 请进. * Two cups of tea, please. 请来两杯茶. * Tickets, please! 请把票拿出来! * Would you go now, please! 请您现在走吧! (b) (used to add emphasis or urgency to a request or statement 用以加强请求或陈述的语气或迫切性): Please don't leave me here alone! 请别把我一个人留在这里! * Please, please, don't be late! 可千万别迟到! * Please, I don't understand what I have to do! 真是的, 我不明白该做什麽好!  2 (infml 口) (used when accepting an offer emphatically 在接受别人好意时用以加强语气) yes, please 那太好了: `Shall I help you carry that load?' `Please!' ｀我帮你拿那个重东西好吗?＇｀那太好了!＇  3 (idm 习语) yes, please (used as a polite way of accepting the offer of sth 用作接受好意时的客气话) I accept and am grateful 我接受并且感谢: `Would you like some coffee?' `Yes, please. ' ｀你要点咖啡吗?＇｀好的, 谢谢.＇ * `Would you like a lift into town?' `Yes, please. ' ｀你愿意顺便坐我的汽车去伦敦吗?＇｀好哇, 谢谢你.
+pleased 
+adj  1 ~ (with sb/sth) feeling or showing satisfaction or pleasure (with sb/sth) （对某人[某事物]）欣喜的, 满意的, 高兴的, 愉快的: Your mother will be very pleased with you. 你母亲将对你十分满意. * They were all very pleased with the news. 他们听到那消息都很高兴. * Are you pleased with the new flat? 你对这套新公寓满意吗? * He looks rather pleased with himself, ie pleased with what he has done. 他看起来对自己做的事颇为得意.  2 ~ to do sth happy to do sth 乐意做某事: I was very pleased to be able to help. 我能够帮上忙感到很高兴. * We were pleased to hear the news. 我们听到那消息非常高兴. * (fml 文) The Governor is pleased to accept the invitation. 总督欣然接受邀请.  3 (idm 习语) (as) ,pleased as `Punch very pleased 非常快乐.
+pleasing 
+adj ~ (to sb/sth) giving pleasure (to sb/sth); pleasant 使人愉快的; 合意的; 可爱的: a pleasing colour scheme, singing voice 协调的颜色、 悦耳的歌喉 * The news was very pleasing to us. 那消息使我们非常愉快. * sounds that are pleasing to the ear 悦耳的声音. pleasingly adv: everything pleasingly arranged for the guests 为客人安排得称心如意的一切.
+pleasure
+/ 5pleVE(r); `plZVL/ n  1 (a) [U] state or feeling of being happy or satisfied 愉快; 快乐; 高兴; 满足: a work of art that has given pleasure to millions of people 给上百万人带来乐趣的艺术品 * It gives me great pleasure to welcome our speaker. 我很高兴去迎接我们的演讲人. * Has she gone to Paris on business or for pleasure (ie for work or for fun)? 她到巴黎是办公事还是游玩去了? (b) [C] thing that gives happiness or satisfaction 乐事; 快事: the pleasures of living in the country 乡居的乐趣 * She has few pleasures left in life. 她生活中已没有什麽乐趣了. * It's been a pleasure meeting you. 认识你是十分高兴的事. * `Thank you for doing that!' `It's a pleasure. ' ｀多谢你做了那件事!＇｀不客气.＇ * Remembering the past was his only pleasure. 他唯一的乐趣是回忆往事.  2 [U] sensual enjoyment 感官的享受; 声色之乐; 肉体之乐（常指肉欲）: His life is spent in the pursuit of pleasure. 他一生都在寻欢作乐.  3 [U] (fml 文) what a person wants; desire 意愿; 愿望: We await your pleasure. 我们听您的意思. * You are free to come and go at your pleasure, ie as you wish. 来去自由, 悉听尊便. * Is it your pleasure that I cancel the arrangements? 您的意思是否要我取消这些安排?  4 (idm 习语) have the pleasure of sth/doing sth (used to make polite requests, issue invitations, etc 用於客气的请求、 邀请等): May I have the pleasure of this dance? 我可以邀请您跳这个舞吗? * (fml or joc 文或谑) Are we to have the pleasure of seeing you again? 我们是不是有福气再见到你? take (no/great) pleasure in sth/doing sth enjoy/not enjoy (doing) sth 以[不以]（做）某事为乐; 喜欢[不喜欢]（做）某事: She seemed to take pleasure in our suffering. 她似乎对我们的痛苦幸灾乐祸. * They take great pleasure in reminding us of our poverty. 他们特别喜欢向我们提到我们穷. * She took no pleasure in her work. 她觉得自己的工作毫无乐趣.with `pleasure one is pleased to accept, agree, etc 愉快地接受、 同意等: `Will you join us?' `Thank you, with pleasure.' ｀你愿意和我们在一起吗?＇｀谢谢, 非常愿意.＇ * `May I borrow your car?' `Yes, with pleasure. ' ｀我可以借用你的汽车吗?＇｀可以, 很愿意借给你.＇
+pleasurable 
+/ 5pleVErEbl; `plZVErEbl/ adj givingpleasure; enjoyable 令人愉快的; 使人快乐的: a pleasurablesensation 快感 * pleasurable companionship 令人愉快的友谊. 
+pleasurably 
+/ -EblI; -EblI/ adv.
+pleasure-boat 
+n boat used for pleasure only 游艇.
+pleasure-craft 
+n (pl unchanged 复数不变) boat used for pleasure only 游艇: Fishing boats and pleasure-craft followed the great liner into the harbour. 渔船和游艇跟随著大型班轮进入了港口.
+pleasure-ground 
+n area used for public amusement or recreation 游乐场; 娱乐场.
+pleasure-seeking 
+adj devoted to pleasure(2) 寻欢作乐的.
+pleat
+/ pli:t; plit/ n pressed or stitched fold made in a piece of cloth （布料上压的或缝的）褶: a shirt with pleats in the front 前面有褶的衬衫.
+pleat 
+v [Tn] make pleats in (sth) 在（某物）上打褶: pleat a skirt 在裙子上打褶 * pleated curtains 有褶的帘.
+pleb
+/ pleb; plZb/ n (infml derog 口, 贬)  1 [C] = plebeian.  2 the plebs [pl] the masses 群众; 百姓.
+plebeian
+/ plI5bi:En; plI`biEn/ adj  1 (fml or derog 文或贬) of the lower social classes 下层社会的; 平民的: of plebeian origins 平民出身的.  2 (derog 贬) lacking refinement; vulgar 平庸的; 粗俗的: plebeian tastes 庸俗的趣味. 
+plebeian (also pleb) 
+n (derog 贬) person belonging to the lower social classes (esp in ancient Rome) 下层人; （尤指古罗马时的）平民, 庶民. Cf 参看 patrician.
+plebiscite
+/ 5plebIsIt; ?@ -saIt; `plZbE9saIt/ n (politics 政) (decision made by a) direct vote by all qualified citizens on an important political matter 公民投票（的表决）: A plebiscite was held to decide the fate of the country. 举行了公民投票以决定国家的命运. * The question of which state the minority group should belong to was decided by (a) plebiscite. 该少数民族应归属哪一州的问题已由公民投票表决. Cf 参看 referendum.
+plectrum
+/ 5plektrEm; `plZktrEm/ n (pl -tra / -trE; -trE/) (music 音) small piece of metal, wood, plastic or bone that is attached to the finger and used for plucking the strings of certain musical instruments, eg the guitar, mandolin, etc （戴在手指上弹奏弦乐器用的）拨子, 琴拨.
+pled
+pt, pp of plead.
+pledge
+/ pledV; plZdV/ n  1 solemn promise; vow 誓言; 誓约; 保证: give a pledge never to reveal the secret 保证决不泄密.  2 (a) thing left with a person to be kept until the giver has done sth promised, eg paid a debt 保证物（如为还债的）. (b) article left with a pawnbroker in exchange for sth, esp money 典当物.  3 thing given to sb as a sign of friendship, love, etc （表示友情、 爱情等的）信物, 象徵物: gifts exchanged as a pledge of friendship 交换的象徵友谊的礼物.  4 (idm 习语) in/out of pledge left with sb until the giver has paid a debt, etc/no longer left on these conditions 在抵押中[已不在抵押中]: put/hold sth in pledge 以[收下]某物作抵押 * take sth out of pledge 赎回抵押的某物. sign/take the `pledge (esp joc 尤作戏谑语) make a solemn promise never to drink alcohol 发誓戒酒. under pledge of sth in the state of having agreed to or promised sth 在誓约或承诺某事的约束下: You are under pledge of secrecy. 你已发过誓要保密.
+pledge 
+v  1 (a) [Tn, Tn.pr, Dn.n, Dn.t] ~ sth (to sb/sth) (fml 文) promise solemnly to give (support,etc); give (one's word, honour, etc) as a pledge 保证给予（支持等）; 以（誓言、 名誉等）作担保: pledge allegiance(ie loyalty) to the king 发誓效忠国王 * pledge a donation (to a charity) 承诺（向慈善机构）捐献 * be pledged to secrecy/to keeping a secret 誓守秘密. (b)[Tn, Tn.pr, Cn.t] ~ sb/oneself (to sth/to do sth) promise solemnly that sb/one will do sth or support a cause, etc保证某人[自己]做某事或支持某事业等: The Government has pledged itself to send aid to the famine victims. 政府已承诺赈济饥民.  2 [Tn] leave (sth) with sb as a pledge (2b) 典当（某物）: He's pledged (ie pawned) his mother's wedding ring. 他把母亲的结婚戒指典当了.  3 [Tn] (fml 文) drink to the health of (sb); toast (sb) 为（某人）的健康祝酒; 向（某人）祝酒: pledge the bride and bridegroom 向新娘和新郎祝酒.
+Pleistocene
+/ 5plaIstEsi:n; `plaIstE9sin/ adj (geology 地质) of the epoch in the earth's history that started about a million years ago and lasted for about 800000 years, when glaciers covered most of the northern hemisphere 更新世的.
+the Pleistocene 
+n the Pleistocene epoch 更新世.
+plenary
+/ 5pli:nErI; `plinErI/ adj  1 (of meetings, etc) attended by all who have the right to attend （指会议等）全体出席的: a plenary session of the assembly 大会的全体会议.  2 (of powers, authority, etc) without limits; absolute （指权力、 权威等）无限的, 绝对的, 全权的: assume plenary authority 掌握绝对权威.
+plenipotentiary
+/ 9plenIpE5tenFErI; 9plZnEpE`tZnFErI/ n person (esp an ambassador) with full powers to act on behalf of his government (esp in a foreign country) （代表政府的）全权代表（尤指在外国）; （尤指）全权大使.
+plenipotentiary 
+adj of or like a plenipotentiary （似）全权代表的, 全权大使的: The minister was given plenipotentiary powers in the trade negotiations. 该部长获有全权进行贸易谈判.
+plenteous
+/ 5plentIEs; `plZntIEs/ adj (fml 文) plentiful 大量的; 丰富的. 
+plenteously 
+adv.
+plentiful
+/ 5plentIfl; `plZntIfEl/ adj in large quantities ornumbers; abundant 大量的; 丰富的: find plentiful supplies of fresh fruit and vegetables 得到大量新鲜水果和蔬菜的供应 * Eggs are plentiful at the moment. 现在鸡蛋很多. Cf 参看 scarce. 
+plentifully 
+/ -fElI; -flI/ adv: The visitors were plentifully supplied with food and drink. 给来宾准备了丰富的食物和饮料.
+plenty
+/ 5plentI; `plZntI/ pron  1 number or amount that is sufficient for sb or more than sb needs 充裕; 大量: plenty of eggs, money, time 很多的鸡蛋、 金钱、 时间 * `Do you need more milk?' `No thanks, there's plenty in the fridge. ' ｀你还要牛奶吗?＇｀不要, 谢谢. 冰箱里还有很多呢.＇ * `Have we got enough plates?' `Yes, there are plenty in the cupboard. ' ｀咱们的盘子够用吗?＇｀够, 碗橱里有很多.＇ * They always gave us plenty to eat. 他们总是给我们很多东西吃.  2 (idm 习语) days, years, etc of `plenty (fml or rhet 文或修辞) time when very many necessities, esp food and money, are available 富裕（尤指食物和钱）的日子、 年月: looking back on the years of plenty 回顾富足的年月. in `plenty (fml 文) in a large quantity; in abundance 大量; 丰富; 充裕: food and drink in plenty 大量的食物和饮料. > plenty adv  1 (used with more to indicate an excess 与more连用表示超过的量): We've got plenty more (of it/them) in the shop. 我们店里还有很多（那种货物）. * There's plenty more paper if you need it. 你需要纸的话, 有的是.  2 (infml 口) (used with big, long, tall, etc followed by enough 与big long tall等连用, 後接enough): The rope was plenty long enough to reach the ground. 绳子长可及地.
+pleonasm
+/ 5plIEnzEm; `pliE9nAzEm/ n (a) [U] use of more words than are necessary to express the meaning 冗笔, 赘述（的运用）. (b) [C] instance of this 冗笔; 赘述: `Hear with one's ears' and `divide into four quarters' are pleonasms. ｀用耳朵听＇和｀分成四个四分之一＇是赘述. Cf 参看 tautology. 
+pleonastic 
+/ 9plIE5nstIk;9pliE`nAstIk/ adj.
+plethora
+/ 5pleWErE; `plZWErE/ n [sing] (fml 文) quantity greater than what is needed; over-abundance 过量; 过剩: The report contained a plethora of detail. 报告中细节过多.
+pleurisy
+/ 5plUErEsI; `plJrEsI/ n [U] (medical 医) serious illness, with inflammation of the delicate membrane of the thorax and the lungs, causing severe pain in the chest or sides 胸膜炎.
+plexus
+/ 5pleksEs; `plZksEs/ n (pl unchanged or ~es 复数或不变或作 plexuses) (anatomy 解) network of fibres or vessels in the body （纤维或血管的）丛: the solar plexus, ie the network of nerves in the abdomen 太阳神经丛（腹腔丛）.
+pliable
+/ 5plaIEbl; `plaIEbl/ adj  1 easily bent, shaped or twisted; flexible 易弯的; 可塑的; 可扭曲的; 柔韧的: Cane is pliable when wet. 藤条潮湿时易弯曲.  2 (of a person or a person's mind) easily influenced （指人或思想）易受影响的: the pliable minds of children 儿童容易受影响的头脑. 
+pliability 
+/ 9plaIE5bIlEtI; 9plaIE`bIlEtI/ n [U].
+pliant
+/ 5plaIEnt; `plaIEnt/ adj  1 bending easily; supple 易弯的; 柔韧的: the pliant branches of young trees 小树柔软的枝条.  2 adapting easily; yielding 易适应的; 顺从的. 
+pliancy 
+/ 5plaIEnsI; `plaIEnsI/ n [U]. 
+pliantly 
+adv.
+pliers
+/ 5plaIEz; `plaILz/ n [pl] tool with long jaws which have flat surfaces that can be brought together for holding, bending, twisting or cutting wire, etc 钳子; 老虎钳: a pair of pliers 一把钳子.
+plight
+/ plaIt; plaIt/ n [sing] serious and difficult situation or condition 严重和困难的境况; 困境; 苦境: the plight of the homeless 无家可归的人的苦境 * The crew were in a sorry plight by the time they reached shore. 船员们抵达岸边时境况已十分悲惨. * I was in a dreadful plight  I had lost my money and missed the last train home. 我身陷困境--钱丢了, 又没赶上回家的末班火车.
+plight
+/ plaIt; plaIt/ v (idm 习语) plight one's `troth (arch 古) make a promise to marry sb 订婚.
+plimsoll
+/ 5plImsEl; `plImsl/ (also pump) n (Brit) (US sneaker) rubber-soled canvas sports shoe; gym-shoe 橡皮底帆布鞋: a pair of plimsolls 一双体操鞋.
+Plimsoll line
+/ 5plImsEl laIn; `plImsEl 9laIn/ (also `Plimsoll mark / mB:k; 9mBrk/) line marked on a ship's side to show how far it may legally go down in the water when loaded （船的）载货吃水线.
+plinth
+/ plInW; plInW/ n square block or slab on which a column or statue stands （柱或雕像的）底座, 基底. =>illus at column 见column插图.
+Pliocene
+/ 5plaIEUsi:n; `plaIo9sin/ adj (geology 地质) of the last epoch of the Tertiary period in the earth's history (when many modern mammals appeared) 上新世的.
+the Pliocene 
+n the Pliocene epoch 上新世.
+plod
+/ plCd; plBd/ v (-dd-)  1 [I, Ipr, Ip] ~ (along/on) walk with heavy steps or with difficulty; trudge 迈著沉重的脚步行走; 艰难地行走: Labourers plodded home through the muddy fields. 工人们穿过泥泞的田地吃力地走回家去. * (fig 比喻) We plodded on through the rain for several hours. 我们在雨中跋涉了几小时. =>Usage at stump 用法见stump.  2 (phr v) plod along move slowly (at some task) 缓慢地进行（某工作）: `How's the book?' `Oh, I'm plodding along. ' ｀那本书怎麽样?＇｀哦, 我正在磨蹭呢.＇ plod away (at sth) work steadily but slowly (and with difficulty) 持续而缓慢地（并艰难地）工作: He plodded away all night at the accounts but didn't finish them in time. 他彻夜不眠地清理帐目, 却未能按时完成.
+plodder 
+n (usu derog 通常作贬义) person who works slowly and with determination, but without inspiration 不动脑筋慢慢苦干的人.
+plodding 
+adj. 
+ploddingly 
+adv.
+plonk
+/ plCNk; plBNk/ (also plunk / plQNk; plQNk/) n (usu sing 通常作单数) (infml 口) sound (as) of sth dropping heavily （似）物体沉重坠落的声音; 砰的一声: to hear a plonk 听到砰的一声.
+plonk 
+adv (infml 口) with a plonk 砰的一声: The lamp fell plonk on the table. 台灯砰的一声倒在桌上了.
+plonk 
+v (phr v) plonk sth down; plonk sth (down) on sth (infml 口) drop sth or put sth down heavily or with a plonking sound 扔下某物; 重重放下某物（并发出砰的声音）: He plonked the groceries on the kitchen floor. 他把买的食物杂货砰的一声扔到厨房的地板上了. * (fig 比喻) We plonked ourselves (down) by the fire. 我们猛地一下子坐在了炉火旁.
+plonk
+/ plCNk; plBNk/ n [U] (infml 口 esp Brit) cheap wine of poor quality （劣质的）便宜的酒.
+plop
+/ plCp; plBp/ n (usu sing 通常作单数) sound (as) of a smooth object dropping into water without making a splash （光滑物体落入水中而不溅泼的）落水声, 扑通声: He dropped a pebble from the bridge and waited for the plop. 他从桥上扔下一颗卵石, 然後等著听那扑通的一声.
+plop 
+adv with a plop 扑通一声: The stone fell plop into the water. 那石头扑通一声落入水中.
+plop 
+v (-pp-)  1 [I] make a plop 发出落水声; 发出扑通声: Did you hear it plop? 你听到它落入水中的声音了吗?  2 [Ipr, Ip] fall with a plop 扑通一声落下: The jelly plopped into the dish. 果冻噗的一声落到碟里. * The fish plopped back into the river. 那鱼扑通一声跃回河中.
+plosive
+/ 5plEUsIv; `plosIv/ n, adj (phonetics 语音) (consonant sound) made by closing the air passage and then audibly releasing the air, eg /t/ and /p/ in top 爆破音（的）（如 top 中的 /t/ 和 /p/）.
+plot
+/ plCt; plBt/ n small marked or measured piece of land, esp for a special purpose （有标记的或测量出的）小块土地（尤指有某用途的）: a building plot 一块建筑用地 * a vegetable plot 一块菜地 * a small plot of land 一小块地皮.
+plot 
+v (-tt-)  1 [Tn] (a) make a plan or map of (sth) 绘制（某事物）的图: plot an escape route 画出逃跑路线. (b) mark (sth) on a chart or diagram （在图表上）标绘（某物）: plot the ship's course 标绘该船的航线. (c) make(a curve, etc) by connecting points on a graph （在图上连接标定的点）绘制（曲线等）: plot a temperature curve 绘制温度曲线图.  2 [Tn, Tn.p] ~ sth (out) divide sth into plots 将（某大片土地）分成小块.
+plot
+/ plCt; plBt/ n  1 (plan or outline of the) events in the story of a play or novel （戏剧或小说的）故事情节（的构思或布局）: a neatly worked-out plot 丝丝入扣的故事情节 * The plot was too complicated for me  I couldn't follow it. 我觉得情节太复杂--我看不明白.  2 secret plan made by several people to do sth; conspiracy （几人的）密谋, 阴谋: a plot to overthrow the government 推翻政府的阴谋 * The plot was discovered in time. 那阴谋已被及时揭露.  3 (idm 习语) hatch a plot => hatch. the plot `thickens (catchphrase 警语) a situation in real life, or the plot of a work of fiction, is suddenly more complicated or intriguing 现实生活中的情况或小说中的情节, 突然复杂起来或更引人注意了.
+plot
+v (-tt-) (a) [I, Ipr, Ip, It] ~ (with sb) (against sb); ~ (together) make a secret plan (to do sth); take part in a plot 密谋（做某事）; 参与阴谋: plot with others against the State 伙同他人阴谋反对政府 * plot (together) to do sth （一起）密谋做某事. (b) [Tn] plan (sth) with others 与他人谋画（某事）: They were plotting the overthrow of the government. 他们正在策画推翻政府. plotter n person who plots; conspirator 密谋策画者; 搞阴谋的人.
+plough (US plow) 
+/ plaU; plaJ/ n  1 (a) [C] implement with a curved blade, used for digging furrows in the soil, esp before seeds are planted, pulled by animals or by a tractor 　. (b) (esp in compounds 尤用以构成复合词) implement resembling this 似　的工具: a `snow-plough, ie one for clearing snow from roads and railways 雪　（清除路面或铁道积雪的）.  2 the Plough [sing] (also Charles's Wain) (Brit) (US also the Big Dipper) (astronomy 天) group of the seven brightest stars in the constellation of the Great Bear, visible only from the Northern hemisphere 北斗七星.  3 [U] land that has been ploughed 　过的地; 耕地: 100 acres of plough 100英亩耕地.  4 (idm 习语) under the `plough (of land) used for growing grain and not for pasture （指土地）用於种庄稼的（非牧用的）.
+plough (US plow) 
+v  1 [Tn, Tn.p] ~ sth (up) break up the surface of (land) with a plough 犁（地）; 耕（地）: plough a field 耕田 * The meadow's been ploughed up. 那片草地已用　翻过.  2 [I, Tn] (dated Brit sl 旧, 俚) (cause sb to) fail (an examination) （使某人）考（试）不及格: I ploughed my finals. 我期末考试不及格. * The examiners ploughed half the candidates. 主考人员刷掉了一半应试者.  3 (idm 习语) plough a lonely `furrow work without help or support 孤独无援地工作.  4 (phr v) plough sth back (a) put (a crop or grass) back in the soil by ploughing in order to enrich the soil 将（作物或草）犁入土中作肥料. (b) (fig 比喻) re-invest (profits) in the business that produced them 将（利润）作为资本再投资於原企业中. plough into sth/sb crash violently into sth/sb 猛力撞某物[某人]: The car went out of control and ploughed into the side of a bus. 那汽车失控拦腰撞上了一辆公共汽车. plough (one's way) through sth (a) force a way through sth 费力穿过某处: plough one's way through the mud 在泥泞中艰难跋涉 * The ship ploughed through the waves. 那轮船破浪前进. (b) make progress slowly or with difficulty through sth 缓慢或费力地在某方面取得进展: plough through legal text books, a pile of documents, mountains of work, etc 吃力地钻研法律教科书、 缓慢地阅读一堆文件、 费力地处理堆积如山的工作.
+ploughman (US plowman) 
+/ -mEn; -mEn/ n (-men /-mEn; -mEn/) man who guides a plough(1a), esp one pulled by animals 把犁人（尤指用力畜拉的犁）. ,ploughman's `lunch (Brit) meal of bread, cheese and pickles, often served with beer in a pub 农夫午餐（有面包、 乾酪、 泡菜, 常有啤酒, 多在小酒店中供应）.
+ploughshare (US plowshare) (also share) 
+n broad blade of a plough(1a) 犁铧; 铧. =>illus 见插图.
+plover
+/ 5plQvE(r); `plQvL/ n any of various types of long-legged short-tailed land bird that live on marshy ground near the sea 行鸟（腿长、 尾短, 栖於近海的沼泽地）. =>illus at App 1 见附录1插图, page v.
+ploy
+/ plRI; plRI/ n words or actions, eg in a game, intended to win an advantage over one's opponent （克敌制胜的）策略, 手法（如在比赛中的）: It was all a ploy to distract attention from his real aims. 那纯粹是障眼法, 用以分散人们对他真正意图的注意力.
+pluck
+/ plQk; plQk/ v  1 [Tn, Tn.pr, Tn.p] ~ sth (off/out) gather or remove sth by pulling; pick sth 拔除或摘除某物; 采某物: pluck a rose from the garden 从花园里摘一朵玫瑰花 * pluck one's eyebrows, ie use tweezers to remove unwanted hairs 拔眉毛 * pluck off the dead flowers 掐掉凋谢的花 * pluck out a grey hair 拔下一根灰白的头发.  2 [Tn] pull the feathers off (a goose, chicken, etc) in order to prepare it for cooking 拔去（鹅、 鸡等）的毛（以备烹调）: Have the turkeys been plucked? 火鸡的毛都拔了吗?  3 [Tn, Tn.pr] ~ (at sth) take hold of (sth) and pull it; snatch at (sth) 拉住或抓住（某物）: The child was plucking at her mother's skirt. 那孩子揪住母亲的裙子. * A stranger plucked at my sleeve as I was leaving. 我刚要离去, 一个陌生人拽我的袖子.  4 (US pick) [Tn] sound (the strings of a musical instrument) by pulling and releasing them 弹或拨（乐器的弦）: pluck the strings of a guitar 弹吉他的弦.  5 (idm 习语) pluck up `courage (to do sth) make an effort to be brave 鼓起勇气: I shall have to pluck up courage and speak to her about it. 我得鼓起勇气跟她谈这件事. * He can't pluck up the courage to leave home. 他鼓不起离开家的勇气.
+pluck 
+n  1 [U] (infml 口) courage, esp in the face of a stronger opponent or of hardship; bravery 勇气, 胆量（尤指面对强敌或困难的）: She showed a lot of pluck in dealing with the intruders. 她对付那些闯入的歹徒表现得十分勇敢.  2 [C usu sing 通常作单数] short sharp pull 快而猛的拉: feel a pluck at one's sleeve 觉得袖子被人猛拉了一下.  3 [U] heart, liver and lungs of an animal, as food （动物的）心, 肝, 肺（作食物者）. 
+plucky 
+adj (-ier, -iest) having or showing pluck; brave 勇敢的; 有胆量的. 
+pluckily 
+adv.
+plug
+/ plQg; plQ^/ n  1 (a) piece of metal, rubber or plastic that fits tightly into a hole (eg in a barrel, wash-basin, bath, etc) 塞子（如用以塞大桶、 洗脸池、 浴缸等的）: Pull (out) the plug and let the water drain away. 拔掉塞子, 把水放掉. * He put plugs in his ears because the noise was too loud. 因为太吵闹了, 他用耳塞堵住了耳朵. (b) (US) = stopper.  2 (a) device with metal pins that fit into holes in a socket to make an electrical connection 插头; 插塞: a three-/two-pin plug 三线[双线]插头 * Put the plug in the socket. 把插头插入插座里. * I'll have to change the plug on the hair drier. 我得更换吹风机的插头了. =>illus at socket 见socket插图.(b) (infml 口) electric socket 插座.  3 = sparking plug (spark).  4 (infml 口) piece of favourable publicity in the media for a commercial product, eg a record or book （在传播媒介中插入宣传商品的）推销广告（如宣传唱片或书的）.  5 (a) cake or stick of pressed or twisted tobacco 板烟. (b) piece of this cut off for chewing 口嚼烟（切成小块的板烟）.  6 (idm 习语) pull the plug on sb/sth => pull2.
+plug 
+v (-gg-)  1 [Tn, Tn.p] ~ sth (up) fill (a hole) or stop up sth with a plug 用塞子堵（洞）: plug a leak in the barrel 用塞子堵住大桶的漏洞.  2 [Tn] (infml 口) mention (sth) favourably in the media, esp repeatedly （在传播媒介中）宣传（某事物）（尤指反覆地）: They've been plugging his new show on the radio. 他们一直在电台上宣传他的新节目.  3 [Tn] (infml 口 esp US) shoot or hit (sb) 射击或打（某人）.  4 (phr v) plug away (at sth) work hard and steadily (at sth) （对某事物）努力不懈地干: She's been plugging away at her French lessons for months. 她已刻苦攻读法语数月. plug sth in connect (sth) to the electricity supply with a plug(2a) 用插头将（某物）与电源接通: Plug in the radio, please. 请把收音机的插头插上. * The recorder wasn't plugged in. 录音机的插头没插上.
+plug-hole 
+n (Brit) (US drain) hole into which a plug(1) fits, esp in a basin, sink or wash-basin 排水孔（尤指洗脸池、 洗物池等的）.
+plum
+/ plQm; plQm/ n  1 (a) [C] soft round smooth-skinned fruit with sweet flesh and a flattish pointed stone 李子; 梅子. =>illus at fruit 见fruit插图. (b) [C] (also `plum tree) tree on which this grows 李树; 梅树.  2 [U] dark reddish-purple colour 紫红色.  3 (infml 口) thing considered good or worth having, esp a well-paid job 好的事物; （尤指）报酬高的工作: She's got a plum of a job. 她得到一份高薪的工作. * [attrib 作定语] a plum job 报酬高的工作.
+plum pudding 
+rich boiled suet pudding with dried fruits and spices, traditionally eaten at Christmas 乾果布丁（圣诞节传统食物）.
+plumage
+/ 5plu:mIdV; `plumIdV/ n [U] feathers covering a bird's body 羽衣（鸟体的全部羽毛）: the brightly coloured plumage of tropical birds 热带鸟类色彩斑斓的羽毛.
+plumb
+/ plQm; plQm/ n  1 piece of lead that is tied to a cord and used to find the depth of water or test whether a wall, etc is vertical 测深锤, 铅锤（悬挂於绳上的铅块, 用以测水深或墙等是否垂直）.  2 (idm 习语) out of `plumb not vertical 不垂直的.
+plumb 
+adv  1 exactly 恰恰; 正: plumb in the centre 在正中.  2 (US infml 口) quite; absolutely 十分; 完全; 绝对: He's plumb crazy. 他真是疯了.
+plumb 
+v  1 [Tn] (a) test (sth) by using a plumb-line 用铅垂线测（某物）. (b) (fig 比喻) (try to) understand(sth) thoroughly 探索, 探究（某事物）: plumb the mysteries of the universe 探索宇宙的奥秘.  2 (idm 习语) plumb the depths of sth reach the lowest point of sth 到达某事物的最低点: plumb the depths of despair 绝望已极 * a film that really plumbs the depths of bad taste 趣味低级得真正到了极点的一部影片.  3 (phr v) plumb sth in attach (eg a washing-machine) to water-pipes 将（如洗衣机）与水管接通: We've plumbed in the dishwasher. 我们已给洗碟机接上水管了.
+plumb-line 
+n line with a plumb(1) attached to one end 铅垂线.
+plumber
+/ 5plQmE(r); `plQmL/ n person whose job is to fit and repair water-pipes, water-tanks, cisterns, etc in buildings 铅管工; 管子工; 水暖工.
+plumbing
+/ 5plQmIN; `plQmIN/ n [U]  1 system of water-pipes, water-tanks, cisterns, etc in a building （建筑物的）管道装置: There is something wrong with the plumbing.水管设备出毛病了.  2 work of a plumber 铅管工的工作: We employed a local man to do the plumbing. 我们雇了一个当地人做管道装修工作.
+nom de plume
+/ 9nCm dE 5plu:m; `nBmdE9plum/ n (pl noms de plume / 9nCm dE 5plu:m; nBmdE9plum/) (French 法) = pseudonym.
+plume
+/ plu:m; plum/ n (a) feather, esp a large one used as a decoration 羽毛; （尤指作装饰用的）翎子. (b) ornament of feathers or similar material, worn in the hair or on a hat or helmet 羽毛或类似羽毛材料的饰物（装饰在头发上或帽上）: a plume of ostrich feathers 鸵鸟羽毛的装饰. (c) thing that rises into the air in the shape of a feather 貌似羽毛升空之物: a plume of smoke/steam 一缕烟[蒸汽].
+plume 
+v  1 [Tn] (of a bird) smooth (sth) with its beak; preen （指鸟）用喙整理（某物）: a bird pluming itself/its feathers/its wing 用喙整理自己[羽毛/翅膀]的鸟.  2 [Tn, Tn.pr] ~ oneself (on sth) congratulate or pride oneself (on sth) （为某事）自喜, 自豪. plumed adj having or decorated with a plume or plumes 有羽毛或翎子的; 用羽毛或翎子装饰的: a plumed hat 有羽毛装饰的帽子.
+plummet
+/ 5plQmIt; `plQmIt/ n  1 (weight attached to a) plumb-line 测深锤; 铅锤; 铅垂线.  2 weight attached to a fishing-line to keep the float upright （钓丝上的）铅坠, 坠子（用以使鱼漂竖起）.
+plummet 
+v [I, Ipr, Ip] fall steeply or rapidly 大坡度或快速落下: House prices have plummeted in this area. 此地房价大跌. * Pieces of rock plummeted down the mountainside to the ground below. 岩石一块块顺著山的陡坡滚落到地面.
+plummy
+/ 5plQmI; `plQmI/ adj (-mier, -miest)  1 (infml 口) desirable; good 合意的; 很好的: a plummy job 顺心的工作.  2 (esp derog 尤作贬义) (of a voice) affectedly upper-class; sounding as if one is speaking with sth (eg a plum) in one's mouth （指嗓音）拿腔拿调的, 像嘴里含著东西似的: a plummy accent/voice 拿腔捏调的口音[嗓音].
+plump
+/ plQmp; plQmp/ adj (a) (esp of an animal, a person, parts of the body) having a full rounded shape; fleshy （尤指动物、 人、 身体的局部）肥胖的, 丰满的: a plump baby, chicken, face 胖乎乎的婴儿、 肥肥的小鸡、 圆圆的脸蛋 * a baby with plump cheeks 双颊胖乎乎的婴儿. (b) (euph 婉) overweight; fat 过胖的: You're getting a bit plump  you need to diet! 你有点发胖了--得节食了! =>Usage at fat1 用法见fat1.
+plump 
+v (phr v) plump (sth) out/up (cause sth to) become rounded （使某物）变圆, 变丰满: His cheeks are beginning to plump out/up. 他的脸颊胖起来了. * She plumped up the pillows. 她把枕头弄得鼓鼓的.
+plumpness 
+n [U].
+plump
+/ plQmp; plQmp/ v (phr v) plump (oneself/sb/sth) down (cause sb/sth to) fall or drop suddenly and heavily （使某人[某物]）突然而重重地落下: plump down the heavy bags 把重袋子一下子放下 * plump (oneself) down in a chair 一屁股坐到椅子上. plump for sb/sth choose or vote for sb/sth with confidence 有信心地选择或选举某人[某事物]: The committee plumped for the most experienced candidate. 委员会很有把握地选择了那个最有经验的候选人. * The children plumped for a holiday by the sea. 孩子们特别想去海边度假.
+plump 
+n (usu sing 通常作单数) (sound made by a) sudden heavy fall 突然沉重的坠落（的声音）: The book landed with a plump on the floor. 那书砰的一声掉在地板上.
+plump 
+adv with a plump 砰的一声: fall plump into the hole 砰的一声掉进洞里.
+plunder
+/ 5plQndE(r); `plQndL/ v  1 [I, Ipr, Tn, Tn.pr] ~ (sth) (from sth) steal (goods) from a place, esp during a time of war or civil disorder; pillage 掠夺或抢劫某地的（货物）（尤指战时或内乱时）: The conquerors advanced, killing and plundering as they went. 征服者一路上杀人越货无所不为. * The invaders plundered food and valuables from coastal towns and villages. 侵略者在沿海城乡抢劫食物和贵重物品.  2 [Tn, Tn.pr] ~ sth (of sth) steal goods from (a place), esp during a time of war, etc 掠夺或抢劫（某地）的货物（尤指战时等）: plunder a palace of its treasures 劫掠宫殿财宝 * Tourists have plundered all the archaeological sites. 游客简直是洗劫了考古场地. Cf 参看 loot, pillage.
+plunder 
+n [U]  1 (action of) plundering 掠夺; 抢劫: be guilty of plunder 犯抢劫罪 * goods obtained by plunder 掠夺的财物.  2 goods that have been plundered 抢夺物; 赃物: They loaded the carts with plunder. 他们把掠夺来的东西装进大车里.
+plunderer 
+/ 5plQndErE(r); `plQndErL/ n person who plunders 掠夺者; 抢劫者.
+plunge
+/ plQndV; plQndV/ v  1 [Ipr, Ip, Tn.pr, Tn.p] ~ (sth) into sth; ~ (sth) in (a) (cause sth to) fall into sth suddenly and with force （使某物）突然而猛力投入、 穿入、 进入等: plunge (one's hand) into cold water （把手）一下子伸进冷水中 * They plunged in, ie dived intothe water. 他们跳进了水中. * plunge a rod into a blockeddrain to clear it 用棍通下水道使之畅通. (b) (cause sth to) enter a specified state or condition （使某事物）进入或陷入某状态: The country (was) plunged into civil war after the death of the President. 总统死後全国陷入了内战. * The news plunged us into despair. 我们听到那消息後就陷入了绝望. * events which plunged the world into war 把世界推入战争的事件 * Their extravagant life-style plunged them into debt. 他们生活方式奢侈, 背上了很多债.  2 (a) [I, Ipr, Ip, Tn.pr, Tn.p] (cause sb/sth to) move suddenly forwards and/or downwards （使某人[某物]）突然前移或跌落: The horse plunged and she fell off. 马一个前失, 把她摔了下来. * Share prices plunged as a result of the gloomy economic forecast. 该项预测展望经济前景暗淡, 因而股票价格大跌. * The car plunged over the cliff. 汽车冲下了悬崖. * The sudden jolt plunged her forward. 突然颠了一下, 她向前打了个趔趄. (b) [I] (of a ship) move with the bows going violently up and down in the water （指船）剧烈颠簸.
+plunge 
+n  1 (a) [C esp sing 尤作单数] plunging movement, esp a steep fall （向前或向下的）冲, 投, 落; （尤指）骤降, 猛跌: a plunge into debt, chaos 背债、 陷入混乱. (b) [C] act of diving or bathing in water 跳水; 游泳: a plunge into the sea from the rocks 从岩石上跳入海中 * a refreshing plunge in the lake 在湖中游泳焕发精神.  2 (idm 习语) take the `plunge take a bold decisive step, esp after thinking about it for some time 采取大胆果断措施（尤指曾经一番考虑）: They have finally decided to take the plunge and get married. 他们最後毅然决定结婚.
+plunger 
+n  1 part of a mechanism that moves up and down 柱塞; 活塞.  2 (in plumbing) rubber cup fixed on a handle, used for clearing a blocked pipe by means of suction （疏通管道的）搋子.
+plunk
+= plonk1.
+pluperfect
+/ 9plu:5p\:fIkt; 9plu`p[fIkt/ adj (also past perfect) (grammar) (of the form of the verb phrase) expressing an action completed before a particular pointin the past （指动词词组形式）过去完成式的: a pluperfect(form of a) verb phrase 过去完成式动词词组.
+pluperfect 
+n (also past perfect) such a form (in English had and a past participle, as in `As he had not received my letter, he did not come') 过去完成式（在英语中had加过去分词, 如此处例句中的had加received）.
+plural
+/ 5plUErEl; `plJrEl/ n (grammar) form of a noun or verb which refers to more than one person or thing（名词的或动词的）复数, 复数形式: The plural of `child' is `children'. child的复数形式是children. * The verb should be in the plural, eg `have' in `they have'. 这个动词应用复数形式（如they have中的have）. Cf 参看 singular 1.
+plural 
+adj (grammar)  1 of or having this form 复数的; 有复数形式的: Most plural nouns in English end in `s'. 英语的复数名词多以s结尾.  2 of more than one 不止一个的: a plural society, ie one with more than one ethnic group 多元社会（由不止一个种族组成的）.
+pluralism
+/ 5plUErElIzEm; `plJrElIzm/ n [U]  1 (a) existence in one society of a number of groups that belong to different races or have different political or religious beliefs 多元性（一社会中有不同民族或有不同政治或宗教信仰的群体共同生活的状态）. (b) principle that these different groups can live together peacefully in one society 多元主义（一社会中多民族或有不同政治、 宗教信仰的人和平共处的原则）.  2 (usu derog 通常作贬义) holding of more than one office at one time, esp in the Church 兼任, 兼职（尤指神职）.
+pluralist 
+/ 5plUErElIst; `plJrElIst/ n supporter of pluralism (1b) 多元主义者. 
+pluralist (also pluralistic)
+/ 9plUErE5lIstIk; 9plJrE`lIstIk/ adj: a pluralist society 多元主义社会.
+plurality
+/ plUE5rAlEtI; plJ`rAlEtI/ n  1 [U] (grammar) state of being plural 复数; 复数形式.  2 [C] large number 大量; 多数: a plurality of influences, interests 极大的影响、 利益.  3 [C] (US politics 政) majority of less than 50%; relative majority （未超过半数的）多数; 相对多数. Cf 参看 majority 2.  4 (a) [U] = pluralism 2. (b) [C] office held jointly with another 兼任的职务.
+plus
+/ plQs; plQs/ prep (a) with the addition of 加; 加上: Two plus five is seven. 二加五等於七. * The bill was 10, plus 1 for postage. 帐款是10英镑, 再加上1英镑邮费. (b) (infml 口) as well as 和: We've got to fit five people plus all their luggage in the car. 我们得在汽车里挤下五个人和全部行李. Cf 参看 minus.
+plus 
+adj  1 more than the amount or number indicated 比所示数量多的: The work will cost 10000plus. 那作品可值10000英镑以上.  2 above zero; positive零上的; 正的: 5 is a plus quantity. 5是正数. * The temperature is plus four degrees. 温度零上四度.
+plus 
+n  1 the sign + 加号, 正号（+）: He seems to have mistaken a plus for a minus. 他似乎把正号误作负号了.=>App 4 见附录4.  2 (infml 口) positive quality; advantage正面因素; 好处: Her knowledge of French is a plus in her job. 她会法语, 这对她工作很有好处. Cf 参看 minus.
+plus-fours 
+n [pl] wide loose knickerbockers, worn esp by golfers : a pair of plus-fours 一条灯笼裤.
+plush
+/ plQF; plQF/ n [U] type of silk or cotton cloth with a surface like velvet （丝或棉的）长毛绒.
+plush 
+adj  1 (also plushy) (infml 口) luxuriously smart 豪华的; 漂亮的: a plush hotel, restaurant, etc 豪华的旅馆、 餐厅等.  2 made of plush 长毛绒的: plush curtains 长毛绒的帘子.
+plushy
+/ 5plQFI; `plQFI/ adj (-ier, -iest) (infml 口) = plush 1.
+plushiness 
+n [U].
+Pluto
+/ 5plu:tEU; `pluto/ n (astronomy 天) the planet ninth in order and furthest from the sun 冥王星.
+plutocracy
+/ plu:5tCkrEsI; plu`tBkrEsI/ n  1 (a) [U] government by a rich and powerful class 富豪统治; 财阀统治. (b) [C] state governed in this way 富豪或财阀统治的国家.  2 [CGp] group or class of rich and powerful people; wealthy elite 富豪阶级; 财阀阶级.
+plutocrat 
+/ 5plu:tEkrAt; `plutE9krAt/ n (often derog 常作贬义) person who is powerful because of his wealth 有钱有势的人.
+plutocratic 
+/ 9plu:tE5krAtIk; 9plutE`krAtIk/ adj (a) of plutocracy 富豪或财阀统治的国家或阶级的. (b) of or like a plutocrat （似）有钱有势的人的: plutocratic control of a media empire 财阀势力对传播媒介的控制.
+plutonium
+/ plu:5tEUnIEm; plu`tonIEm/ n [U] (chemistry 化) artificially produced radioactive metallic element, derived from uranium and used in nuclear reactors and nuclear weapons 金不. =>App 10 见附录10.
+ply
+/ plaI; plaI/ n [U] (esp in compounds 尤用以构成复合词)  1 layer of wood or thickness of cloth （木的）层; （布的）厚度: three-ply wood 三层胶合板.  2 strand of rope or yarn （绳或纱的）股: three-/four-ply knitting wool 三[四]股毛线.
+plywood 
+/ 5plaIwUd; `plaI9wJd/ n [U] board(s) made by gluing thin layers of wood on top of each other 胶合板: sheets of plywood 一张一张的胶合板 * [attrib 作定语] plywood furniture 胶合板家具.
+ply
+/ plaI; plaI/ v (pt, pp plied / plaId; plaId/)  1 [Tn] (fml 文) use or wield (a tool or weapon) 使用（工具或武器）: ply one's needle, ie work busily at one's sewing 忙於缝纫 * ply the oars, ie row a boat 划桨.  2 [I, Ipr, Tn] (of ships, buses, etc) go regularly to and fro along (a course) （指船、 公共汽车等）沿（某路线）定时运行: ply the routes between the islands 定期在两岛间航行 * ferries that ply between England and France 往返英法间的渡轮 * ships that ply (across) the South China Sea （经）南中国海的定期班轮.  3 (idm 习语) ply one's `trade work at a (skilled) job 从事某（熟练）工作. ply for `hire (of taxi drivers, boatmen, etc) wait in a place or move about, looking for passengers （计程车司机、 船夫等）候客, 揽客, 等生意: taxis licensed to ply for hire at the railway station 许可在火车站候客的计程车.  4 (phr v) ply sb with sth (a) (repeatedly) give or offer sb (food and drink) （反覆）给或让某人（食物或饮料）:She plied us with cakes. 她再三让我们吃蛋糕. (b) repeatedly ask sb (questions) 反覆问某人（问题）.
