@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/richard/Desktop/macOS/reciteVocabularyApp/&#x7b80;&#x80cc;.xcodeproj">
+      location = "group:EasyWords.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

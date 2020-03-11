@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1243F1E933F6B7BF8228E4A1 /* Pods_EasyWords.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 865E417A985C7F37BC486975 /* Pods_EasyWords.framework */; };
 		79340190240C26C300EB8004 /* 29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 793400FD240C26C300EB8004 /* 29.txt */; };
 		79340191240C26C300EB8004 /* 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 793400FE240C26C300EB8004 /* 15.txt */; };
 		79340192240C26C300EB8004 /* 114.txt in Resources */ = {isa = PBXBuildFile; fileRef = 793400FF240C26C300EB8004 /* 114.txt */; };
@@ -176,14 +177,12 @@
 		79A7D7C32407C3A4002BFBBF /* FlashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79A7D7C12407C3A4002BFBBF /* FlashViewController.xib */; };
 		79A9121C240EB0F2004DBDDF /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A9121B240EB0F2004DBDDF /* WelcomeViewController.swift */; };
 		79B77A832401B375000CB336 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B77A822401B375000CB336 /* Alert.swift */; };
-		79F82F64240D27A000D5BEAD /* cet4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 79F82F61240D27A000D5BEAD /* cet4.txt */; };
+		79F82F64240D27A000D5BEAD /* gre.txt in Resources */ = {isa = PBXBuildFile; fileRef = 79F82F61240D27A000D5BEAD /* gre.txt */; };
 		79F82F67240D2C9A00D5BEAD /* toefl.txt in Resources */ = {isa = PBXBuildFile; fileRef = 79F82F66240D2C9A00D5BEAD /* toefl.txt */; };
-		9BC8063B3094073B5ECBC7C0 /* Pods_reciteVocabularyApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50054455903446937225D783 /* Pods_reciteVocabularyApp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2DFA4805A92D3185DDB9F9C1 /* Pods-reciteVocabularyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reciteVocabularyApp.debug.xcconfig"; path = "Target Support Files/Pods-reciteVocabularyApp/Pods-reciteVocabularyApp.debug.xcconfig"; sourceTree = "<group>"; };
-		50054455903446937225D783 /* Pods_reciteVocabularyApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_reciteVocabularyApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		45016944E212936230C3CC7D /* Pods-EasyWords.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EasyWords.debug.xcconfig"; path = "Target Support Files/Pods-EasyWords/Pods-EasyWords.debug.xcconfig"; sourceTree = "<group>"; };
 		793400FD240C26C300EB8004 /* 29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 29.txt; sourceTree = "<group>"; };
 		793400FE240C26C300EB8004 /* 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 15.txt; sourceTree = "<group>"; };
 		793400FF240C26C300EB8004 /* 114.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 114.txt; sourceTree = "<group>"; };
@@ -332,7 +331,7 @@
 		7934018E240C26C300EB8004 /* 24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 24.txt; sourceTree = "<group>"; };
 		7934018F240C26C300EB8004 /* 30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 30.txt; sourceTree = "<group>"; };
 		793F54A9240E7A40004D366E /* Const.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Const.swift; sourceTree = "<group>"; };
-		7941C0992400FB670020CF03 /* 简背.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "简背.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7941C0992400FB670020CF03 /* EasyWords.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyWords.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7941C09C2400FB670020CF03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; usesTabs = 0; };
 		7941C09E2400FB670020CF03 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7941C0A02400FB690020CF03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -356,9 +355,10 @@
 		79A7D7C12407C3A4002BFBBF /* FlashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlashViewController.xib; sourceTree = "<group>"; };
 		79A9121B240EB0F2004DBDDF /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		79B77A822401B375000CB336 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
-		79F82F61240D27A000D5BEAD /* cet4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cet4.txt; sourceTree = "<group>"; };
+		79F82F61240D27A000D5BEAD /* gre.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gre.txt; sourceTree = "<group>"; };
 		79F82F66240D2C9A00D5BEAD /* toefl.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = toefl.txt; sourceTree = "<group>"; };
-		9134E0C0FD8F47F9DB088887 /* Pods-reciteVocabularyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reciteVocabularyApp.release.xcconfig"; path = "Target Support Files/Pods-reciteVocabularyApp/Pods-reciteVocabularyApp.release.xcconfig"; sourceTree = "<group>"; };
+		865E417A985C7F37BC486975 /* Pods_EasyWords.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EasyWords.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5699E61721B5D123FDF7477 /* Pods-EasyWords.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EasyWords.release.xcconfig"; path = "Target Support Files/Pods-EasyWords/Pods-EasyWords.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -366,21 +366,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BC8063B3094073B5ECBC7C0 /* Pods_reciteVocabularyApp.framework in Frameworks */,
+				1243F1E933F6B7BF8228E4A1 /* Pods_EasyWords.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		76467CCED183F3130D921F5C /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				50054455903446937225D783 /* Pods_reciteVocabularyApp.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		793400FC240C26C300EB8004 /* Dictionary */ = {
 			isa = PBXGroup;
 			children = (
@@ -540,15 +532,15 @@
 			children = (
 				7941C09B2400FB670020CF03 /* reciteVocabularyApp */,
 				7941C09A2400FB670020CF03 /* Products */,
-				CE9D67EF16EBBD1472C1076A /* Pods */,
-				76467CCED183F3130D921F5C /* Frameworks */,
+				D557DE2A960EE49D9BEF1A5F /* Pods */,
+				CB1ECF8BF07BBD2B8CA93E25 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		7941C09A2400FB670020CF03 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7941C0992400FB670020CF03 /* 简背.app */,
+				7941C0992400FB670020CF03 /* EasyWords.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -593,7 +585,7 @@
 			children = (
 				7941C0A02400FB690020CF03 /* Assets.xcassets */,
 				79F82F66240D2C9A00D5BEAD /* toefl.txt */,
-				79F82F61240D27A000D5BEAD /* cet4.txt */,
+				79F82F61240D27A000D5BEAD /* gre.txt */,
 				793400FC240C26C300EB8004 /* Dictionary */,
 			);
 			path = Resources;
@@ -611,11 +603,19 @@
 			path = xib;
 			sourceTree = "<group>";
 		};
-		CE9D67EF16EBBD1472C1076A /* Pods */ = {
+		CB1ECF8BF07BBD2B8CA93E25 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2DFA4805A92D3185DDB9F9C1 /* Pods-reciteVocabularyApp.debug.xcconfig */,
-				9134E0C0FD8F47F9DB088887 /* Pods-reciteVocabularyApp.release.xcconfig */,
+				865E417A985C7F37BC486975 /* Pods_EasyWords.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D557DE2A960EE49D9BEF1A5F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				45016944E212936230C3CC7D /* Pods-EasyWords.debug.xcconfig */,
+				D5699E61721B5D123FDF7477 /* Pods-EasyWords.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -623,9 +623,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7941C0982400FB670020CF03 /* 简背 */ = {
+		7941C0982400FB670020CF03 /* EasyWords */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7941C0A92400FB690020CF03 /* Build configuration list for PBXNativeTarget "简背" */;
+			buildConfigurationList = 7941C0A92400FB690020CF03 /* Build configuration list for PBXNativeTarget "EasyWords" */;
 			buildPhases = (
 				2968BE511C9EE0B9B228EDE5 /* [CP] Check Pods Manifest.lock */,
 				7941C0952400FB670020CF03 /* Sources */,
@@ -637,9 +637,9 @@
 			);
 			dependencies = (
 			);
-			name = "简背";
+			name = EasyWords;
 			productName = reciteVocabularyApp;
-			productReference = 7941C0992400FB670020CF03 /* 简背.app */;
+			productReference = 7941C0992400FB670020CF03 /* EasyWords.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -657,7 +657,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7941C0942400FB670020CF03 /* Build configuration list for PBXProject "简背" */;
+			buildConfigurationList = 7941C0942400FB670020CF03 /* Build configuration list for PBXProject "EasyWords" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -670,7 +670,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7941C0982400FB670020CF03 /* 简背 */,
+				7941C0982400FB670020CF03 /* EasyWords */,
 			);
 		};
 /* End PBXProject section */
@@ -733,7 +733,7 @@
 				793401AA240C26C300EB8004 /* 105.txt in Resources */,
 				79340196240C26C300EB8004 /* 101.txt in Resources */,
 				793401B1240C26C300EB8004 /* 62.txt in Resources */,
-				79F82F64240D27A000D5BEAD /* cet4.txt in Resources */,
+				79F82F64240D27A000D5BEAD /* gre.txt in Resources */,
 				793401E5240C26C300EB8004 /* 51.txt in Resources */,
 				793401C3240C26C300EB8004 /* 67.txt in Resources */,
 				793401AC240C26C300EB8004 /* 110.txt in Resources */,
@@ -854,7 +854,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-reciteVocabularyApp-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-EasyWords-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -867,15 +867,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-reciteVocabularyApp/Pods-reciteVocabularyApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-EasyWords/Pods-EasyWords-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-reciteVocabularyApp/Pods-reciteVocabularyApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-EasyWords/Pods-EasyWords-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-reciteVocabularyApp/Pods-reciteVocabularyApp-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EasyWords/Pods-EasyWords-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1035,7 +1035,7 @@
 		};
 		7941C0AA2400FB690020CF03 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2DFA4805A92D3185DDB9F9C1 /* Pods-reciteVocabularyApp.debug.xcconfig */;
+			baseConfigurationReference = 45016944E212936230C3CC7D /* Pods-EasyWords.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ALLOW_ENTITLEMENTS_MODIFICATION = YES;
@@ -1043,6 +1043,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = RGZATX49X6;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = reciteVocabularyApp/Info.plist;
@@ -1050,7 +1051,8 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.2;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.itxu.reciteVocabularyApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1060,7 +1062,7 @@
 		};
 		7941C0AB2400FB690020CF03 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9134E0C0FD8F47F9DB088887 /* Pods-reciteVocabularyApp.release.xcconfig */;
+			baseConfigurationReference = D5699E61721B5D123FDF7477 /* Pods-EasyWords.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ALLOW_ENTITLEMENTS_MODIFICATION = YES;
@@ -1068,6 +1070,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = RGZATX49X6;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = reciteVocabularyApp/Info.plist;
@@ -1075,7 +1078,8 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.2;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.itxu.reciteVocabularyApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1086,7 +1090,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7941C0942400FB670020CF03 /* Build configuration list for PBXProject "简背" */ = {
+		7941C0942400FB670020CF03 /* Build configuration list for PBXProject "EasyWords" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7941C0A72400FB690020CF03 /* Debug */,
@@ -1095,7 +1099,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7941C0A92400FB690020CF03 /* Build configuration list for PBXNativeTarget "简背" */ = {
+		7941C0A92400FB690020CF03 /* Build configuration list for PBXNativeTarget "EasyWords" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7941C0AA2400FB690020CF03 /* Debug */,

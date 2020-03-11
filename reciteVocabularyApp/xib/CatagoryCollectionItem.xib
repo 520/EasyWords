@@ -5,11 +5,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
-        <customObject id="-2" userLabel="File's Owner" customClass="CatagoryCollectionItem" customModule="简背" customModuleProvider="target">
+        <customObject id="-2" userLabel="File's Owner" customClass="CatagoryCollectionItem" customModule="EasyWords" customModuleProvider="target">
             <connections>
                 <outlet property="button" destination="wU8-2j-fGa" id="bFq-nn-omc"/>
                 <outlet property="label" destination="JFm-NX-RV8" id="OV7-Br-3hO"/>
-                <outlet property="sizeLabel" destination="y1E-bU-dC3" id="UYY-zo-ezj"/>
                 <outlet property="view" destination="Hz6-mo-xeY" id="0bl-1N-x8E"/>
             </connections>
         </customObject>
@@ -19,6 +18,14 @@
             <rect key="frame" x="0.0" y="0.0" width="111" height="113"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
             <subviews>
+                <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="JFm-NX-RV8">
+                    <rect key="frame" x="18" y="55" width="75" height="30"/>
+                    <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="SAT" id="8wF-uG-urQ">
+                        <font key="font" metaFont="systemUltraLight" size="26"/>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
                 <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="wU8-2j-fGa">
                     <rect key="frame" x="20" y="19" width="71" height="17"/>
                     <buttonCell key="cell" type="inline" title="Install" bezelStyle="inline" image="buttonCell:Rem-zZ-B6b:image" imagePosition="overlaps" alignment="center" state="on" borderStyle="border" inset="2" id="Rem-zZ-B6b">
@@ -29,31 +36,14 @@
                         <action selector="buttonAction:" target="-2" id="nes-3j-BR8"/>
                     </connections>
                 </button>
-                <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="JFm-NX-RV8">
-                    <rect key="frame" x="18" y="63" width="75" height="30"/>
-                    <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="SAT" id="8wF-uG-urQ">
-                        <font key="font" metaFont="systemUltraLight" size="26"/>
-                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
-                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
-                    </textFieldCell>
-                </textField>
-                <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="y1E-bU-dC3">
-                    <rect key="frame" x="25" y="41" width="61" height="14"/>
-                    <autoresizingMask key="autoresizingMask"/>
-                    <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="24KB" id="W16-rR-22F">
-                        <font key="font" metaFont="systemUltraLight" size="11"/>
-                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
-                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
-                    </textFieldCell>
-                </textField>
             </subviews>
             <constraints>
                 <constraint firstAttribute="trailing" secondItem="JFm-NX-RV8" secondAttribute="trailing" constant="20" symbolic="YES" id="RQq-O6-pVt"/>
                 <constraint firstItem="wU8-2j-fGa" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="20" id="bBo-j9-cCQ"/>
                 <constraint firstAttribute="trailing" secondItem="wU8-2j-fGa" secondAttribute="trailing" constant="20" id="jCk-O8-iGs"/>
                 <constraint firstItem="JFm-NX-RV8" firstAttribute="leading" secondItem="Hz6-mo-xeY" secondAttribute="leading" constant="20" symbolic="YES" id="jh4-qx-QhX"/>
-                <constraint firstItem="wU8-2j-fGa" firstAttribute="top" secondItem="JFm-NX-RV8" secondAttribute="bottom" constant="27" id="v2Z-od-4QT"/>
-                <constraint firstItem="JFm-NX-RV8" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" constant="20" id="xba-z0-SgQ"/>
+                <constraint firstItem="wU8-2j-fGa" firstAttribute="top" secondItem="JFm-NX-RV8" secondAttribute="bottom" constant="19" id="v2Z-od-4QT"/>
+                <constraint firstItem="JFm-NX-RV8" firstAttribute="top" secondItem="Hz6-mo-xeY" secondAttribute="top" constant="28" id="xba-z0-SgQ"/>
                 <constraint firstAttribute="bottom" secondItem="wU8-2j-fGa" secondAttribute="bottom" constant="20" id="zkB-BI-t28"/>
             </constraints>
             <point key="canvasLocation" x="-50.5" y="86.5"/>

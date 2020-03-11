@@ -477,9 +477,25 @@ class DB: NSObject {
     }
     
     /********6.根据条件查找数据*********************/
+    func countRow(table: String) -> Int {
+        var count = 0
+        db1.inTransaction { db, rollback in
+            let sql = "select count(*) from \(table)"
+            do {
+                let set = try db.executeQuery(sql, values: nil)
+                if set.next() {
+                    count = Int(set.int(forColumnIndex: 0))
+                }
+            }catch{}
+        }
+        return count
+    }
+    
+    
+    
     func fetchAllData(table: String, dhkey:String) ->([String]){
         var tempArray = [String]()
-        db1.inTransaction { (db, rollback) in
+        db1.inTransaction { db, rollback in
         
         let fetchSql = "select * from \(table) where dhkey = ?"
         //用于符合条件数据的临时数组

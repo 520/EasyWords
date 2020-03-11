@@ -31,14 +31,14 @@ class CatagoryViewController: NSViewController {
         
         let c = UserDefaults.standard.object(forKey: userDefualtsCatagory) as! String
         
-        var item1: [String: Any] = ["title" : "TOEFL", "button" : "Install", "size":"88KB", "tag" : 0]
-        var item2: [String: Any] = ["title" : "CET", "button" : "Install", "size":"258KB", "tag" : 1]
+        var item1: [String: Any] = ["title" : "TOEFL", "button" : "Change", "tag" : 0]
+        var item2: [String: Any] = ["title" : "GRE", "button" : "Change", "tag" : 1]
         
         switch c {
         case toefl:
             item1["button"] = "Using"
             item2["button"] = "Change"
-        case cet4:
+        case gre:
             item1["button"] = "Change"
             item2["button"] = "Using"
         default:
@@ -76,8 +76,8 @@ extension CatagoryViewController: NSCollectionViewDelegate, NSCollectionViewData
                 }
             case 1:
                  item.button.stringValue = "Using"
-                if !DB.share.isEmpty(table: cet4) {
-                    UserDefaults.standard.set(cet4, forKey: userDefualtsCatagory)
+                if !DB.share.isEmpty(table: gre) {
+                    UserDefaults.standard.set(gre, forKey: userDefualtsCatagory)
                     self.updateData()
                 }
             default:

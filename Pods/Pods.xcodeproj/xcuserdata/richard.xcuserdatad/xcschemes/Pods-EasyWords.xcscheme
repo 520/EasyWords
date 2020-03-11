@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3B25034CE8CE1FAE8CD13DE17396A230"
-               BuildableName = "Pods_reciteVocabularyApp.framework"
-               BlueprintName = "Pods-reciteVocabularyApp"
+               BlueprintIdentifier = "2710A34961423E4F500F810A8A67C93B"
+               BuildableName = "Pods_EasyWords.framework"
+               BlueprintName = "Pods-EasyWords"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

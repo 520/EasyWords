@@ -37,9 +37,6 @@ class CatagoryCollectionItem: NSCollectionViewItem {
                 if let button = data["button"] as? String {
                     self.button.title = button
                 }
-                if let size = (data["size"] as? String) {
-                    self.sizeLabel.stringValue = size
-                }
                 if let tag = (data["tag"] as? Int) {
                     self.button.tag = tag
                 }

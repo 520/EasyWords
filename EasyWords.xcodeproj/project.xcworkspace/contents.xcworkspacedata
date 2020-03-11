@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:reciteVocabularyApp.xcodeproj">
+      location = "self:/Users/richard/Documents/GitHub/EasyWords/EasyWords.xcodeproj">
    </FileRef>
 </Workspace>

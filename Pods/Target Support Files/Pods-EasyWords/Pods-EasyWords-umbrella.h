@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_reciteVocabularyAppVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_reciteVocabularyAppVersionString[];
+FOUNDATION_EXPORT double Pods_EasyWordsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_EasyWordsVersionString[];
 

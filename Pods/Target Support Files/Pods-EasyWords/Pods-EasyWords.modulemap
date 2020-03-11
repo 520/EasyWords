@@ -1,0 +1,6 @@
+framework module Pods_EasyWords {
+  umbrella header "Pods-EasyWords-umbrella.h"
+
+  export *
+  module * { export * }
+}

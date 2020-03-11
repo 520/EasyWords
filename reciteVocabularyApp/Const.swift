@@ -9,11 +9,8 @@
 let userDefaultsChinese = "userdefaultsChinese"
 let userDefaultsEnglish = "userdefaultsEnglish"
 let userDefualtsCatagory = "userdefualtsCatagory"
-let userDefaultsCetDone = "userDefaultsCetDone"
-let userDefaultsToeflDone = "userDefaultsToeflDone"
-let userDefaultsOxfordDone = "userDefaultsOxfordDone"
 
-let cet4 = "cet4"
+let gre = "gre"
 let toefl = "toefl"
 let oxford = "oxford"
 

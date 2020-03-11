@@ -31,10 +31,33 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
 //        let domain = Bundle.main.bundleIdentifier!
 //        UserDefaults.standard.removePersistentDomain(forName: domain)
-//
-//        DB.share.drop(table: toefl)
-//        DB.share.drop(table: cet4)
 //        DB.share.drop(table: oxford)
+//        DB.share.drop(table: toefl)
+//        DB.share.drop(table: gre)
+        
+        // 44716
+        if DB.share.countRow(table: oxford) < 44716 {
+            DB.share.drop(table: oxford)
+            DispatchQueue.global().async {
+                self.loadOxford()
+            }
+        }
+        
+        //2511
+        if DB.share.countRow(table: toefl) < 2511 {
+            DB.share.drop(table: toefl)
+            DispatchQueue.global().async {
+                self.loadData(toefl)
+            }
+        }
+        
+        // 7512
+        if DB.share.countRow(table: gre) < 7512 {
+            DB.share.drop(table: gre)
+            DispatchQueue.global().async {
+                self.loadData(gre)
+            }
+        }
         
         
         let sb = NSStoryboard(name: NSStoryboard.Name(rawValue: "Main"), bundle: nil)
@@ -54,6 +77,47 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             
     }
     
+    func loadData(_ t: String) {
+        UserDefaults.standard.set(t, forKey: userDefualtsCatagory)
+        DB.share.create(table: t)
+        let a = getRows(table: t)
+        for b in a! {
+            DB.share.insertDataWith(table: t, dhvalue: b.english, dhkey: b.chinese)
+        }
+    }
+    
+    func loadOxford() {
+        DB.share.create(table: oxford)
+            //var count = 0
+        for i in 1...147 {
+                
+            let a = getRows(table: "\(i)")
+            for b in a! {
+                DB.share.insertDataWith(table: oxford, dhvalue: b.english, dhkey: b.chinese)
+            }
+        }
+    }
+    
+    func getRows(table: String) -> [(chinese: String, english: String)]? {
+        var result = [(chinese: String, english: String)]()
+        var temp = (chinese: "", english: "")
+        let bundle = Bundle.main.url(forResource: table, withExtension: "txt")!
+        //let url = NSURL(fileURLWithPath: urlStr)
+        guard let string = try? NSString.init(contentsOf: bundle, encoding: String.Encoding.utf8.rawValue) else { return nil }
+        let a = (string as String).removeEmptyLine
+        let b = a.split(separator: "\n")
+        for (index, value) in b.enumerated() {
+            if index % 2 == 0 {
+                if temp.chinese != "" {
+                    result.append(temp)
+                }
+                temp.english = String(value)
+            }else{
+                temp.chinese = String(value)
+            }
+        }
+        return result
+    }
 
     func reopen() {
         if mainAppWVC!.isWindowLoaded {

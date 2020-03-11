@@ -15,14 +15,11 @@ class WelcomeViewController: NSViewController {
     @IBOutlet weak var button: NSButton!
     @IBOutlet weak var wordLabel: NSTextField!
     @IBOutlet weak var explanationLabel: NSTextField!
-    
+    let main = gre
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        DispatchQueue.global().async {
-            self.loadData([toefl,cet4])
-        }
         
         self.wordLabel.alphaValue = 0
         self.button.alphaValue = 0
@@ -63,6 +60,7 @@ class WelcomeViewController: NSViewController {
         for d in data {
             chinese.append(d.chinese)
             english.append(d.english)
+            print(d.english)
         }
             
         UserDefaults.standard.set(english, forKey: userDefaultsEnglish)
@@ -70,68 +68,9 @@ class WelcomeViewController: NSViewController {
     }
     
     
-    func loadData(_ table: [String]) {
-        
-        UserDefaults.standard.set(table[0], forKey: userDefualtsCatagory)
-        
-        
-        for t in table {
-        if DB.share.isEmpty(table: t) {
-            DB.share.create(table: t)
-            let a = getRows(table: t)
-            for b in a! {
-                DB.share.insertDataWith(table: t, dhvalue: b.english, dhkey: b.chinese)
-            }
-                
-            storeData(table: table[0])
-            print("cet loaded")
-        }
-        }
-        
-        if DB.share.isEmpty(table: oxford) {
-            DB.share.create(table: oxford)
-            //var count = 0
-            for i in 1...147 {
-                
-                let a = getRows(table: "\(i)")
-                for b in a! {
-                    DB.share.insertDataWith(table: oxford, dhvalue: b.english, dhkey: b.chinese)
-                }
-                print(i)
-            }
-            UserDefaults.standard.set(true, forKey: userDefaultsOxfordDone)
-        }
-        
-        DispatchQueue.main.async {
-            self.button.isHidden = false
-            self.wordLabel.stringValue = "Welcome"
-            self.explanationLabel.stringValue = "n. 欢迎"
-        }
-        
-    }
-    
-    func getRows(table: String) -> [(chinese: String, english: String)]? {
-        var result = [(chinese: String, english: String)]()
-        var temp = (chinese: "", english: "")
-        let bundle = Bundle.main.url(forResource: table, withExtension: "txt")!
-        //let url = NSURL(fileURLWithPath: urlStr)
-        guard let string = try? NSString.init(contentsOf: bundle, encoding: String.Encoding.utf8.rawValue) else { return nil }
-        let a = (string as String).removeEmptyLine
-        let b = a.split(separator: "\n")
-        for (index, value) in b.enumerated() {
-            if index % 2 == 0 {
-                if temp.chinese != "" {
-                    result.append(temp)
-                }
-                temp.english = String(value)
-            }else{
-                temp.chinese = String(value)
-            }
-        }
-        return result
-    }
     
     @IBAction func startAction(_ sender: Any) {
+        self.storeData(table: self.main)
         self.view.window?.close()
         let sb = NSStoryboard(name: NSStoryboard.Name(rawValue: "Main"), bundle: nil)
         mainAppWVC = sb.instantiateController(withIdentifier: NSStoryboard.SceneIdentifier(rawValue: "MainAppWVC")) as? NSWindowController
