@@ -6,23 +6,21 @@ EasyWords for Mac
 ## 中文
 
 ### 欢迎
-------------------
 1.具有MIT许可证的开源。 世界上每个人都欢迎拉，推和合并代码。<br/>
 2.该项目将在应用商店中更新，您的名字将在下方和应用中列出。<br/>
 3.每个接受的合并将获得现金作为奖励。<br/>
 
-### 贡献者
 ------------------
+
+### 贡献者
 鸣谢Allen Wangb对图标的设计
 
 ## English
 
 ### Welcome
-------------------
 1. Open source with MIT License. Pulling, pushing and merging the code is welcome for everyone in the world. <br/>
 2. This project will be updated on app store and your name will be listed below and on the app.<br/>
 3. Every accepted merging will be given cash as reward.<br/>
-
-### Contributors
 ------------------
+### Contributors
 Thanks Allen Wang for icon design
