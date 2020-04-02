@@ -95,7 +95,7 @@ extension CatagoryViewController: NSCollectionViewDelegate, NSCollectionViewData
     }
     
     func collectionView(_ collectionView: NSCollectionView, didSelectItemsAt indexPaths: Set<IndexPath>) {
-        print(indexPaths)
+
     }
     
     

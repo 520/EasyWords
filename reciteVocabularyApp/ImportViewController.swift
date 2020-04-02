@@ -22,10 +22,10 @@ class ImportViewController: NSViewController, ImportDelegate {
     }
     
     @IBAction func importAction(_ sender: Any) {
-        print(self.urlStr)
+        
         if let urlStr = self.urlStr {
             let url = NSURL(fileURLWithPath: urlStr)
-            print(url)
+
             guard let string = try? NSString.init(contentsOf: url as URL, encoding: String.Encoding.utf8.rawValue)
                 else {
                     return

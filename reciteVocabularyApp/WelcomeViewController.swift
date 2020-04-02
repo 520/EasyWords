@@ -60,7 +60,7 @@ class WelcomeViewController: NSViewController {
         for d in data {
             chinese.append(d.chinese)
             english.append(d.english)
-            print(d.english)
+
         }
             
         UserDefaults.standard.set(english, forKey: userDefaultsEnglish)

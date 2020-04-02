@@ -26,7 +26,7 @@ class DB: NSObject {
         super.init()
         //设置数据库的路径;fmdb.sqlite是由自己随意命名
         let path = NSTemporaryDirectory().appending("library.db")
-        print(path)
+
         //构造管理数据库的对象
         //db = FMDatabase(path: path)
         db1 = FMDatabaseQueue(path: path)

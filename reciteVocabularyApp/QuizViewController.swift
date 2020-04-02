@@ -121,11 +121,10 @@ class QuizViewController: NSViewController {
         textField.title = english[sequence[i]]
 
         let table = UserDefaults.standard.object(forKey: userDefualtsCatagory)
-        print(table)
+
         var a = DB.share.fetchThreeData(table: table as! String)
         a.append(chinese[sequence[i]])
-        print(sequence)
-        print(sequence)
+
         a = shuffleArray(arr: a)
         a = shuffleArray(arr: a)
         buttonA.title = a[0]

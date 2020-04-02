@@ -39,7 +39,7 @@ class WindowController: NSWindowController, NSWindowDelegate {
     }
     
     @IBAction func quizAction(_ sender: Any) {
-        print("2")
+
     }
     
     @IBOutlet weak var toolBar: NSToolbar!

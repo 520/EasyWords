@@ -22,7 +22,7 @@ struct Alert {
         alert.alertStyle = .informational
         alert.beginSheetModal(for: window, completionHandler: { returnCode in
             //当有多个按钮是 可以通过returnCode区分判断
-            print("returnCode :\(returnCode)")
+
         })
     }
 }
