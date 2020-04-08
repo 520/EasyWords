@@ -1,11 +1,3 @@
-//
-//  QuizViewController.swift
-//  reciteVocabularyApp
-//
-//  Created by Richard Chui on 2020/2/26.
-//  Copyright © 2020 Richard Technology (Shezhen)  Co., Ltd. All rights reserved.
-//
-
 import Cocoa
 
 let notificationQuiz = Notification.Name(rawValue: "notificationQuiz")

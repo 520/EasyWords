@@ -1,11 +1,3 @@
-//
-//  SearchViewController.swift
-//  reciteVocabularyApp
-//
-//  Created by Richard Chui on 2020/2/25.
-//  Copyright © 2020 Richard Technology (Shezhen)  Co., Ltd. All rights reserved.
-//
-
 import Cocoa
 
 class SearchViewController: NSViewController {

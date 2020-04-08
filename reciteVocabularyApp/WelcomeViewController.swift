@@ -1,11 +1,3 @@
-//
-//  WelcomeViewController.swift
-//  简背
-//
-//  Created by Richard Chui on 2020/3/3.
-//  Copyright © 2020 Richard Technology (Shezhen)  Co., Ltd. All rights reserved.
-//
-
 import Cocoa
 
 class WelcomeViewController: NSViewController {
